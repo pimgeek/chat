@@ -1,176 +1,199 @@
 npcs:
-  - id: jwen
-    name: 姜文
-    avatar: http://img.teamkn.com/i/XDaWu67e.png@100w_100h_1e_1c.png
+  - id: ma
+    name: 小马老师
+    avatar: http://img.teamkn.com/i/uK49MJ9E.png@100w_100h_1e_1c.png
 
-  - id: jwu
-    name: 姜武
-    avatar: http://img.teamkn.com/i/vt5AvWuT.png@100w_100h_1e_1c.png
+  - id: qu
+    name: 问号同学
+    avatar: http://img.teamkn.com/i/D01dg9Lj.png@100w_100h_1e_1c.png
 
 scripts:
-  # 开场白，姜文，姜武分别登场
-  - npc: jwen
+  # 开场白，小马老师，问号同学分别登场
+  - npc: ma
     sentences:
-    - image: http://img.teamkn.com/i/InsXtIC0.png@150w.png
+    - image: http://img.teamkn.com/i/CbsYPCAH.png@300w.png
       delay: 800
     - text: 　
       delay: 0
-    - text: 这是新的 iPhone 6。
-      delay: 400
+    - text: 今天要向大家介绍的是：【Google 搜索引擎基本用法入门】。
+      delay: 800
 
-  - npc: jwu
+  - npc: qu
     sentences:
-    - image: http://img.teamkn.com/i/xLUOcDQV.png@200w.png
+    - text: 听起来很陌生诶
       delay: 600
-    - text: 　
-      delay: 0
-    - text: 这是新的 iPhone 6 Plus。
+      linebreak: false
+    - text: 。
+      linebreak: false
+      delay: 500
+    - text: 。
+      linebreak: false
+      delay: 500
+    - text: 。
+      delay: 300
+    - text: 想知道这个“引擎”究竟长什么样子？
     clear: false
 
-  # 强调尺寸变大
-  - npc: jwen
+  # 让问号同学迅速获得感性认识
+  - npc: ma
     sentences:
-    - text: 它们是有史以来最大的 iPhone。
-      delay: 0
-    - text: 　
+    - text: 好问题~　
       delay: 600
-    - image: http://img.teamkn.com/i/k171XJ3C.png@300w.png
-      delay: 800
-
-  - npc: jwu
-    sentences:
-    - text: 可以说——
       linebreak: false
-      delay: 400
-    - text: 巨大~
-      style: 
-        font-size: 130%
-        font-weight: bold
-      linebreak: false
-    clear: false
-
-  # 欲扬先抑
-  - npc: jwen
-    sentences:
-    - text: 尺寸的变大只是开始。
-      delay: 0
-    - text: 　
-      delay: 500
-    - image: http://img.teamkn.com/i/fgJKamFA.png@300w.png
-      delay: 800
-  - npc: jwu
-    sentences:
-    - text: 怎么说也是大呀！
-    clear: false
-
-  # 介绍 Google Earth
-  - npc: jwen
-    sentences:
-    - text: 它们能让你看到不一样的世界！
-      delay: 0
-    - text: 　
-      delay: 500
-    - image: http://img.teamkn.com/i/ymM1Z3bM.png@300w.png
-      delay: 500
-  - npc: jwu
-    sentences:
-    - text: 那是大事儿。
-    clear: false
-
-  # 介绍 iFit
-  - npc: jwen
-    sentences:
-    - text: 还能为你的健康着想。
-      delay: 0
-    - text: 　
-      delay: 0
-    - image: http://img.teamkn.com/i/R1LrjxdJ.png@300w.png
-      delay: 500
-  - npc: jwu
-    sentences:
-    - text: 特大 
-      style:
-        font-size: 120%
-        font-weight: bold
-      linebreak: false
-      delay: 0
-    - text: 的事儿！　
-    　linebreak: false
-    clear: false
-
-  - npc: jwen
-    sentences:
-    - text: 它们比以前所有的 iPhone 都要好！
-      delay: 500
-  - npc: jwu
-    sentences:
-    - image: http://img.teamkn.com/i/RDeUjRFu.png@200w.png
-      linebreak: false
+    - text: 那么，让我们先试着【召唤搜索引擎】出来吧！
       delay: 800
     - text: 　
       delay: 0
-    - text: 大-
-      style:
-        font-size: 140%
-        font-weight: bold
-      linebreak: false
-      delay: 100
-    - text: 大-大-大-
-      linebreak: false
-      delay: 200
-    - text: 大-
-      style:
-        font-size: 110%
-        font-weight: bold
-      linebreak: false
-      delay: 200
-    - text: 大-大-大-大-
-      linebreak: false
-      delay: 100
-    - text: 大……　　
-      linebreak: false
-      style:
-        font-weight: bold
-      delay: 0
-    clear: false
-  - npc: jwen
-    sentences:
-    - text: 嘿！
-      linebreak: false
-      delay: 300
-    - text: 停-
-      linebreak: false
-      style:
-        font-weight: bold
-      delay: 300
-    - text: 停-
-      linebreak: false
-      style:
-        font-size: 120%
-        font-weight: bold
-      delay: 300
-    - text: 停！
-      delay: 200
-      linebreak: false
-      style:
-        font-size: 140%
-        font-weight: bold
-    - text: ——有这么说的吗？　
-      linebreak: false
-    clear: false
-
-  - npc:
-    sentences:
-    - image: http://img.teamkn.com/i/SUSX1xQ2.png@500w.png
-      delay: 0
-    - text: 　　
-      delay: 1000
-  - npc: jwu
-    sentences:
+    - text: 请在你的网页浏览器地址栏中输入这个网址：
+      delay: 800
+    - text: http://search.aol.co.uk
+      link: http://search.aol.co.uk 
+      delay: 800
     - text: 　
       delay: 0
-    - text: "大"
-      style:
-        font-size: 300%
-        font-weight: bold
+    - image: http://img.teamkn.com/i/hJPJfney.png@300w.png
+      delay: 800
+    - text: 　
+      delay: 0
+    - text: 然后按回车（Enter）键，稍等下
+      delay: 800
+    - text: 搜索引擎就出现在眼前了。
+      delay: 800
+    - text: 　
+      delay: 0
+    - image: http://img.teamkn.com/i/SPuY3N13.png@300w.png
+      delay: 800
+
+  - npc: qu
+    sentences:
+    - text: 好棒~　我要记住这个【召唤搜索引擎】的网址！
     clear: false
+
+  # 首先完成一项最简单的搜索任务
+  - npc: ma
+    sentences:
+    - text: 接下来，
+      delay: 600
+      linebreak: false
+    - text: 让我们对搜索引擎打声招呼，让它真的开动起来！
+      delay: 800
+    - text: 　
+      delay: 0
+    - image: http://img.teamkn.com/i/PjzoVDYY.png@500w.png
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 哈哈，真的开动起来了！
+    clear: false
+
+  # # 介绍 Google Earth
+  # - npc: ma
+  #   sentences:
+  #   - text: 它们能让你看到不一样的世界！
+  #     delay: 0
+  #   - text: 　
+  #     delay: 500
+  #   - image: http://img.teamkn.com/i/ymM1Z3bM.png@300w.png
+  #     delay: 500
+  # - npc: qu
+  #   sentences:
+  #   - text: 那是大事儿。
+  #   clear: false
+
+  # # 介绍 iFit
+  # - npc: ma
+  #   sentences:
+  #   - text: 还能为你的健康着想。
+  #     delay: 0
+  #   - text: 　
+  #     delay: 0
+  #   - image: http://img.teamkn.com/i/R1LrjxdJ.png@300w.png
+  #     delay: 500
+  # - npc: qu
+  #   sentences:
+  #   - text: 特大 
+  #     style:
+  #       font-size: 120%
+  #       font-weight: bold
+  #     linebreak: false
+  #     delay: 0
+  #   - text: 的事儿！　
+  #   　linebreak: false
+  #   clear: false
+
+  # - npc: ma
+  #   sentences:
+  #   - text: 它们比以前所有的 iPhone 都要好！
+  #     delay: 500
+  # - npc: qu
+  #   sentences:
+  #   - image: http://img.teamkn.com/i/RDeUjRFu.png@200w.png
+  #     linebreak: false
+  #     delay: 800
+  #   - text: 　
+  #     delay: 0
+  #   - text: 大-
+  #     style:
+  #       font-size: 140%
+  #       font-weight: bold
+  #     linebreak: false
+  #     delay: 100
+  #   - text: 大-大-大-
+  #     linebreak: false
+  #     delay: 200
+  #   - text: 大-
+  #     style:
+  #       font-size: 110%
+  #       font-weight: bold
+  #     linebreak: false
+  #     delay: 200
+  #   - text: 大-大-大-大-
+  #     linebreak: false
+  #     delay: 100
+  #   - text: 大……　　
+  #     linebreak: false
+  #     style:
+  #       font-weight: bold
+  #     delay: 0
+  #   clear: false
+  # - npc: ma
+  #   sentences:
+  #   - text: 嘿！
+  #     linebreak: false
+  #     delay: 300
+  #   - text: 停-
+  #     linebreak: false
+  #     style:
+  #       font-weight: bold
+  #     delay: 300
+  #   - text: 停-
+  #     linebreak: false
+  #     style:
+  #       font-size: 120%
+  #       font-weight: bold
+  #     delay: 300
+  #   - text: 停！
+  #     delay: 200
+  #     linebreak: false
+  #     style:
+  #       font-size: 140%
+  #       font-weight: bold
+  #   - text: ——有这么说的吗？　
+  #     linebreak: false
+  #   clear: false
+
+  # - npc:
+  #   sentences:
+  #   - image: http://img.teamkn.com/i/SUSX1xQ2.png@500w.png
+  #     delay: 0
+  #   - text: 　　
+  #     delay: 1000
+  # - npc: qu
+  #   sentences:
+  #   - text: 　
+  #     delay: 0
+  #   - text: "大"
+  #     style:
+  #       font-size: 300%
+  #       font-weight: bold
+  #   clear: false
