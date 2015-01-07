@@ -2,7 +2,6 @@ npcs:
   - id: ma
     name: 小马老师
     avatar: http://img.teamkn.com/i/uK49MJ9E.png@100w_100h_1e_1c.png
-
   - id: qu
     name: 问号同学
     avatar: http://img.teamkn.com/i/D01dg9Lj.png@100w_100h_1e_1c.png
@@ -238,6 +237,9 @@ scripts:
       delay: 500
     - text: 那么只要在搜索框里写下
       speed: 20
+      style:
+        display: block
+        padding-bottom: 5%
       delay: 500
     - text: site:guokr.com
       speed: 20
@@ -249,6 +251,9 @@ scripts:
       delay: 500
     - text: 再按下搜索按钮就可以了。
       speed: 20
+      style:
+        display: block
+        padding-top: 5%
       delay: 800
     - text: 下面，让我们来看看实际搜索的效果吧！
       speed: 20
