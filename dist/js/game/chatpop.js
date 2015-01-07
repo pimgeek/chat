@@ -40,9 +40,9 @@
         $text.css(config.style);
       }
       if (config.linebreak === true) {
-        return $text.typing_string(string, callback);
+        return $text.typing_string(string, config.speed, callback);
       } else {
-        return $text.typing_string_nobr(string, callback);
+        return $text.typing_string_nobr(string, config.speed, callback);
       }
     };
 
@@ -75,7 +75,8 @@
         this.text(sentence.text, textdone, {
           linebreak: sentence.linebreak,
           style: sentence.style,
-          link: sentence.link
+          link: sentence.link,
+          speed: sentence.speed
         });
       }
       return callback_holder;

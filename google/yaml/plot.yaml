@@ -11,190 +11,344 @@ scripts:
   # 开场白，小马老师，问号同学分别登场
   - npc: ma
     sentences:
-    - image: http://img.teamkn.com/i/CbsYPCAH.png@300w.png
+    - text: 今天要向大家介绍的是：【AOL 搜索引擎基本用法入门】。
+      speed: 20
+      style:
+        display: block
+        padding-bottom: 5%
+      delay: 600
+    - image: http://img.teamkn.com/i/qqehXKWT.png@220w.png
       delay: 800
-    - text: 　
-      delay: 0
-    - text: 今天要向大家介绍的是：【Google 搜索引擎基本用法入门】。
-      delay: 800
-
   - npc: qu
     sentences:
-    - text: 听起来很陌生诶
+    - text: 听起来有点陌生
+      speed: 20
       delay: 600
       linebreak: false
-    - text: 。
+    - text: …
+      speed: 20
       linebreak: false
       delay: 500
-    - text: 。
-      linebreak: false
+    - text: …　
+      speed: 20
       delay: 500
-    - text: 。
-      delay: 300
-    - text: 想知道这个“引擎”究竟长什么样子？
+    - text: “AOL 搜索引擎”是一种工具吗？在哪里可以找到它？
+      speed: 20
+      style:
+        display: block
+        padding-top: 5%
+    clear: false
+
+  # 马老师讲解 AOL 搜索引擎
+  - npc: ma
+    sentences:
+    - text: 这个问题很好~ 搜索引擎是一种在互联网上快速搜索资料的工具。
+      speed: 20
+      delay: 900
+    - text: 平时我们常听说的谷歌（Google），百度（Baidu）都是典型的例子。
+      speed: 20
+      delay: 900
+    - text: 而今天要介绍的 AOL 搜索引擎呢，可以把它理解为谷歌搜索的简易版。
+      speed: 20
+      delay: 900
+  - npc: qu
+    sentences:
+    - text: 哦我明白了~ 原来它跟人们常说的谷歌和百度是同一类工具啊。
+      speed: 20
+    clear: false
+  - npc: ma
+    sentences:
+    - text: 接下来就让我们把 AOL 搜索引擎“召唤”出来，一睹为快！
+      speed: 20
+      delay: 900
+      style:
+        display: block
+        padding-bottom: 5%
+  - npc: qu
+    sentences:
+    - text: 太好了~ 我正想看看 AOL 搜索引擎是什么样的！
+      speed: 20
     clear: false
 
   # 让问号同学迅速获得感性认识
   - npc: ma
     sentences:
-    - text: 好问题~　
-      delay: 600
-      linebreak: false
-    - text: 那么，让我们先试着【召唤搜索引擎】吧！
-      delay: 800
-    - text: 　
-      delay: 0
     - text: 请在你的网页浏览器地址栏中输入这个网址：
+      speed: 20
       delay: 800
     - text: http://search.aol.co.uk
-      link: http://search.aol.co.uk 
+      speed: 20
+      link: http://search.aol.co.uk
+      style:
+        line-height: 350%
       delay: 800
-    - text: 　
-      delay: 0
     - image: http://img.teamkn.com/i/hJPJfney.png@300w.png
       delay: 800
-    - text: 　
-      delay: 0
     - text: 然后按回车（Enter）键，稍等几秒钟……
+      speed: 20
+      style:
+        display: block
+        padding-top: 5%
+        padding-bottom: 5%
       delay: 800
-    - text: 搜索引擎就出现在眼前了。
-      delay: 800
-    - text: 　
-      delay: 0
     - image: http://img.teamkn.com/i/SPuY3N13.png@300w.png
       delay: 800
-
+    - text: AOL 搜索引擎就这样出现在眼前了。
+      speed: 20
+      style:
+        display: block
+        padding-top: 5%
   - npc: qu
     sentences:
-    - text: 好棒~　我要记住这个【召唤搜索引擎】的网址！
+    - text: 嗯我懂了~ 只要记住这个网址，就可以随时“召唤”搜索引擎！
+      speed: 20
+      delay: 800
+    clear: false
+  - npc: ma
+    sentences:
+    - text: 完全正确！
+      speed: 20
     clear: false
 
   # 首先完成一项最简单的搜索任务
   - npc: ma
     sentences:
     - text: 接下来，
+      speed: 20
       delay: 600
       linebreak: false
-    - text: 我们对搜索引擎打声招呼，让它开动起来！
+    - text: 我们对搜索引擎发出一个简单指令，把它的搜索功能开动起来！
+      speed: 20
       delay: 800
-    - text: 　
-      delay: 0
+      linebreak: false
     - image: http://img.teamkn.com/i/PjzoVDYY.png@500w.png
+      style:
+        padding-top: 5%
       delay: 800
   - npc: qu
     sentences:
-    - text: 开动起来了！出现了关于【余额宝】的资料~
+    - text: 看到了！搜索引擎给出了关于【余额宝】的许多项资料~
+      speed: 20
+    clear: false
+  # 然后复习这项最简单的搜索任务，加深印象
+  - npc: ma
+    sentences:
+    - text: 让我们换一个词语，再搜一次。（爸爸去哪儿）
+      speed: 20
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 这个电视节目很有爱，我喜欢！
+      speed: 20
     clear: false
 
+  - npc: ma
+    sentences:
+    - text: 通过搜姓名，请它调出历史人物的档案，比如……（老子，庄子等等）
+      speed: 20
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 屏幕的右侧出现了一张名片耶，看起来很有趣。
+      speed: 20
+    clear: false
 
-  # # 介绍 Google Earth
-  # - npc: ma
-  #   sentences:
-  #   - text: 它们能让你看到不一样的世界！
-  #     delay: 0
-  #   - text: 　
-  #     delay: 500
-  #   - image: http://img.teamkn.com/i/ymM1Z3bM.png@300w.png
-  #     delay: 500
-  # - npc: qu
-  #   sentences:
-  #   - text: 那是大事儿。
-  #   clear: false
+  - npc: ma
+    sentences:
+    - text: 然后，请它为我们做几道算术题吧。（1+2x3=?）
+      speed: 20
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 哦，直接这样写它就能认出来？
+      speed: 20
+      delay: 800
+    clear: false
+  - npc: ma
+    sentences:
+    - text: 是啊，它能做的题有很多种，可以从下面这个链接里看到：Find out more
+      speed: 20
+    clear: false
 
-  # # 介绍 iFit
-  # - npc: ma
-  #   sentences:
-  #   - text: 还能为你的健康着想。
-  #     delay: 0
-  #   - text: 　
-  #     delay: 0
-  #   - image: http://img.teamkn.com/i/R1LrjxdJ.png@300w.png
-  #     delay: 500
-  # - npc: qu
-  #   sentences:
-  #   - text: 特大 
-  #     style:
-  #       font-size: 120%
-  #       font-weight: bold
-  #     linebreak: false
-  #     delay: 0
-  #   - text: 的事儿！　
-  #   　linebreak: false
-  #   clear: false
+  - npc: ma
+    sentences:
+    - text: 我们还可以请它搜出一些流行的说法究竟出自那篇文章。
+      speed: 20
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 这个搜句子的功能，我感觉很实用啊————
+      speed: 20
+    - text: 没想到【大脑只开发了10%】这个说法并没有科学依据，我以前还深信不疑呢！
+      speed: 20
+      delay: 800
+    clear: false
+  - npc: ma
+    sentences:
+    - text: 总之，多做调查就更加接近事实哦，所以这个搜句子功能确实比较实用了 ^_^
+      speed: 20
+    clear: false
 
-  # - npc: ma
-  #   sentences:
-  #   - text: 它们比以前所有的 iPhone 都要好！
-  #     delay: 500
-  # - npc: qu
-  #   sentences:
-  #   - image: http://img.teamkn.com/i/RDeUjRFu.png@200w.png
-  #     linebreak: false
-  #     delay: 800
-  #   - text: 　
-  #     delay: 0
-  #   - text: 大-
-  #     style:
-  #       font-size: 140%
-  #       font-weight: bold
-  #     linebreak: false
-  #     delay: 100
-  #   - text: 大-大-大-
-  #     linebreak: false
-  #     delay: 200
-  #   - text: 大-
-  #     style:
-  #       font-size: 110%
-  #       font-weight: bold
-  #     linebreak: false
-  #     delay: 200
-  #   - text: 大-大-大-大-
-  #     linebreak: false
-  #     delay: 100
-  #   - text: 大……　　
-  #     linebreak: false
-  #     style:
-  #       font-weight: bold
-  #     delay: 0
-  #   clear: false
-  # - npc: ma
-  #   sentences:
-  #   - text: 嘿！
-  #     linebreak: false
-  #     delay: 300
-  #   - text: 停-
-  #     linebreak: false
-  #     style:
-  #       font-weight: bold
-  #     delay: 300
-  #   - text: 停-
-  #     linebreak: false
-  #     style:
-  #       font-size: 120%
-  #       font-weight: bold
-  #     delay: 300
-  #   - text: 停！
-  #     delay: 200
-  #     linebreak: false
-  #     style:
-  #       font-size: 140%
-  #       font-weight: bold
-  #   - text: ——有这么说的吗？　
-  #     linebreak: false
-  #   clear: false
+  - npc: ma
+    sentences:
+    - text: 搜索引擎的搜句子功能，如果不加限制，就是针对整个互联网来搜的。
+      speed: 20
+      delay: 800
+    - text: 可有些时候呢，我们对某个具体网站的内容特别感兴趣，这时候该怎么办呢？
+      speed: 20
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 我想想看…… 还可以告诉它只针对某个具体网站做搜索么？
+      speed: 20
+    clear: false
+  - npc: ma
+    sentences:
+    - text: 猜对了！举个例子：如果我们希望只针对 guokr.com 做搜索，
+      speed: 20
+      delay: 800
+    - text: 那么只要在搜索框里写下 site:guokr.com 再按下搜索按钮就可以了。
+      speed: 20
+      delay: 800
+    - text: 下面让我们来看一下实际的效果吧！
+      speed: 20
+      delay: 800
+    clear: false
+  - npc: qu
+    sentences:
+    - text: 哦，的确起作用啦！
+      speed: 20
+    clear: false
 
-  # - npc:
-  #   sentences:
-  #   - image: http://img.teamkn.com/i/SUSX1xQ2.png@500w.png
-  #     delay: 0
-  #   - text: 　　
-  #     delay: 1000
-  # - npc: qu
-  #   sentences:
-  #   - text: 　
-  #     delay: 0
-  #   - text: "大"
-  #     style:
-  #       font-size: 300%
-  #       font-weight: bold
-  #   clear: false
+  - npc: ma
+    sentences:
+    - text: 前面介绍了搜词/搜句子技巧，又介绍了针对特定网站做搜索的技巧；
+      speed: 20
+      delay: 800
+    - text: 下面要讲的是，这两项技巧，还可以配合使用哦。
+      speed: 20
+  - npc: qu
+    sentences:
+    - text: 配合使用…… 怎样才能做到呢？
+      speed: 20
+      delay: 800
+    clear: false
+  - npc: ma
+    sentences:
+    - text: 还是举个具体例子吧：如果我们希望限定在 guokr.com 网站中，
+      speed: 20
+      delay: 800
+    - text: 搜索含有“谣言”这两个字的文章，就在搜索框里写下
+      speed: 20
+      delay: 800
+    - text: 谣言 site:guokr.com
+      speed: 20
+      delay: 800
+    - text: 这一行内容，再按下搜索按钮就可以了。
+      speed: 20
+    clear: false
+
+  - npc: ma
+    sentences:
+    - text: 除了限定字词和特定网站，我们还可以限定文章的发布时间。
+      speed: 20
+      delay: 800
+    - text: 例如我们可以只查看发布在某两个具体年份之间的文章。
+      speed: 20
+      delay: 800
+    - text: 沿用上一节所讲的例子，如果我们在搜索框里写下
+      speed: 20
+      delay: 800
+    - text: 谣言 site:guokr.com 2013..2014 
+      speed: 20
+      delay: 800
+    - text: 这一行内容，再按下搜索键，就相当于限定在 guokr.com 网站中，搜索含有“谣言”二字的文章，
+      speed: 20
+      delay: 800
+    - text: 并且过滤掉发布日期在 2013 年之前或者 2014 年之后的文章。
+      speed: 20
+
+  - npc: ma
+    sentences:
+    - text: 利用这些搜索技巧的组合，我们可以达到比较复杂的搜索效果。
+      speed: 20
+      delay: 800
+    - text: 你可以猜一猜下面这一行搜索要求是希望达到什么效果？
+      speed: 20
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 好啊，我来试着猜一下~
+      speed: 20
+    clear: false
+  - npc: ma
+    sentences:
+    - text: 谣言 转基因 site:guokr.com 2013..2014
+      speed: 20
+      delay: 800
+    - text: 选项一，选项二
+      speed: 20
+      delay: 800
+    - text: 答对了！/ 很可惜，实际的效果并不是这样的。请看截图：
+      speed: 20
+    clear: false
+
+  - npc: ma
+    sentences:
+    - text: 可以用来操纵搜索引擎的使用技巧有很多，我们今天只讲最基础的几项。
+      speed: 20
+      delay: 800
+    - text: 上一节中我们知道可以同时搜索两个或更多的词语，来筛选出同时含有这些词语的文章。
+      speed: 20
+      delay: 800
+    - text: 那么，如果我们希望筛选出“不含有某个词语”的文章，该怎么做呢？
+      speed: 20
+      delay: 800
+    - text: 我们会使用 “减号限定”，例如下面这一行搜索要求就使用了减号限定：
+      speed: 20
+      delay: 800
+    - text: 谣言 转基因 -媒体 site:guokr.com 2013..2014
+      speed: 20
+      delay: 800
+    - text: 增加 “-媒体” 这项要求表示在原有搜索结果基础上，排除掉含有“媒体”这个词语的所有文章。
+      speed: 20
+      delay: 800
+
+  - npc: ma
+    sentences:
+    - text: 根据前面的讲解，在搜索文章时可使用 site:guokr.com 限定只在特定的网站中搜索。
+      speed: 20
+      delay: 800
+    - text: 在这里我再介绍一种限定技巧 filetype:扩展名，这里的扩展名可以是 pdf, docx, pptx 等等。
+      speed: 20
+      delay: 800
+    - text: 顾名思义，这种限定技巧可以用来筛选出“以某种特定扩展名结尾”的搜索结果。
+      speed: 20
+      delay: 800
+    - text: 举个例子，下面这一行搜索要求，使用了扩展名限定：
+      speed: 20
+      delay: 800
+    - text: filetype:pdf site:guokr.com
+      speed: 20
+
+  - npc: ma
+    sentences:
+    - text: 讲到这里，如果前面的搜索技巧都已经理解并亲自操作过一遍，就可以算入门了。
+      speed: 20
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 原来到这里就算入门了啊？我还想多学两招哪！
+      speed: 20
+    clear: false
+
+  - npc: ma
+    sentences:
+    - text: 没问题啊，早就猜到问号同学是不会满足于入门水平的！
+      speed: 20
+      delay: 800
+    - text: 那么，就请访问下面这个网址，以了解更多搜索技巧。
+      speed: 20
+      delay: 800
+    - text: http://s.4ye.me/qEDN38
+      speed: 20
