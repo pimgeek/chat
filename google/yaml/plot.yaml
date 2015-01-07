@@ -45,7 +45,7 @@ scripts:
     - text: 这个问题很好~ 搜索引擎是一种在互联网上快速搜索资料的工具。
       speed: 20
       delay: 900
-    - text: 平时我们常听说的谷歌（Google），百度（Baidu）都是典型的例子。
+    - text: 平时我们常听说的谷歌（Google），百度（Baidu）就是典型的搜索引擎。
       speed: 20
       delay: 900
     - text: 而今天要介绍的 AOL 搜索引擎呢，可以把它理解为谷歌搜索的简易版。
@@ -113,79 +113,102 @@ scripts:
   # 首先完成一项最简单的搜索任务
   - npc: ma
     sentences:
-    - text: 接下来，
+    - text: 接下来，我们对搜索引擎发出一个简单指令，把它的搜索功能开动起来！
       speed: 20
-      delay: 600
-      linebreak: false
-    - text: 我们对搜索引擎发出一个简单指令，把它的搜索功能开动起来！
-      speed: 20
+      style:
+        display: block
+        padding-bottom: 5%
       delay: 800
       linebreak: false
     - image: http://img.teamkn.com/i/PjzoVDYY.png@500w.png
-      style:
-        padding-top: 5%
       delay: 800
   - npc: qu
     sentences:
-    - text: 看到了！搜索引擎给出了关于【余额宝】的许多项资料~
+    - text: 看到了！搜索引擎给出了关于“余额宝”的许多项资料~
       speed: 20
     clear: false
+
   # 然后复习这项最简单的搜索任务，加深印象
   - npc: ma
     sentences:
-    - text: 让我们换一个词语，再搜一次。（爸爸去哪儿）
+    - text: 让我们换一个词语，再搜一次。
       speed: 20
+      style:
+        display: block
+        padding-bottom: 5%
+      delay: 800
+    - image: http://img.teamkn.com/i/lghzprM7.png@500w.png
       delay: 800
   - npc: qu
     sentences:
-    - text: 这个电视节目很有爱，我喜欢！
+    - text: 啊~ 《爸爸去哪儿》这个电视节目很有爱，我也喜欢看！
+      speed: 20
+      delay: 800
+      linebreak: false
+    - text: 以后，我就可以用搜索引擎去查找相关资料了！
       speed: 20
     clear: false
 
   - npc: ma
     sentences:
-    - text: 通过搜姓名，请它调出历史人物的档案，比如……（老子，庄子等等）
+    - text: 不光是查找流行的电视节目资料哦。通过搜索历史人物的姓名，我们还能调出他们的档案呢！
       speed: 20
+      style:
+        display: block
+        padding-bottom: 5%
+      delay: 800
+    - image: http://img.teamkn.com/i/ceeQQg8p.png@500w.png
       delay: 800
   - npc: qu
     sentences:
-    - text: 屏幕的右侧出现了一张名片耶，看起来很有趣。
+    - text: 屏幕的右侧出现了思想家“庄子”的名片耶，看起来很酷的样子。
       speed: 20
     clear: false
 
   - npc: ma
     sentences:
-    - text: 然后，请它为我们做几道算术题吧。（1+2x3=?）
+    - text: 调查完历史名人的档案，让我们利用搜索引擎做一道算术题吧！（1+2+3+4=?）
       speed: 20
+      style:
+        display: block
+        padding-bottom: 5%
+      delay: 800
+    - image: http://img.teamkn.com/i/MiBiSddE.png@500w.png
       delay: 800
   - npc: qu
     sentences:
-    - text: 哦，直接这样写它就能认出来？
+    - text: 哦，直接这样写它就能正确计算出来是吗？
       speed: 20
       delay: 800
     clear: false
   - npc: ma
     sentences:
-    - text: 是啊，它能做的题有很多种，可以从下面这个链接里看到：Find out more
+    - text: 是的。能做的算数题有很多种，具体技巧可参考下面这个帮助文档：
       speed: 20
+      delay: 800
+    - text: 了解更多用 AOL 搜索引擎做算术题技巧
+      link: http://www.googleguide.com/help/calculator.html
     clear: false
 
   - npc: ma
     sentences:
-    - text: 我们还可以请它搜出一些流行的说法究竟出自那篇文章。
+    - text: 前面的介绍主要搜索单个的词，当我们对一整句话做搜索时，还有可能了解到这句话的出处。
       speed: 20
+      style:
+        display: block
+        padding-bottom: 5%
+      delay: 800
+    - image: http://img.teamkn.com/i/yvqzJbkv.png@500w.png
       delay: 800
   - npc: qu
     sentences:
-    - text: 这个搜句子的功能，我感觉很实用啊————
-      speed: 20
-    - text: 没想到【大脑只开发了10%】这个说法并没有科学依据，我以前还深信不疑呢！
+    - text: 哦…… 原来“大脑只开发了10%”这个说法并没有科学依据啊，我以前还深信不疑呢！
       speed: 20
       delay: 800
     clear: false
   - npc: ma
     sentences:
-    - text: 总之，多做调查就更加接近事实哦，所以这个搜句子功能确实比较实用了 ^_^
+    - text: 总之，多做调查就好！这时候“搜索句子”的技巧就比较有用啦。^_^
       speed: 20
     clear: false
 
@@ -193,25 +216,32 @@ scripts:
     sentences:
     - text: 搜索引擎的搜句子功能，如果不加限制，就是针对整个互联网来搜的。
       speed: 20
-      delay: 800
-    - text: 可有些时候呢，我们对某个具体网站的内容特别感兴趣，这时候该怎么办呢？
+      linebreak: false
+      delay: 500
+    - text: 可有时我们对某个具体网站的内容特别感兴趣，这时该怎么办呢？
       speed: 20
       delay: 800
   - npc: qu
     sentences:
-    - text: 我想想看…… 还可以告诉它只针对某个具体网站做搜索么？
+    - text: 让我思考一下…… 可不可以告诉搜索引擎，让它只针对某个具体网站做搜索呢？
       speed: 20
     clear: false
   - npc: ma
     sentences:
-    - text: 猜对了！举个例子：如果我们希望只针对 guokr.com 做搜索，
+    - text: 思路对了！举个例子：如果我们希望只针对 guokr.com 做搜索，
       speed: 20
-      delay: 800
+      linebreak: false
+      delay: 500
     - text: 那么只要在搜索框里写下 site:guokr.com 再按下搜索按钮就可以了。
       speed: 20
       delay: 800
-    - text: 下面让我们来看一下实际的效果吧！
+    - text: 下面，让我们来看看实际搜索的效果吧！
       speed: 20
+      style:
+        display: block
+        padding-bottom: 5%
+      delay: 800
+    - image: http://img.teamkn.com/i/XBKr3iTC.png@500w.png
       delay: 800
     clear: false
   - npc: qu
@@ -222,133 +252,296 @@ scripts:
 
   - npc: ma
     sentences:
-    - text: 前面介绍了搜词/搜句子技巧，又介绍了针对特定网站做搜索的技巧；
+    - text: 前面先介绍了搜词/搜句子技巧，后介绍了针对特定网站做搜索的技巧。
+      speed: 20
+      delay: 500
+      linebreak: false
+    - text: 接下来要讲的是，这两种技巧是可以配合使用的。
       speed: 20
       delay: 800
-    - text: 下面要讲的是，这两项技巧，还可以配合使用哦。
-      speed: 20
   - npc: qu
     sentences:
     - text: 配合使用…… 怎样才能做到呢？
       speed: 20
-      delay: 800
     clear: false
   - npc: ma
     sentences:
-    - text: 还是举个具体例子吧：如果我们希望限定在 guokr.com 网站中，
+    - text: 还是举个具体例子吧：如果我们希望限定在 guokr.com 网站中，搜索含有“谣言”这两个字的文章，就在搜索框里写下：
       speed: 20
-      delay: 800
-    - text: 搜索含有“谣言”这两个字的文章，就在搜索框里写下
-      speed: 20
+      style:
+        display: block
+        padding-bottom: 5%
       delay: 800
     - text: 谣言 site:guokr.com
       speed: 20
+      style:
+        display: block
+        border: 1px solid silver
+        border-radius: 5px
+        padding: 1%
       delay: 800
     - text: 这一行内容，再按下搜索按钮就可以了。
       speed: 20
+      style:
+        display: block
+        padding-top: 5%
+        padding-bottom: 5%
+    - image: http://img.teamkn.com/i/nAUeWcXS.png@500w.png
+      delay: 800
+    - text: 你看，是不是很容易掌握呢？
+      speed: 20
+      style:
+        display: block
+        padding-top: 5%
+  - npc: qu
+    sentences:
+    - text: 只要用空格分开就可以一起使用啦，的确很好记！
+      speed: 20
     clear: false
 
   - npc: ma
     sentences:
-    - text: 除了限定字词和特定网站，我们还可以限定文章的发布时间。
+    - text: 很好~ 那么我们继续讲。除了限定字词和特定网站，我们还可以限定文章的发布时间。
+      speed: 20
+      linebreak: false
+      delay: 500
+    - text: 例如，我们可以只查看发布在某两个具体年份之间的文章。
       speed: 20
       delay: 800
-    - text: 例如我们可以只查看发布在某两个具体年份之间的文章。
+    - text: 沿用前面那个例子，如果我们在搜索框里再增加一项要求：
       speed: 20
-      delay: 800
-    - text: 沿用上一节所讲的例子，如果我们在搜索框里写下
-      speed: 20
+      style:
+        display: block
+        padding-top: 5%
+        padding-bottom: 5%
       delay: 800
     - text: 谣言 site:guokr.com 2013..2014 
       speed: 20
+      style:
+        display: block
+        border: 1px solid silver
+        border-radius: 5px
+        padding: 1%
       delay: 800
-    - text: 这一行内容，再按下搜索键，就相当于限定在 guokr.com 网站中，搜索含有“谣言”二字的文章，
+    - text: 这时候再按下搜索键，就相当于限定在 guokr.com 网站中，搜索含有“谣言”二字的文章，
       speed: 20
+      style:
+        display: block
+        padding-top: 5%
+      linebreak: false
       delay: 800
-    - text: 并且过滤掉发布日期在 2013 年之前或者 2014 年之后的文章。
+    - text: 并把发布日期在 2013 年之前或 2014 年之后的文章都过滤掉。
       speed: 20
-
+  
   - npc: ma
     sentences:
-    - text: 利用这些搜索技巧的组合，我们可以达到比较复杂的搜索效果。
+    - text: 利用搜索技巧的组合，我们可以达到比较复杂的搜索效果。
       speed: 20
-      delay: 800
-    - text: 你可以猜一猜下面这一行搜索要求是希望达到什么效果？
+      linebreak: false
+      delay: 500
+    - text: 你可以猜一猜下面这一行搜索，能达到怎样的效果？
       speed: 20
-      delay: 800
+      delay: 600
   - npc: qu
     sentences:
-    - text: 好啊，我来试着猜一下~
+    - text: 要做思考题吗？我试试看~
       speed: 20
     clear: false
   - npc: ma
     sentences:
+    - text: 小马老师在 AOL 搜索引擎的输入口里写下了这样一段搜索要求：
+      speed: 20
+      style:
+        display: block
+        padding-bottom: 5%
+      delay: 400
     - text: 谣言 转基因 site:guokr.com 2013..2014
       speed: 20
-      delay: 800
-    - text: 选项一，选项二
-      speed: 20
-      delay: 800
-    - text: 答对了！/ 很可惜，实际的效果并不是这样的。请看截图：
-      speed: 20
+      style:
+        display: block
+        border: 1px solid silver
+        border-radius: 5px
+        padding: 1%
     clear: false
-
+  - select: search-syntax-logic-and
+    text: 关于搜索结果列表中的文章，下面那个判断是正确的？
+    items:
+      - 文章中同时含有“谣言”和“转基因”。
+      - 文章中要么只含有“谣言”，要么只含有“转基因”。
+    clear: false
+  - selected: search-syntax-logic-and
+    response:
+      - npc: ma
+        sentences:
+        - text: 恭喜~ 回答正确，加十分！
+          speed: 20
+        clear: false
+      - npc: ma
+        sentences:
+        - text: 很抱歉地告诉你，答错了…… 
+          speed: 20
+        clear: false
+    clear: false
+  
   - npc: ma
     sentences:
-    - text: 可以用来操纵搜索引擎的使用技巧有很多，我们今天只讲最基础的几项。
+    - text: 用空格分隔开的搜索要求，是“并且”的意思，而不是“或”的意思。
       speed: 20
-      delay: 800
-    - text: 上一节中我们知道可以同时搜索两个或更多的词语，来筛选出同时含有这些词语的文章。
+      linebreak: false
+      delay: 500
+    - text: 如果想对搜索引擎表达“或”的意思，可以使用另一种语法：
       speed: 20
-      delay: 800
-    - text: 那么，如果我们希望筛选出“不含有某个词语”的文章，该怎么做呢？
+      style:
+        display: block
+        padding-top: 5%
+        padding-bottom: 5%
+      linebreak: false
+      delay: 500
+    - text: (谣言 OR 转基因) site:guokr.com 2013..2014
       speed: 20
-      delay: 800
-    - text: 我们会使用 “减号限定”，例如下面这一行搜索要求就使用了减号限定：
-      speed: 20
-      delay: 800
-    - text: 谣言 转基因 -媒体 site:guokr.com 2013..2014
-      speed: 20
-      delay: 800
-    - text: 增加 “-媒体” 这项要求表示在原有搜索结果基础上，排除掉含有“媒体”这个词语的所有文章。
-      speed: 20
-      delay: 800
+      style:
+        display: block
+        border: 1px solid silver
+        border-radius: 5px
+        padding: 1%
+
+  # - npc: ma
+  #   sentences:
+  #     delay: 800
+  #   - text: 上一节中我们知道可以同时搜索两个或更多的词语，来筛选出同时含有这些词语的文章。
+  #     speed: 20
+  #     linebreak: false
+  #     delay: 800
+  #   - text: 那么，如果我们希望筛选出“不含有某个词语”的文章，该怎么做呢？
+  #     speed: 20
+  #     linebreak: false
+  #     delay: 800
+  #   - text: 我们会使用 “减号限定”，例如下面这一行搜索要求就使用了减号限定：
+  #     speed: 20
+  #     linebreak: false
+  #     delay: 800
+  #   - text: 谣言 转基因 -媒体 site:guokr.com 2013..2014
+  #     speed: 20
+  #     style:
+  #       display: block
+  #       border: 1px solid silver
+  #       border-radius: 5px
+  #       padding: 1%
+  #     linebreak: false
+  #     delay: 800
+  #   - text: 增加 “-媒体” 这项要求表示在原有搜索结果基础上，排除掉含有“媒体”这个词语的所有文章。
+  #     speed: 20
+  #     linebreak: false
+  #     delay: 800
 
   - npc: ma
     sentences:
     - text: 根据前面的讲解，在搜索文章时可使用 site:guokr.com 限定只在特定的网站中搜索。
       speed: 20
+      linebreak: false
       delay: 800
     - text: 在这里我再介绍一种限定技巧 filetype:扩展名，这里的扩展名可以是 pdf, docx, pptx 等等。
       speed: 20
+      linebreak: false
       delay: 800
     - text: 顾名思义，这种限定技巧可以用来筛选出“以某种特定扩展名结尾”的搜索结果。
       speed: 20
+      linebreak: false
       delay: 800
     - text: 举个例子，下面这一行搜索要求，使用了扩展名限定：
       speed: 20
+      linebreak: false
       delay: 800
     - text: filetype:pdf site:guokr.com
       speed: 20
+      style:
+        display: block
+        border: 1px solid silver
+        border-radius: 5px
+        padding: 1%
 
   - npc: ma
     sentences:
-    - text: 讲到这里，如果前面的搜索技巧都已经理解并亲自操作过一遍，就可以算入门了。
+    - text: 可以用来操纵搜索引擎的使用技巧有很多，我们今天只讲了最基础的。
+      speed: 20
+      linebreak: false
+      delay: 400
+    - text: 如果前面讲到的搜索技巧大家都已理解，并亲自操作过一遍，就算入门了。
       speed: 20
       delay: 800
   - npc: qu
     sentences:
-    - text: 原来到这里就算入门了啊？我还想多学两招哪！
+    - text: 到这里就要结束了吗？可我还想多学两招哪！
+      linebreak: false
       speed: 20
     clear: false
-
   - npc: ma
     sentences:
     - text: 没问题啊，早就猜到问号同学是不会满足于入门水平的！
       speed: 20
+      linebreak: false
       delay: 800
-    - text: 那么，就请访问下面这个网址，以了解更多搜索技巧。
+    - text: 请访问下面这个网址，以便了解更多的搜索技巧。
       speed: 20
+      linebreak: false
       delay: 800
-    - text: http://s.4ye.me/qEDN38
+    - text: 从谷歌搜获更多
       speed: 20
+      link: http://s.4ye.me/qEDN38
+      style:
+        font-size: 120%
+        font-weight: bold
+    clear: false
+  - npc: qu
+    sentences:
+    - text: 太好啦，这下可有的玩咯！
+      linebreak: false
+      speed: 20
+    clear: false
+
+  # 总结，联系方式介绍
+  - npc:
+    sentences:
+    - text: 上手 > 入门 > 多学一点
+      speed: 10
+      style:
+        display: block
+        font-size: 120%
+        font-weight: bold
+        color: lightgreen
+        padding-bottom: 5%
+      delay: 500
+    - text: ——MINDPIN 趣味教程
+      speed: 40
+      style:
+        display: block
+        font-weight: bold
+        color: lightgreen
+        text-align: center
+        padding-bottom: 5%
+      delay: 500
+    - text: 作者：
+      speed: 40
+      style:
+        font-weight: bold
+        color: lightgreen
+        padding-bottom: 5%
+      linebreak: false
+      delay: 500
+    - text: pimgeek (@石酷)
+      link: http://weibo.com/scrutiny1
+      speed: 40
+      style:
+        font-weight: bold
+        color: lemonchiffon
+      linebreak: false
+      delay: 500
+    - text: 欢迎大家对本教程多提意见建议！
+      speed: 40
+      style:
+        display: block
+        font-weight: bold
+        color: lemonchiffon
+        text-align: center
+        padding-top: 5%
+      delay: 0
