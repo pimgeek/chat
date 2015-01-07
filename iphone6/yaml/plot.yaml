@@ -13,36 +13,44 @@ scripts:
     sentences:
     - image: http://img.teamkn.com/i/InsXtIC0.png@150w.png
       delay: 800
-    - text: 　
-      delay: 0
     - text: 这是新的 iPhone 6。
+      speed: 20
+      style:
+        display: block
+        padding-top: 8%
       delay: 400
 
   - npc: jwu
     sentences:
     - image: http://img.teamkn.com/i/xLUOcDQV.png@200w.png
       delay: 600
-    - text: 　
-      delay: 0
     - text: 这是新的 iPhone 6 Plus。
+      speed: 20
+      style:
+        display: block
+        padding-top: 8%
     clear: false
 
   # 强调尺寸变大
   - npc: jwen
     sentences:
     - text: 它们是有史以来最大的 iPhone。
-      delay: 0
-    - text: 　
-      delay: 600
+      speed: 20
+      style:
+        display: block
+        padding-bottom: 8%
+      delay: 800
     - image: http://img.teamkn.com/i/k171XJ3C.png@300w.png
       delay: 800
 
   - npc: jwu
     sentences:
     - text: 可以说——
+      speed: 20
       linebreak: false
       delay: 400
     - text: 巨大~
+      speed: 20
       style: 
         font-size: 130%
         font-weight: bold
@@ -53,81 +61,96 @@ scripts:
   - npc: jwen
     sentences:
     - text: 尺寸的变大只是开始。
-      delay: 0
-    - text: 　
-      delay: 500
+      speed: 20
+      style:
+        display: block
+        padding-bottom: 8%
+      delay: 600
     - image: http://img.teamkn.com/i/fgJKamFA.png@300w.png
       delay: 800
   - npc: jwu
     sentences:
     - text: 怎么说也是大呀！
+      speed: 20
     clear: false
 
   # 介绍 Google Earth
   - npc: jwen
     sentences:
     - text: 它们能让你看到不一样的世界！
-      delay: 0
-    - text: 　
+      speed: 20
+      style:
+        display: block
+        padding-bottom: 8%
       delay: 500
     - image: http://img.teamkn.com/i/ymM1Z3bM.png@300w.png
       delay: 500
   - npc: jwu
     sentences:
     - text: 那是大事儿。
+      speed: 20
     clear: false
 
   # 介绍 iFit
   - npc: jwen
     sentences:
     - text: 还能为你的健康着想。
-      delay: 0
-    - text: 　
+      speed: 20
+      style:
+        display: block
+        padding-bottom: 8%
       delay: 0
     - image: http://img.teamkn.com/i/R1LrjxdJ.png@300w.png
       delay: 500
   - npc: jwu
     sentences:
     - text: 特大 
+      speed: 20
       style:
         font-size: 120%
         font-weight: bold
       linebreak: false
       delay: 0
     - text: 的事儿！　
+      speed: 20
     　linebreak: false
     clear: false
 
   - npc: jwen
     sentences:
     - text: 它们比以前所有的 iPhone 都要好！
+      speed: 20
       delay: 500
   - npc: jwu
     sentences:
     - image: http://img.teamkn.com/i/RDeUjRFu.png@300w.png
       linebreak: false
       delay: 800
-    - text: 　
-      delay: 0
     - text: 大-
+      speed: 20
       style:
         font-size: 140%
         font-weight: bold
+        line-height: 350%
       linebreak: false
       delay: 100
     - text: 大-大-大-
+      speed: 20
       linebreak: false
       delay: 200
     - text: 大-
+      speed: 20
       style:
         font-size: 110%
         font-weight: bold
       linebreak: false
       delay: 200
     - text: 大-大-大-大-
+      speed: 20
       linebreak: false
       delay: 100
     - text: 大……　　
+      speed: 20
       linebreak: false
       style:
         font-weight: bold
@@ -136,41 +159,44 @@ scripts:
   - npc: jwen
     sentences:
     - text: 嘿！
+      speed: 20
       linebreak: false
       delay: 300
     - text: 停-
+      speed: 20
       linebreak: false
       style:
         font-weight: bold
       delay: 300
     - text: 停-
+      speed: 20
       linebreak: false
       style:
         font-size: 120%
         font-weight: bold
       delay: 300
     - text: 停！
+      speed: 20
       delay: 200
       linebreak: false
       style:
         font-size: 140%
         font-weight: bold
     - text: ——有这么说的吗？　
+      speed: 20
       linebreak: false
     clear: false
 
   - npc:
     sentences:
     - image: http://img.teamkn.com/i/SUSX1xQ2.png@500w.png
-      delay: 0
-    - text: 　　
       delay: 1000
   - npc: jwu
     sentences:
-    - text: 　
-      delay: 0
-    - text: "大"
+    - text: 　大　
+      speed: 20
       style:
         font-size: 300%
         font-weight: bold
+        line-height: 200%
     clear: false

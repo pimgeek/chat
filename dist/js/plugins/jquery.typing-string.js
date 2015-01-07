@@ -7,7 +7,8 @@
     if (idx < str.length) {
       $el.append(str[idx]);
       return setTimeout(function() {
-        return _show($el, str, idx + 1, speed, callback);
+        _show($el, str, idx + 1, speed, callback);
+        return jQuery(document).trigger('chatflow.content-changed');
       }, d);
     } else {
       $el.append(jQuery('<br/>'));
@@ -23,7 +24,8 @@
     if (idx < str.length) {
       $el.append(str[idx]);
       return setTimeout(function() {
-        return _show_nobr($el, str, idx + 1, speed, callback);
+        _show_nobr($el, str, idx + 1, speed, callback);
+        return jQuery(document).trigger('chatflow.content-changed');
       }, d);
     } else {
       if (callback != null) {

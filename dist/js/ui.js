@@ -1,8 +1,7 @@
 (function() {
   jQuery(document).on('ready page:load', function() {
-    
-    var yaml = jQuery('.panel.chatbox').data('yaml');
-
+    var yaml;
+    yaml = jQuery('.panel.chatbox').data('yaml');
     return jQuery.get(yaml, function(res) {
       var story_data;
       story_data = jsyaml.load(res);
