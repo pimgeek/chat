@@ -356,7 +356,7 @@ scripts:
   # 第九，引出搜索要求的逻辑关系问题
   - npc: ma
     sentences:
-    - text: 除了，利用搜索引擎的逻辑操作，还可以实现更细致的搜索效果。
+    - text: 利用搜索引擎的逻辑操作，还可以实现更细致的搜索效果。
       speed: 20
       linebreak: false
       delay: 500
