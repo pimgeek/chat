@@ -46,9 +46,15 @@
       }
     };
 
-    ChatPop.prototype.image = function(image, callback) {
+    ChatPop.prototype.image = function(image, callback, config) {
       var $image;
+      if (config == null) {
+        config = {};
+      }
       $image = buildel('img.img').attr('src', image).hide().fadeIn().appendTo(this.$pop);
+      if (config.style != null) {
+        $image.css(config.style);
+      }
       return callback();
     };
 
@@ -70,7 +76,9 @@
         };
       }
       if (sentence.image != null) {
-        this.image(sentence.image, textdone);
+        this.image(sentence.image, textdone, {
+          style: sentence.style
+        });
       } else {
         this.text(sentence.text, textdone, {
           linebreak: sentence.linebreak,
