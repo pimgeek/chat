@@ -387,8 +387,8 @@ scripts:
   - select: search-syntax-logic-and
     text: 关于搜索结果列表中的文章，下面那个判断是正确的？
     items:
-      - 文章中同时含有“谣言”和“转基因”。
-      - 文章中要么只含有“谣言”，要么只含有“转基因”。
+      - 同时含有“谣言”和“转基因”。
+      - 只含有“谣言”或只含有“转基因”。
     clear: false
   - selected: search-syntax-logic-and
     response:
