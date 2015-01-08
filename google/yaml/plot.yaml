@@ -399,7 +399,7 @@ scripts:
         clear: false
       - npc: ma
         sentences:
-        - text: 很抱歉地告诉你，答错了…… 
+        - text: 很遗憾的说，答错了…… 
           speed: 20
         clear: false
     clear: false
