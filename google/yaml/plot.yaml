@@ -2,7 +2,6 @@ npcs:
   - id: ma
     name: 小马老师
     avatar: http://img.teamkn.com/i/uK49MJ9E.png@100w_100h_1e_1c.png
-
   - id: qu
     name: 问号同学
     avatar: http://img.teamkn.com/i/D01dg9Lj.png@100w_100h_1e_1c.png
@@ -145,13 +144,13 @@ scripts:
       speed: 20
       delay: 800
       linebreak: false
-    - text: 以后，我就可以用搜索引擎去查找相关资料了！
+    - text: 以后我就可以用搜索引擎去查找与节目相关的资料了。
       speed: 20
     clear: false
 
   - npc: ma
     sentences:
-    - text: 不光是查找流行的电视节目资料哦。通过搜索历史人物的姓名，我们还能调出他们的档案呢！
+    - text: 不仅可以查找与电视节目相关的资料，通过搜索历史人物的姓名，还能调出关于他们的百科知识呢！
       speed: 20
       style:
         display: block
@@ -161,7 +160,7 @@ scripts:
       delay: 800
   - npc: qu
     sentences:
-    - text: 屏幕的右侧出现了思想家“庄子”的名片耶，看起来很酷的样子。
+    - text: 看到了！屏幕的右侧出现了思想家“庄子”的名片，看上去很像百科词条的样子。
       speed: 20
     clear: false
 
@@ -192,12 +191,16 @@ scripts:
 
   - npc: ma
     sentences:
-    - text: 前面的介绍主要搜索单个的词，当我们对一整句话做搜索时，还有可能了解到这句话的出处。
+    - text: 前面主要讲针对单个词语的搜索。当我们对一整句话做搜索时，还有可能了解到这句话的出处。
       speed: 20
       style:
         display: block
         padding-bottom: 5%
       delay: 800
+    - text: 例如，我们试着搜索“人类的大脑只利用了10%”这句话。
+      style:
+        display: block
+        padding-bottom: 5%
     - image: http://img.teamkn.com/i/yvqzJbkv.png@500w.png
       delay: 800
   - npc: qu
@@ -232,8 +235,25 @@ scripts:
       speed: 20
       linebreak: false
       delay: 500
-    - text: 那么只要在搜索框里写下 site:guokr.com 再按下搜索按钮就可以了。
+    - text: 那么只要在搜索框里写下
       speed: 20
+      style:
+        display: block
+        padding-bottom: 5%
+      delay: 500
+    - text: site:guokr.com
+      speed: 20
+      style:
+        display: block
+        border: 1px solid silver
+        border-radius: 5px
+        padding: 1%
+      delay: 500
+    - text: 再按下搜索按钮就可以了。
+      speed: 20
+      style:
+        display: block
+        padding-top: 5%
       delay: 800
     - text: 下面，让我们来看看实际搜索的效果吧！
       speed: 20
