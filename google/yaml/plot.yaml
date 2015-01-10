@@ -7,446 +7,446 @@ npcs:
     avatar: http://img.teamkn.com/i/D01dg9Lj.png@100w_100h_1e_1c.png
 
 scripts:
-  # # 开场白，小马老师，问号同学分别登场
-  # - npc: ma
-    # sentences:
-    # - text: 今天要向大家介绍的是：【Google 搜索引擎使用入门】。
-      # speed: 20
-      # style:
-        # display: block
-        # margin-bottom: 16px
-      # delay: 600
-    # - image: http://img.teamkn.com/i/qqehXKWT.png
-      # delay: 800
-    # - text: 搜索引擎是一种信息获取工具，利用它可以快速获取互联网上含有特定词语/句子的文章或资料。
-      # speed: 20
-      # style:
-        # display: block
-        # margin-bottom: 16px
-      # delay: 900
-    # - text: 常见的搜索引擎包括谷歌搜索（Google），百度搜索（Baidu），必应搜索（Bing）等。
-      # speed: 20
-      # delay: 900
-    # clear: false
-  # - npc: qu
-    # sentences:
-    # - text: 理解啦，不过有个问题……
-      # speed: 20
-      # delay: 500
-      # linebreak: false
-    # - text: 既然我们主要讲 Google 搜索，那为什么在图中看到的却是 “AOL Search” 呢？
-      # speed: 20
-      # style:
-        # display: block
-        # margin-top: 16px
-      # delay: 500
-    # clear: false
-  # - npc: ma
-    # sentences:
-    # - text: 这个主要是因为 Google 的官方网站在大陆地区被屏蔽而不能直接访问啦。实际上 AOL Search 也是由 Google 搜索引擎支持的，所以可做为 Google 的替代方案。
-      # speed: 20
-      # delay: 900
-    # clear: false
-  # - npc: qu
-    # sentences:
-    # - text: 哦，原来如此。
-      # speed: 20
-    # clear: false
-  # - npc: ma
-    # sentences:
-    # - text: 接下来就让我们打开 AOL Search，一边操作一边讲解。
-      # speed: 20
-      # delay: 900
-  # - npc: qu
-    # sentences:
-    # - text: 好的~ 我就喜欢在操作过程中学习！
-      # speed: 20
-    # clear: false
-  # # 让问号同学迅速获得感性认识
-  # - npc: ma
-    # sentences:
-    # - text: 请在你的网页浏览器地址栏中输入这个网址：
-      # speed: 20
-      # delay: 800
-    # - text: http://search.aol.co.uk
-      # speed: 20
-      # link: http://search.aol.co.uk
-      # style:
-        # line-height: 48px
-      # delay: 800
-    # - image: http://img.teamkn.com/i/hJPJfney.png@500w.png
-      # delay: 800
-    # - text: 然后按回车（Enter）键，稍等几秒钟……
-      # speed: 20
-      # style:
-        # display: block
-        # margin-top: 16px
-        # margin-bottom: 16px
-      # delay: 800
-    # - image: http://img.teamkn.com/i/SPuY3N13.png@500w.png
-      # delay: 800
-    # - text: AOL Search 就这样出现在眼前了。
-      # speed: 20
-      # style:
-        # display: block
-        # margin-top: 16px
-  # - npc: qu
-    # sentences:
-    # - text: 嗯我懂了~ 只要收藏这个网址，就可以随时打开 AOL Search！
-      # speed: 20
-      # delay: 800
-    # clear: false
-  # - npc: ma
-    # sentences:
-    # - text: 完全正确！
-      # speed: 20
-    # clear: false
-  # # 首先，完成一项最简单的搜索任务
-  # - npc: ma
-    # sentences:
-    # - text: 接下来，我们对 AOL Search 发出一个简单指令，把它的搜索功能开动起来！
-      # speed: 20
-      # style:
-        # display: block
-        # margin-bottom: 16px
-      # delay: 800
-      # linebreak: false
-    # - image: http://img.teamkn.com/i/foypL5ht.png@500w.png
-      # delay: 800
-  # - npc: qu
-    # sentences:
-    # - text: 看到了！搜索结果中出现了关于“余额宝”的好多资料~
-      # speed: 20
-    # clear: false
-  # # 其次，复习这项最简单的搜索任务，加深印象
-  # - npc: ma
-    # sentences:
-    # - text: 让我们换一个词语，再搜一次。
-      # speed: 20
-      # style:
-        # display: block
-        # margin-bottom: 16px
-      # delay: 800
-    # - image: http://img.teamkn.com/i/lghzprM7.png@500w.png
-      # delay: 800
-  # - npc: qu
-    # sentences:
-    # - text: 啊~ 《爸爸去哪儿》这个电视节目很有爱，我也喜欢看！
-      # speed: 20
-      # delay: 800
-      # linebreak: false
-    # - text: 以后我就可以用 AOL Search 去查找与节目相关的资料了。
-      # speed: 20
-    # clear: false
-  # # 再次，引出历史名人的名号搜索
-  # - npc: ma
-    # sentences:
-    # - text: 不仅可以查找与电视节目相关的资料，还可以通过搜索历史人物的名号，调出相关的百科知识呢！
-      # speed: 20
-      # style:
-        # display: block
-        # margin-bottom: 16px
-      # delay: 800
-    # - image: http://img.teamkn.com/i/cIPDZAot.png@600w.png
-      # delay: 800
-  # - npc: qu
-    # sentences:
-    # - text: 看到了！屏幕的右侧出现了思想家“庄子”的名片，看上去很像百科词条的样子。
-      # speed: 20
-    # clear: false
-  # # 第四，引出算术题计算类型的搜索
-  # - npc: ma
-    # sentences:
-    # - text: 不仅是查资料，我们还可以利用 AOL Search 做简单的数字计算呢！
-      # speed: 20
-      # style:
-        # display: block
-        # margin-bottom: 16px
-      # delay: 800
-    # - text: 比如，让我们输入：
-      # speed: 20
-      # style:
-        # display: block
-        # margin-bottom: 16px
-      # delay: 800
-    # - text: 1+2+3+4=?
-      # speed: 20
-      # style:
-        # display: block
-        # border: 1px solid silver
-        # border-radius: 5px
-        # padding: 6px
-      # delay: 800
-    # - image: http://img.teamkn.com/i/MiBiSddE.png@300w.png
-      # delay: 800
-  # - npc: qu
-    # sentences:
-    # - text: 哦，直接这样写它就能正确计算出来是吗？
-      # speed: 20
-      # delay: 800
-    # clear: false
-  # - npc: ma
-    # sentences:
-    # - text: 是的。能做的计算题有很多种，具体技巧可参考下面的帮助文档：
-      # speed: 20
-      # delay: 800
-    # - text: 利用 Google 进行数字计算
-      # link: http://www.googleguide.com/help/calculator.html
-    # clear: false
-  # # 第五，引出整句搜索，强调其实用价值
-  # - npc: ma
-    # sentences:
-    # - text: 前面已经尝试过针对单个词语的搜索，我们也可以对一句话做搜索，看看都有哪些文章资料中使用了这句话。
-      # speed: 20
-      # style:
-        # display: block
-        # margin-bottom: 16px
-      # delay: 800
-    # - text: 例如，我们试着搜索“普通人的大脑只利用了10%”。
-      # style:
-        # display: block
-        # margin-bottom: 16px
-      # delay: 600
-    # - image: http://img.teamkn.com/i/yvqzJbkv.png@500w.png
-      # delay: 800
-  # - npc: qu
-    # sentences:
-    # - text: 哦…… 原来“大脑只开发了10%”这个说法并没有科学依据啊，我以前还深信不疑呢！
-      # speed: 20
-      # delay: 800
-    # clear: false
-  # - npc: ma
-    # sentences:
-    # - text: 总之，多做调查就好！需要为一个说法寻找出处时，就使用“搜索句子”的技巧吧。^_^
-      # speed: 20
-    # clear: false
-  # # 第六，引出限定域名的搜索
-  # - npc: ma
-    # sentences:
-    # - text: AOL Search 的搜索功能，如果不加限制，就是针对整个互联网来搜的。
-      # speed: 20
-      # linebreak: false
-      # delay: 500
-    # - text: 可有时我们对某个具体网站的内容特别感兴趣，这时该怎么办呢？
-      # speed: 20
-      # delay: 800
-  # - npc: qu
-    # sentences:
-    # - text: 让我思考一下…… 可不可以告诉 AOL Search，让它只针对某个具体网站做搜索呢？
-      # speed: 20
-    # clear: false
-  # - npc: ma
-    # sentences:
-    # - text: 思路对了！举个例子：如果我们希望只针对 guokr.com 做搜索，那么只要在搜索框里写下
-      # speed: 20
-      # style:
-        # display: block
-        # margin-bottom: 16px
-      # delay: 500
-    # - text: site:guokr.com
-      # speed: 20
-      # style:
-        # display: block
-        # border: 1px solid silver
-        # border-radius: 5px
-        # padding: 6px
-      # delay: 500
-    # - text: 再按下搜索按钮就可以了。
-      # speed: 20
-      # style:
-        # display: block
-        # margin-top: 16px
-      # delay: 800
-    # - text: 下面，让我们来看看实际搜索的效果吧！
-      # speed: 20
-      # style:
-        # display: block
-        # margin-bottom: 16px
-      # delay: 800
-    # - image: http://img.teamkn.com/i/XBKr3iTC.png@500w.png
-      # delay: 800
-    # clear: false
-  # - npc: qu
-    # sentences:
-    # - text: 哦，的确起作用啦！
-      # speed: 20
-    # clear: false
-  # # 第七，引出搜索技巧的组合使用
-  # - npc: ma
-    # sentences:
-    # - text: 前面的介绍中讲解了搜词/搜句子的技巧，以及限定搜索结果只来自特定网站的技巧。
-      # speed: 20
-      # delay: 500
-      # linebreak: false
-    # - text: 接下来要说明的是，这两种技巧是可以组合使用的。
-      # speed: 20
-      # delay: 800
-  # - npc: qu
-    # sentences:
-    # - text: 组合使用…… 怎样才能做到呢？
-      # speed: 20
-    # clear: false
-  # - npc: ma
-    # sentences:
-    # - text: 还是举个具体例子吧：如果我们希望限定在 guokr.com 网站中，搜索含有“谣言”这两个字的文章，就在搜索框里写下：
-      # speed: 20
-      # style:
-        # display: block
-        # margin-bottom: 16px
-      # delay: 800
-    # - text: 谣言 site:guokr.com
-      # speed: 20
-      # style:
-        # display: block
-        # border: 1px solid silver
-        # border-radius: 5px
-        # padding: 6px
-      # delay: 800
-    # - text: 这一行内容，再按下搜索按钮就可以了。
-      # speed: 20
-      # style:
-        # display: block
-        # margin-top: 16px
-        # margin-bottom: 16px
-      # delay: 600
-    # - image: http://img.teamkn.com/i/nAUeWcXS.png@500w.png
-      # delay: 800
-    # - text: 你看，是不是很容易掌握呢？
-      # speed: 20
-      # style:
-        # display: block
-        # margin-top: 16px
-      # delay: 600
-    # clear: false
-  # - npc: qu
-    # sentences:
-    # - text: 只要用空格分开就可以一起使用啦，的确很好记！
-      # speed: 20
-    # clear: false
-  # # 第八，引出搜索结果文章的发布年份限定
-  # - npc: ma
-    # sentences:
-    # - text: 很好~ 那么我们继续讲。除了限定字词和特定网站，我们还可以限定文章的发布时间。
-      # speed: 20
-      # linebreak: false
-      # delay: 500
-    # - text: 例如，我们可以只查看发布在某两个具体年份之间的文章。
-      # speed: 20
-      # delay: 800
-    # - text: 沿用前面那个例子，如果我们在搜索框里再增加一项要求：
-      # speed: 20
-      # style:
-        # display: block
-        # margin-top: 16px
-        # margin-bottom: 16px
-      # delay: 800
-    # - text: 谣言 site:guokr.com 2013..2014 
-      # speed: 20
-      # style:
-        # display: block
-        # border: 1px solid silver
-        # border-radius: 5px
-        # padding: 6px
-      # delay: 800
-    # - text: 这时候再按下搜索键，就相当于限定在 guokr.com 网站中，搜索含有“谣言”二字的文章，
-      # speed: 20
-      # style:
-        # display: block
-        # margin-top: 16px
-      # linebreak: false
-      # delay: 800
-    # - text: 并把发布年份在 2013 年之前或 2014 年之后的文章都过滤掉。
-      # speed: 20
-      # delay: 600
-    # - image: http://img.teamkn.com/i/JvviVDHu.png@500w.png
-      # delay: 800
-  # - npc: qu
-    # sentences:
-    # - text: 这样就可以按文章发布的年份做筛选啦！
-      # speed: 20
-    # clear: false
-  # # 第九，引出搜索要求的逻辑关系问题
-  # - npc: ma
-    # sentences:
-    # - text: 利用 AOL Search 的逻辑操作，还可以实现更细致的搜索效果。
-      # speed: 20
-      # linebreak: false
-      # delay: 500
-    # - text: 请问号同学来猜一猜，接下来的这一次搜索动作，能达到怎样的效果？
-      # speed: 20
-      # delay: 600
-  # - npc: qu
-    # sentences:
-    # - text: 好啊~ 我试试看。
-      # speed: 20
-    # clear: false
-  # - npc: ma
-    # sentences:
-    # - text: 小马老师在 AOL Search 的输入框里写下了这样一段内容：
-      # speed: 20
-      # style:
-        # display: block
-        # margin-bottom: 16px
-      # delay: 400
-    # - text: 谣言 传言 site:guokr.com
-      # speed: 20
-      # style:
-        # display: block
-        # border: 1px solid silver
-        # border-radius: 5px
-        # padding: 6px
-      # delay: 600
-    # clear: false
-  # - select: search-syntax-logic-and
-    # text: 关于搜索结果列表中的文章，下面那个判断是正确的？
-    # items:
-      # - 必须同时含有“谣言”和“传言”。
-      # - 至少包含“谣言”或“传言”中的一个。
-    # clear: false
-  # - selected: search-syntax-logic-and
-    # response:
-      # - npc: ma
-        # sentences:
-        # - text: 恭喜~ 回答正确，加十分！
-          # speed: 20
-          # delay: 600
-        # clear: false
-      # - npc: ma
-        # sentences:
-        # - text: 很遗憾的说，答错了…… 
-          # speed: 20
-          # delay: 600
-        # clear: false
-    # clear: false
-  # - npc:
-    # sentences:
-    # - image: http://img.teamkn.com/i/VmH6Pt1C.png@500w.png
-    # clear: false
-  # # 第十，给出练习题的答案之后，稍微讲解一下逻辑运算。
-  # - npc: ma
-    # sentences:
-    # - text: 用空格分隔开的搜索要求，是“并且”的意思，而不是“或”的意思。
-      # speed: 20
-      # linebreak: false
-      # delay: 500
-    # - text: 如果想对搜索引擎表达“或”的意思，可以使用下面这种写法：
-      # speed: 20
-      # style:
-        # display: block
-        # margin-top: 16px
-        # margin-bottom: 16px
-      # linebreak: false
-      # delay: 500
-    # - text: (谣言 OR 传言) site:guokr.com
-      # speed: 20
-      # style:
-        # display: block
-        # border: 1px solid silver
-        # border-radius: 5px
-        # padding: 6px
-        # margin-bottom: 24px
-      # delay: 600
-    # - image: http://img.teamkn.com/i/KoAjMFrt.png@500w.png
+  # 开场白，小马老师，问号同学分别登场
+  - npc: ma
+    sentences:
+    - text: 今天要向大家介绍的是：【Google 搜索引擎使用入门】。
+      speed: 20
+      style:
+        display: block
+        margin-bottom: 16px
+      delay: 600
+    - image: http://img.teamkn.com/i/qqehXKWT.png
+      delay: 800
+    - text: 搜索引擎是一种信息获取工具，利用它可以快速获取互联网上含有特定词语/句子的文章或资料。
+      speed: 20
+      style:
+        display: block
+        margin-bottom: 16px
+      delay: 900
+    - text: 常见的搜索引擎包括谷歌搜索（Google），百度搜索（Baidu），必应搜索（Bing）等。
+      speed: 20
+      delay: 900
+    clear: false
+  - npc: qu
+    sentences:
+    - text: 理解啦，不过有个问题……
+      speed: 20
+      delay: 500
+      linebreak: false
+    - text: 既然我们主要讲 Google 搜索，那为什么在图中看到的却是 “AOL Search” 呢？
+      speed: 20
+      style:
+        display: block
+        margin-top: 16px
+      delay: 500
+    clear: false
+  - npc: ma
+    sentences:
+    - text: 这个主要是因为 Google 的官方网站在大陆地区被屏蔽而不能直接访问啦。实际上 AOL Search 也是由 Google 搜索引擎支持的，所以可做为 Google 的替代方案。
+      speed: 20
+      delay: 900
+    clear: false
+  - npc: qu
+    sentences:
+    - text: 哦，原来如此。
+      speed: 20
+    clear: false
+  - npc: ma
+    sentences:
+    - text: 接下来就让我们打开 AOL Search，一边操作一边讲解。
+      speed: 20
+      delay: 900
+  - npc: qu
+    sentences:
+    - text: 好的~ 我就喜欢在操作过程中学习！
+      speed: 20
+    clear: false
+  # 让问号同学迅速获得感性认识
+  - npc: ma
+    sentences:
+    - text: 请在你的网页浏览器地址栏中输入这个网址：
+      speed: 20
+      delay: 800
+    - text: http://search.aol.co.uk
+      speed: 20
+      link: http://search.aol.co.uk
+      style:
+        line-height: 48px
+      delay: 800
+    - image: http://img.teamkn.com/i/hJPJfney.png@500w.png
+      delay: 800
+    - text: 然后按回车（Enter）键，稍等几秒钟……
+      speed: 20
+      style:
+        display: block
+        margin-top: 16px
+        margin-bottom: 16px
+      delay: 800
+    - image: http://img.teamkn.com/i/SPuY3N13.png@500w.png
+      delay: 800
+    - text: AOL Search 就这样出现在眼前了。
+      speed: 20
+      style:
+        display: block
+        margin-top: 16px
+  - npc: qu
+    sentences:
+    - text: 嗯我懂了~ 只要收藏这个网址，就可以随时打开 AOL Search！
+      speed: 20
+      delay: 800
+    clear: false
+  - npc: ma
+    sentences:
+    - text: 完全正确！
+      speed: 20
+    clear: false
+  # 首先，完成一项最简单的搜索任务
+  - npc: ma
+    sentences:
+    - text: 接下来，我们对 AOL Search 发出一个简单指令，把它的搜索功能开动起来！
+      speed: 20
+      style:
+        display: block
+        margin-bottom: 16px
+      delay: 800
+      linebreak: false
+    - image: http://img.teamkn.com/i/foypL5ht.png@500w.png
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 看到了！搜索结果中出现了关于“余额宝”的好多资料~
+      speed: 20
+    clear: false
+  # 其次，复习这项最简单的搜索任务，加深印象
+  - npc: ma
+    sentences:
+    - text: 让我们换一个词语，再搜一次。
+      speed: 20
+      style:
+        display: block
+        margin-bottom: 16px
+      delay: 800
+    - image: http://img.teamkn.com/i/lghzprM7.png@500w.png
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 啊~ 《爸爸去哪儿》这个电视节目很有爱，我也喜欢看！
+      speed: 20
+      delay: 800
+      linebreak: false
+    - text: 以后我就可以用 AOL Search 去查找与节目相关的资料了。
+      speed: 20
+    clear: false
+  # 再次，引出历史名人的名号搜索
+  - npc: ma
+    sentences:
+    - text: 不仅可以查找与电视节目相关的资料，还可以通过搜索历史人物的名号，调出相关的百科知识呢！
+      speed: 20
+      style:
+        display: block
+        margin-bottom: 16px
+      delay: 800
+    - image: http://img.teamkn.com/i/cIPDZAot.png@600w.png
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 看到了！屏幕的右侧出现了思想家“庄子”的名片，看上去很像百科词条的样子。
+      speed: 20
+    clear: false
+  # 第四，引出算术题计算类型的搜索
+  - npc: ma
+    sentences:
+    - text: 不仅是查资料，我们还可以利用 AOL Search 做简单的数字计算呢！
+      speed: 20
+      style:
+        display: block
+        margin-bottom: 16px
+      delay: 800
+    - text: 比如，让我们输入：
+      speed: 20
+      style:
+        display: block
+        margin-bottom: 16px
+      delay: 800
+    - text: 1+2+3+4=?
+      speed: 20
+      style:
+        display: block
+        border: 1px solid silver
+        border-radius: 5px
+        padding: 6px
+      delay: 800
+    - image: http://img.teamkn.com/i/MiBiSddE.png@300w.png
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 哦，直接这样写它就能正确计算出来是吗？
+      speed: 20
+      delay: 800
+    clear: false
+  - npc: ma
+    sentences:
+    - text: 是的。能做的计算题有很多种，具体技巧可参考下面的帮助文档：
+      speed: 20
+      delay: 800
+    - text: 利用 Google 进行数字计算
+      link: http://www.googleguide.com/help/calculator.html
+    clear: false
+  # 第五，引出整句搜索，强调其实用价值
+  - npc: ma
+    sentences:
+    - text: 前面已经尝试过针对单个词语的搜索，我们也可以对一句话做搜索，看看都有哪些文章资料中使用了这句话。
+      speed: 20
+      style:
+        display: block
+        margin-bottom: 16px
+      delay: 800
+    - text: 例如，我们试着搜索“普通人的大脑只利用了10%”。
+      style:
+        display: block
+        margin-bottom: 16px
+      delay: 600
+    - image: http://img.teamkn.com/i/yvqzJbkv.png@500w.png
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 哦…… 原来“大脑只开发了10%”这个说法并没有科学依据啊，我以前还深信不疑呢！
+      speed: 20
+      delay: 800
+    clear: false
+  - npc: ma
+    sentences:
+    - text: 总之，多做调查就好！需要为一个说法寻找出处时，就使用“搜索句子”的技巧吧。^_^
+      speed: 20
+    clear: false
+  # 第六，引出限定域名的搜索
+  - npc: ma
+    sentences:
+    - text: AOL Search 的搜索功能，如果不加限制，就是针对整个互联网来搜的。
+      speed: 20
+      linebreak: false
+      delay: 500
+    - text: 可有时我们对某个具体网站的内容特别感兴趣，这时该怎么办呢？
+      speed: 20
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 让我思考一下…… 可不可以告诉 AOL Search，让它只针对某个具体网站做搜索呢？
+      speed: 20
+    clear: false
+  - npc: ma
+    sentences:
+    - text: 思路对了！举个例子：如果我们希望只针对 guokr.com 做搜索，那么只要在搜索框里写下
+      speed: 20
+      style:
+        display: block
+        margin-bottom: 16px
+      delay: 500
+    - text: site:guokr.com
+      speed: 20
+      style:
+        display: block
+        border: 1px solid silver
+        border-radius: 5px
+        padding: 6px
+      delay: 500
+    - text: 再按下搜索按钮就可以了。
+      speed: 20
+      style:
+        display: block
+        margin-top: 16px
+      delay: 800
+    - text: 下面，让我们来看看实际搜索的效果吧！
+      speed: 20
+      style:
+        display: block
+        margin-bottom: 16px
+      delay: 800
+    - image: http://img.teamkn.com/i/XBKr3iTC.png@500w.png
+      delay: 800
+    clear: false
+  - npc: qu
+    sentences:
+    - text: 哦，的确起作用啦！
+      speed: 20
+    clear: false
+  # 第七，引出搜索技巧的组合使用
+  - npc: ma
+    sentences:
+    - text: 前面的介绍中讲解了搜词/搜句子的技巧，以及限定搜索结果只来自特定网站的技巧。
+      speed: 20
+      delay: 500
+      linebreak: false
+    - text: 接下来要说明的是，这两种技巧是可以组合使用的。
+      speed: 20
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 组合使用…… 怎样才能做到呢？
+      speed: 20
+    clear: false
+  - npc: ma
+    sentences:
+    - text: 还是举个具体例子吧：如果我们希望限定在 guokr.com 网站中，搜索含有“谣言”这两个字的文章，就在搜索框里写下：
+      speed: 20
+      style:
+        display: block
+        margin-bottom: 16px
+      delay: 800
+    - text: 谣言 site:guokr.com
+      speed: 20
+      style:
+        display: block
+        border: 1px solid silver
+        border-radius: 5px
+        padding: 6px
+      delay: 800
+    - text: 这一行内容，再按下搜索按钮就可以了。
+      speed: 20
+      style:
+        display: block
+        margin-top: 16px
+        margin-bottom: 16px
+      delay: 600
+    - image: http://img.teamkn.com/i/nAUeWcXS.png@500w.png
+      delay: 800
+    - text: 你看，是不是很容易掌握呢？
+      speed: 20
+      style:
+        display: block
+        margin-top: 16px
+      delay: 600
+    clear: false
+  - npc: qu
+    sentences:
+    - text: 只要用空格分开就可以一起使用啦，的确很好记！
+      speed: 20
+    clear: false
+  # 第八，引出搜索结果文章的发布年份限定
+  - npc: ma
+    sentences:
+    - text: 很好~ 那么我们继续讲。除了限定字词和特定网站，我们还可以限定文章的发布时间。
+      speed: 20
+      linebreak: false
+      delay: 500
+    - text: 例如，我们可以只查看发布在某两个具体年份之间的文章。
+      speed: 20
+      delay: 800
+    - text: 沿用前面那个例子，如果我们在搜索框里再增加一项要求：
+      speed: 20
+      style:
+        display: block
+        margin-top: 16px
+        margin-bottom: 16px
+      delay: 800
+    - text: 谣言 site:guokr.com 2013..2014 
+      speed: 20
+      style:
+        display: block
+        border: 1px solid silver
+        border-radius: 5px
+        padding: 6px
+      delay: 800
+    - text: 这时候再按下搜索键，就相当于限定在 guokr.com 网站中，搜索含有“谣言”二字的文章，
+      speed: 20
+      style:
+        display: block
+        margin-top: 16px
+      linebreak: false
+      delay: 800
+    - text: 并把发布年份在 2013 年之前或 2014 年之后的文章都过滤掉。
+      speed: 20
+      delay: 600
+    - image: http://img.teamkn.com/i/JvviVDHu.png@500w.png
+      delay: 800
+  - npc: qu
+    sentences:
+    - text: 这样就可以按文章发布的年份做筛选啦！
+      speed: 20
+    clear: false
+  # 第九，引出搜索要求的逻辑关系问题
+  - npc: ma
+    sentences:
+    - text: 利用 AOL Search 的逻辑操作，还可以实现更细致的搜索效果。
+      speed: 20
+      linebreak: false
+      delay: 500
+    - text: 请问号同学来猜一猜，接下来的这一次搜索动作，能达到怎样的效果？
+      speed: 20
+      delay: 600
+  - npc: qu
+    sentences:
+    - text: 好啊~ 我试试看。
+      speed: 20
+    clear: false
+  - npc: ma
+    sentences:
+    - text: 小马老师在 AOL Search 的输入框里写下了这样一段内容：
+      speed: 20
+      style:
+        display: block
+        margin-bottom: 16px
+      delay: 400
+    - text: 谣言 传言 site:guokr.com
+      speed: 20
+      style:
+        display: block
+        border: 1px solid silver
+        border-radius: 5px
+        padding: 6px
+      delay: 600
+    clear: false
+  - select: search-syntax-logic-and
+    text: 关于搜索结果列表中的文章，下面那个判断是正确的？
+    items:
+      - 必须同时含有“谣言”和“传言”。
+      - 至少包含“谣言”或“传言”中的一个。
+    clear: false
+  - selected: search-syntax-logic-and
+    response:
+      - npc: ma
+        sentences:
+        - text: 恭喜~ 回答正确，加十分！
+          speed: 20
+          delay: 600
+        clear: false
+      - npc: ma
+        sentences:
+        - text: 很遗憾的说，答错了…… 
+          speed: 20
+          delay: 600
+        clear: false
+    clear: false
+  - npc:
+    sentences:
+    - image: http://img.teamkn.com/i/VmH6Pt1C.png@500w.png
+    clear: false
+  # 第十，给出练习题的答案之后，稍微讲解一下逻辑运算。
+  - npc: ma
+    sentences:
+    - text: 用空格分隔开的搜索要求，是“并且”的意思，而不是“或”的意思。
+      speed: 20
+      linebreak: false
+      delay: 500
+    - text: 如果想对搜索引擎表达“或”的意思，可以使用下面这种写法：
+      speed: 20
+      style:
+        display: block
+        margin-top: 16px
+        margin-bottom: 16px
+      linebreak: false
+      delay: 500
+    - text: (谣言 OR 传言) site:guokr.com
+      speed: 20
+      style:
+        display: block
+        border: 1px solid silver
+        border-radius: 5px
+        padding: 6px
+        margin-bottom: 24px
+      delay: 600
+    - image: http://img.teamkn.com/i/KoAjMFrt.png@500w.png
   # 第十一，引出搜索技巧——减号限定法
   - npc: ma
     sentences:
