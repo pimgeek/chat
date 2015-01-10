@@ -16,7 +16,7 @@ scripts:
         # display: block
         # margin-bottom: 16px
       # delay: 600
-    # - image: http://img.teamkn.com/i/qqehXKWT.png
+    # - image: http://img.teamkn.com/i/qqehXKWT.png@200w.png
       # delay: 800
     # - text: 搜索引擎是一种信息获取工具，利用它可以快速获取互联网上含有特定词语/句子的文章或资料。
       # speed: 20
@@ -74,7 +74,7 @@ scripts:
       # style:
         # line-height: 48px
       # delay: 800
-    # - image: http://img.teamkn.com/i/hJPJfney.png@500w.png
+    # - image: http://img.teamkn.com/i/LB5LdfFv.png@300w.png
       # delay: 800
     # - text: 然后按回车（Enter）键，稍等几秒钟……
       # speed: 20
@@ -83,7 +83,7 @@ scripts:
         # margin-top: 16px
         # margin-bottom: 16px
       # delay: 800
-    # - image: http://img.teamkn.com/i/SPuY3N13.png@500w.png
+    # - image: http://img.teamkn.com/i/C8ZhkRw3.png@300w.png
       # delay: 800
     # - text: AOL Search 就这样出现在眼前了。
       # speed: 20
@@ -111,7 +111,7 @@ scripts:
         # margin-bottom: 16px
       # delay: 800
       # linebreak: false
-    # - image: http://img.teamkn.com/i/foypL5ht.png@500w.png
+    # - image: http://img.teamkn.com/i/AobjjQ3r.png@300w.png
       # delay: 800
   # - npc: qu
     # sentences:
@@ -127,7 +127,7 @@ scripts:
         # display: block
         # margin-bottom: 16px
       # delay: 800
-    # - image: http://img.teamkn.com/i/lghzprM7.png@500w.png
+    # - image: http://img.teamkn.com/i/oZhtQ2Cx.png@300w.png
       # delay: 800
   # - npc: qu
     # sentences:
@@ -138,20 +138,20 @@ scripts:
     # - text: 以后我就可以用 AOL Search 去查找与节目相关的资料了。
       # speed: 20
     # clear: false
-  # # 再次，引出历史名人的名号搜索
+  # # 再次，引出搜索提示的概念
   # - npc: ma
     # sentences:
-    # - text: 不仅可以查找与电视节目相关的资料，还可以通过搜索历史人物的名号，调出相关的百科知识呢！
+    # - text: 在输入待搜索词语的时候，AOL Search 会试着猜出完整的词语或句子。
       # speed: 20
       # style:
         # display: block
         # margin-bottom: 16px
       # delay: 800
-    # - image: http://img.teamkn.com/i/cIPDZAot.png@600w.png
+    # - image: http://img.teamkn.com/i/oH0ErHVG.png@300w.png
       # delay: 800
   # - npc: qu
     # sentences:
-    # - text: 看到了！屏幕的右侧出现了思想家“庄子”的名片，看上去很像百科词条的样子。
+    # - text: 看到了！只要输入“奔跑”两个字，AOL Search 就会猜出“奔跑吧兄弟”。
       # speed: 20
     # clear: false
   # # 第四，引出算术题计算类型的搜索
@@ -177,7 +177,7 @@ scripts:
         # border-radius: 5px
         # padding: 6px
       # delay: 800
-    # - image: http://img.teamkn.com/i/MiBiSddE.png@300w.png
+    # - image: http://img.teamkn.com/i/k8UH5exH.png@500w.png
       # delay: 800
   # - npc: qu
     # sentences:
@@ -187,7 +187,7 @@ scripts:
     # clear: false
   # - npc: ma
     # sentences:
-    # - text: 是的。能做的计算题有很多种，具体技巧可参考下面的帮助文档：
+    # - text: 是的。能做的计算题有很多种，具体技巧可参考下面这个帮助文档：
       # speed: 20
       # delay: 800
     # - text: 利用 Google 进行数字计算
@@ -207,7 +207,7 @@ scripts:
         # display: block
         # margin-bottom: 16px
       # delay: 600
-    # - image: http://img.teamkn.com/i/yvqzJbkv.png@500w.png
+    # - image: http://img.teamkn.com/i/c4W71XQu.png@200w.png
       # delay: 800
   # - npc: qu
     # sentences:
@@ -263,7 +263,7 @@ scripts:
         # display: block
         # margin-bottom: 16px
       # delay: 800
-    # - image: http://img.teamkn.com/i/XBKr3iTC.png@500w.png
+    # - image: http://img.teamkn.com/i/CwkevEoq.png@300w.png
       # delay: 800
     # clear: false
   # - npc: qu
@@ -309,7 +309,7 @@ scripts:
         # margin-top: 16px
         # margin-bottom: 16px
       # delay: 600
-    # - image: http://img.teamkn.com/i/nAUeWcXS.png@500w.png
+    # - image: http://img.teamkn.com/i/lMNuFG9i.png@300w.png
       # delay: 800
     # - text: 你看，是不是很容易掌握呢？
       # speed: 20
@@ -358,7 +358,7 @@ scripts:
     # - text: 并把发布年份在 2013 年之前或 2014 年之后的文章都过滤掉。
       # speed: 20
       # delay: 600
-    # - image: http://img.teamkn.com/i/JvviVDHu.png@500w.png
+    # - image: http://img.teamkn.com/i/EdSKDv0Z.png@300w.png
       # delay: 800
   # - npc: qu
     # sentences:
@@ -420,7 +420,7 @@ scripts:
     # clear: false
   # - npc:
     # sentences:
-    # - image: http://img.teamkn.com/i/VmH6Pt1C.png@500w.png
+    # - image: http://img.teamkn.com/i/Q38OxHDC.png@300w.png
     # clear: false
   # # 第十，给出练习题的答案之后，稍微讲解一下逻辑运算。
   # - npc: ma
@@ -446,8 +446,8 @@ scripts:
         # padding: 6px
         # margin-bottom: 24px
       # delay: 600
-    # - image: http://img.teamkn.com/i/KoAjMFrt.png@500w.png
-  # 第十一，引出搜索技巧——减号限定法
+    # - image: http://img.teamkn.com/i/YNY2fqqX.png@300w.png
+  # # 第十一，引出搜索技巧——减号限定法
   - npc: ma
     sentences:
     - text: 上一节中我们知道可以同时搜索两个或更多的词语，来筛选出同时含有这些词语的文章。
@@ -485,7 +485,7 @@ scripts:
       speed: 20
       linebreak: false
       delay: 800
-    - image: http://img.teamkn.com/i/njMUW6A8.png@500w.png
+    - image: http://img.teamkn.com/i/i1sNzyDJ.png@300w.png
   # 第十二，引出限定搜索结果扩展名的搜索技巧
   - npc: ma
     sentences:
@@ -526,7 +526,7 @@ scripts:
         padding: 6px
         margin-bottom: 24px
       delay: 800
-    - image: http://img.teamkn.com/i/Svkpzlky.png@500w.png
+    - image: http://img.teamkn.com/i/xdjh9bfO.png@300w.png
   # 第十三，教程收尾工作
   - npc: ma
     sentences:
@@ -560,7 +560,7 @@ scripts:
         font-size: 120%
         font-weight: bold
       delay: 800
-    - image: http://img.teamkn.com/i/jwsiE9Ls.png@500w.png
+    - image: http://img.teamkn.com/i/jwsiE9Ls.png@300w.png
     clear: false
   - npc: qu
     sentences:
@@ -588,7 +588,7 @@ scripts:
         color: lightblue
         margin-bottom: 16px
       delay: 500
-    - image: http://img.teamkn.com/i/H8Z7tdRS.png@400w.png
+    - image: http://img.teamkn.com/i/H8Z7tdRS.png@300w.png
       delay: 500
     - text: 作者：
       speed: 40
