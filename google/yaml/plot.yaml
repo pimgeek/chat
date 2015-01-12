@@ -401,7 +401,7 @@ scripts:
     text: 关于搜索结果列表中的文章，下面那个判断是正确的？
     items:
       - 必须同时含有“谣言”和“传言”。
-      - 至少包含“谣言”或“传言”中的一个。
+      - 至少包含“谣言”或“传言”之一。
     clear: false
   - selected: search-syntax-logic-and
     response:
