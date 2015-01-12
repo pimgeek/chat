@@ -9,6 +9,12 @@
     });
   });
 
+  if (navigator.userAgent.match(/iPhone|iPad|iPod/i)) {
+    jQuery(document).on('touchend', function(evt) {
+      return jQuery(this).trigger('click');
+    });
+  }
+
 }).call(this);
 
 //# sourceMappingURL=../maps/ui.js.map

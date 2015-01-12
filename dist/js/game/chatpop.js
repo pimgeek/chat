@@ -51,7 +51,9 @@
       if (config == null) {
         config = {};
       }
-      $image = buildel('img.img').attr('src', image).hide().fadeIn().appendTo(this.$pop);
+      $image = buildel('img.img').attr('src', image).hide().fadeIn().appendTo(this.$pop).on('load', function() {
+        return jQuery(document).trigger('chatflow.content-changed');
+      });
       if (config.style != null) {
         $image.css(config.style);
       }
