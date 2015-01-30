@@ -1,0 +1,2309 @@
+npcs:
+  - id: xie_xzh
+    name: 谢行知
+    avatar: http://img.teamkn.com/i/PMzgcGQE.png@100w_100h_1e_1c.png
+  - id: shao_l
+    name: 少林
+    avatar: http://img.teamkn.com/i/Bp1ghkV6.png@100w_100h_1e_1c.png
+  - id: wu_d
+    name: 吴笛
+    avatar: http://img.teamkn.com/i/B5VSfH2U.png@100w_100h_1e_1c.png
+
+scripts:
+  - npc: xie_xzh
+    sentences:
+    - text: 在分享之前，志愿者还会在群里搜集大家的问题的吴笛 
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 各位好，我来这边请大家帮忙啦
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 少林 快来！
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 周六我要在开智群里面分享点知识，我自己一个人难以确保我讲得明白，有用，所以要大家帮忙评估一下。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我是这样打算的，放空我的头脑，不自以为是也不妄自菲薄，请各位来听一听我要讲的几个要点，然后明确指出这些点中，哪些点你们觉得值得说/不值得说，哪些点你们觉得我讲的清晰/模糊，哪些点你们觉得偏主观臆断/相对客观一点。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 也许在这个请各位评估的过程中，我的分享计划会变得很不一样，各位都是这次分享的贡献者。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 首先，我这个兔子吃萝卜的头像，会不会让大家感到怪异？这个是讨好我 lp 才临时设置的，我也不确定适合大家。。。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 谢行知 你不必等，我们就顺其自然，谁想到什么直接说出来就是。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 好的！分享流程你觉得上午发的模板你觉得合适么？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 我在
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 头像的话应该不是大问题吧如果你愿意志愿者会提前在群里爆一下你的照，预热一下 哈哈
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 模板的架构，我觉得没问题的，不过还是确认一下：1 简述【主讲人：分享主题】2 开智宣传语3 主讲人详述4 个人作品/参考链接5 分享内容大纲6
+        分享时段安排7 讨论形式说明8 主持人和嘉宾简介9 预习材料
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 这些内容，是不是宣传语，时段安排，讨论形式，主持人和嘉宾简介这几项都不需要我说明了？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 是的并且可以简单一点，这个模板是按照丁老师分享那期来的，据小马说，觉得有点长了
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 主持嘉宾的话你可以自己指定哈，最好跳群里的熟人
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我再来从你这边获取一点经验，你以前是否做过主持人或者嘉宾？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 我没有过，马兴城 少林 做过
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 但是你参与过几次完整的分享过程吧？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 因为我是想请 马兴城 来帮我记录问题什么的，他就推荐你来帮忙了，我想顺便确认一下，这主持人，嘉宾，问题记录员是一个角色还是多个角色？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 咦 我也没有哦我参与过分享结束后，讲搞的整理过程，小马也分享过经验
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 主持人或者主持嘉宾都是一个人
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 问题记录员可以是主持人，也可以共同收集
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 少林 在微信上加我为好友了，我请他来帮忙也可以，只是不知道这次有没有空。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 没事儿，他应该有空
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我们先暂定由你来帮我记录问题吧，主持什么的，因为不是正式的晚会，也不用登台，我觉得你能做。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 到时候有没有空，先完成咱们接下来的这段内容准备。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 我有空 
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text:  那我就不客气了，就你来帮忙吧~
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 我们在明天之前可以把分享公告搞定，然后在群里预告，还有一天用来收集问题
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 行！那就我吧
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 来了!
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我的自我介绍中说自己喜欢个人信息管理，这个是不是感觉太空了？还不如说喜欢 blog，wiki，自己拼凑出一个 Windows 版的 wiki
+        笔记库，便于自己长期记录各种想法？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: 马兴城
+    sentences:
+    - text: 刚休息了一下。吴笛哥这个不长是上回丁老师的简介长了
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 少林 你好啊~ 我这边正想靠你们帮我梳理下分享思路呢
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 占用各位一大块时间，不好意思啦~
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 大家都是志愿者 可以不用客气 哈哈
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 简介长短不要紧，我最希望言之有物，前有伏笔后又呼应。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 这里就要问各位一个关键问题：一次 2 小时左右的分享，通常能展开几个话题？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: ''
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 上次我参加过糖糖糖的分享，好像总体上就是围绕一本书来讲的。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我觉得我积累不如糖糖糖那么多，也应该限制要点数，并且用一条主线，避免大家思维发散，一无所获。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 这个可以
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 上次丁老师的分享就是主题分享。你的也是。主题分享跟每日分享不太一样。。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 糖糖糖的那一次，是每日分享，还是主题分享?
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 那个是每日分享
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 哦，明白了，我就说他那次好像短一些，只有 一小时左右？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 主题分享青年群每周一次，这周是由你来的
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 这样我就理解了，多谢~
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 嘿嘿
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 嗯嗯是的
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text:  吴笛的自我介绍：个人信息管理爱好者，喜欢 blog，wiki，自己业余时间拼凑了一套 Windows 版的 wiki 笔记库软件，便于自己长期记录各种想法。*
+        个人追求和发展主线：依托互联网，努力整理公共领域的知识，边学，边工作，边整理。 目前的成果：Google 搜索、互联网档案馆、相见恨晚的知识分享、社会心理学、进化心理学、自私的基因、Bullet
+        Journal、基于 Github Pages 的个人博客 收集自己想法的工具：Zim + Truecrypt + 批处理脚本 + 坚果云同步 最新的关注：Edward
+        De Bono，12 堂思维课，开智群的活动（目前团队协作技能较弱）。 发布自己想法的工具：Github Pages + Linux 虚拟机 + Jekyll
+        发布系统 个人心路总结：把握机遇，利用有限的身心能量，在自己的影响范围内多搞定一件增进秩序的事。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 其实，我还在用一种图形化工具，整理自己所学过的知识，这里有截图 http//img.teamkn.com/i/Ne48fvHf.png
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 好强大的技术！
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 先别急着说强大与否，我这次期待的是各位的批判的声音。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: IT小白看着有点晕。。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 吴笛哥，建议弄一个简明大纲
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 对，我就是要 谢行知 这样的评论。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 这也是我所谓占用各位时间的原因  我自己的思绪，需要组织才能让别人更容易懂，但是我自己却不知道从何入手。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 哦哦
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我想问的下一个问题就是：虽然我说了堆，但很乱，很晕。你们觉得在这乱象背后，有那几句话看上去还有一点兴趣？也可能完全没有。。。。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 信息收集-信息整理-信息发布
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 对的，感谢~
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 这个系统对你的好处是什么？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 这个其实也是我的核心想法，你能看到，第一说明我的努力你还是看到了，第二说明你也在努力理解我的想法。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 信息收集使用了哪些技术？为什么使用这个技术？对我们其他人而言可以利用哪些点？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 绝大多数能懂，IT那一块批处理就不太清楚了。不过我想这次分享主题也不是这个，所以影响不大。我们可以在讲座完后再补充，群里不少IT人，他们应该懂这个。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 这个系统对你的好处是什么？ 对我们其他人可以借鉴的地方是什么？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 你处于什么目的建立这个系统
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 出于
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 这个系统，主要是便于我快速录入自己的想法，与 Evernote 很像，但是它是用开源/免费软件拼起来的。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 出于这样的目的1 免于商业广告，或者版本更新带来的困扰，我就想安心地整理自己以前写好的笔记
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 2 我需要 wiki 语法的便利，但同时也希望拥有桌面软件的那种顺畅操作体验。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 小马原想这次的主题是，“吴笛：沉浸互联网—我的档案馆和出版社”少林 
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 3 我希望在必要的时候，直接把其中的某些条目转化为 markdown 语法，发布到 jekyll 系统上面。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 谢行知，感谢你重新提醒这一点。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: ''
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 互联网的确是一个大的档案馆，但是里面东西太乱了，有人会采用大数据的思路去解决，Google 就是很典型的例子。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我追求的很简单，就是以个人的判断力，去搜集一些比较基础的，科普性的知识，然后把他们整理起来，形成稍微有组织一些的网上读物。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 嗯嗯，理解，吴笛哥是想建立一个 对自己来说结构化的知识库
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 但是没想到，网上直接可用的工具往往不是特别不顺手，就是总是被各种商业力量驱使，不够稳定。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 当然我在收集和整理这些网上知识的时候，自己的思维也发生了变化。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 嗯嗯，对自己的影响。这一点可以重点谈一下
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: to 谢行知，就拿知行合一来说，我就慢慢发现，自己曾经收集的很多资料，都被证明只是看上去有用，不一定真的可用。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 如果我只是满足于收集各种看起来有用的资料，那么我就失去了把知识转化为实践的机会。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 啊 昨天看一本书还提到一个词：GBU ~good but useless
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 为此，你采取的对策呢?
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 以往我就觉得，是有人故意要把互联网弄得很乱，故意要抄袭别人，但是现在我在互联网公司了，我们也在尽很大的努力，但是要想让互联网变得更整洁有用，只靠我们小团队的一己之力很难。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 为此我采取了什么对策呢？第一，我尽可能验证一条网上信息的真伪。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 这个李笑来老师也讲过，还推荐过一篇论文 Test The Surf 。。。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 吴笛大哥可以不用急着答，这是一个大概提纲，你可以稍微答一点就行
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我觉得那个文章对我启发很大，但是从论文转化为操作步骤，要想告诉一般人，如何验证一条网上信息的真伪，我就觉得不好讲明白。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 好的。。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 是的 别急哈
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 嗯嗯，这样的事例倒可以详细答，因为这个普遍性很强
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 我们听了后会结合自己的经验去想
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我的对策，就是用 Google ，采取一种很机械的方式去验证文章的真伪，具体方法我另外再说。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 当然，如果周围有领域专家，我也可以立刻问专家 
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我在自己的博客首页，也列举出了好几项如何使用 Google 的教程。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 要不还是吴笛大哥按照自己的想法先走一遍，也可以顺便组织一下语言，时间应该也还够·····
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 完了后我们再选择重点
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 互联网档案馆，是另一项验证信息真伪的工具
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 嗯嗯
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 请吴笛大哥介绍一下
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 有些网页，要么是因为墙的原因，要么是因为网站停办了，一条信息的源头就消失了。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 这样对验明一条言论的正身，是非常不利的。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: ''
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 所以，我就会试着把那个死链接，放进互联网档案馆的输入框里，碰碰运气
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 至少有 80% 的机会，我是可以拿到历史上的某一天的存档的，这样就离验明正身更进一步。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 所以，严格说来，我的思路是【收集信息】【对信息验明正身】【整理信息】【发布信息】
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: ''
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 然后你们可能会奇怪，【社会心理学】【进化心理学】【自私的基因】这些东西怎么会混进来，好像不是信息整理的主线上啊
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 这个我就要延续 谢行知【GBU ~good but useless】的这个说法了。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: Good 但是 Useless，这里面存在某种矛盾，我们的感官觉得好的事情，为什么在实践上有可能是无用的？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 反过来想也有点怪，如果【我们的感官觉得好的事情，为什么就能保证它在实践上是有用的？】
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 哥你不是一般地强啊
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 你们对我讲的这个问题，有好奇心吗？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 好奇+惊奇 
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 愿闻其详
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 只有得到观众认可，我才自热而然地产生更大的热忱就分享详细的情况。这也是我感官上的需求。 
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 首先说明，我对心理学一直是有关注的，先看的一些鸡汤书，比如心灵地图，后来看一些小册子，比如马斯洛心理学，再后来看教材，就是社会心理学，再后来才接触到所谓进化心理学，自私的基因之类。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: xie_xzh
+    sentences:
+    - text: 急事 先离开一会儿，你们继续，sorry..
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 当然，这里面李笑来和刘未鹏前辈的分享，对我有很大帮助。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 谢行知，OK，会保留聊天记录。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 铺垫了这些，限于时间，我简单说结论了，人类毕竟也是生物的一种，生物是通过亿万年的进化才发展出来的，人们的感觉器官也得益于这种进化，会自然而然地对一些东西
+        feel Good，对另一些东西 feel Bad
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 理解
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 然后，自私的基因也好，进化心理学也好，都是在讲这种随进化而形成的自然倾向。现代社会发展很快，有些自然的 feel 反而不适应今天的节奏，所以就会产生
+        【GBU ~good but useless】的矛盾。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 这个又跟信息的收集+验证+整理+发布由什么关系呢？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 在信息的发布这一环有非常紧密的关系。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 收集信息时破除人的心理偏见···感觉传播学的东西在这里面会涉及到
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我希望以整理信息，为大家所用，但最终我也是人，我也会累会烦，怎样才能让我自己克制疲倦地发有用的信息给大家呢？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我要保证我发布出去的信息，它是美观的，整洁的，大方的，让人看了想要点赞的。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 只有大家点赞，我才有进一步的动力，去把这项工作持续做下去。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 有时候读者可能并不是真的读懂了我的内容，甚至我的内容是误导性的，他们也会点赞。这样不理想，非常不理想。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: ''
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 但是，我至少能解决第一个问题，就是我能否持续工作下去。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 所以，这就解决了前面我抱怨的：【以往我就觉得，是有人故意要把互联网弄得很乱，故意要抄袭别人，但是现在我在互联网公司了，我们也在尽很大的努力，但是要想让互联网变得更整洁有用，只靠一己之力很难。】
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我要充分利用我身体中隐藏的【得到认可后产生进一步工作动力】的那种内分泌机制，来促使我做更多整理信息的努力。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: ''
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: Bullet Journal 是一种记录个人日程的小工具，可以用纸质笔记本来实施，也可以用电子笔记本。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: GitHub Pages 可以免费地把 Markdown 源码发布为 HTML 网页，跟我的个人笔记库接轨。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 赞！
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 我也在学这个····
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 后面可以请教你哈
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: Jekyll 与 GitHub Pages 配合使用，可以让个人博客网站互动性更好，更方便大家互相点赞。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 要想让 Jekyll 充分发挥作用，一定要有一台 Linux 虚拟机（或者实体机）
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 原来如此！
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 多参与开智群这样的群体交流，我才能保证自己不是自说自话，生产一堆别人看不懂的内容。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: Bullet Journal  应该很多人也感兴趣，到时候也可以介绍一下
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 另一方面，我自己也需要学习，总是在处于自己收集整理的过程中，有可能别人有更好的收集整理法，甚至有比进化心理学更精准的世界观，这些我都要学习。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 最后，我每天都在不断改变，有时快些，有时慢些，有时就懒了不想动了，有时候就穷则思变，打破懒惰…… 这么不稳定的情况下，我不知道该怎样设定自己的人生目标。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 这时候，就是最后这一段心路总结：【个人心路总结：把握机遇，利用有限的身心能量，在自己的影响范围内多搞定一件增进秩序的事。】
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 我理一下思路啊哈
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我要感谢 少林 马兴成 谢行知 这两天来对我个人追求的支持，不然上面的这些思路始终是非常模糊的，无法向别人表达出来状态。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 现在也还是模糊的，但最起码第二条达到了：【我试着把它向以前不熟悉的人表达出来了】
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: ''
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 我再梳理一下哈··
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 占用了 少林 和 谢行知 二位大约 1 个多小时的时间。希望我的思路还不是太乱。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 从我个人觉得互联网太乱，想要改善开始，我做了一系列动作。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 【整理信息】【验明正身】【寻找和试用组织信息的工具】【自己攒成了一个 Windows 版的 wiki 笔记管理工具，可以生成 markdown
+        源码】
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 这个总结得好！
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 整理信息 下面是 谷歌搜索技巧的介绍
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 【尝试在网上发布信息】，包括相见恨晚的答案，Google 搜索入门，等等。发布信息的时候，用到了诸如 linux ，GitHub Pages，Jekyll
+        等技术工具。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 哦对的，Google 搜索和互联网档案馆都有助于验明信息的正身。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 在整个信息【收集】【验证】【整理】【发布】的全过程中，我其实一直都在学习，也希望突破自己的局限。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 所以会参与开智群的活动，也会关注 Edward De Bono 的 12 堂思维课这种专门训练思维操控技术的工具书
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 我想看看那个互联网档案馆····
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我正式讲的时候，一定会有所压缩，不会把所有这些都讲出来，因为那个时候，可就不是 4 人群了。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 你需要翻墙才能看到，http//www.archive.org
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: ''
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 嗯嗯
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 如果你能根据自己的领会，帮我写一个草草的内容大纲出来，那对我会非常有帮助哦！
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 嗯嗯，要得哈···
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 因为你这样认真地听，头脑中真正形成的印象，也就是我能期待的最好表达效果了。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 我可能会根据自己的兴趣点，建议你有些地方详细讲，有些用词稍微改动一下哈
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我不会直接拿着你的大纲就开讲的，会试着把一些关键的衔接点补充好。你当前留下了什么印象，这个对我才是最重要的。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 像我们普通人怎么使用你的档案馆呢？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 可以介绍一下你的设计理念
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 没问题，我前面说了，这次分享是我们共同努力促成的。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 你说我个人的 wiki 笔记库是吗？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 就是互联网档案馆
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text:  是我们应该做的啊～～
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 哦，你是说 http//archive.org 这个网站对吗？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 嗯嗯，对呀
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 如果有一个链接是死链接了，比如 http//www.lixiaolai.net , 只要把这个网址输入 http//www.archive.org
+        的输入框里，就可以看到以往的样子。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 稍等，我给你截个图吧。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 相当于对整个互联网建立了索引？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 还是对自己的收集起来的内容建立的索引？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 一般都只是静态页面，像 .cgi 啦，.jsp 啦，.pl 啦这些，就不容易得到了。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 说的是【互联网档案馆】，就确实是对全网做索引啦。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 哦哦
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我自己收集起来的那部分，充其量就是 5000 多个小条目，不算啥。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 刚刚我还以为你对我的 wiki 笔记库感兴趣呢。。。我沾沾自喜了一下。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 那个也感兴趣！
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 我先把这个弄懂了来！
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 关于我个人的笔记库工具设计思路，恰好也有记录，你可以看到。https//github.com/pimgeek/pim-design/issues/11657
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 这个是互联网档案馆的用法http//img.teamkn.com/i/BZQFSRfU.png
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 要翻墙才能用，但是真的很好用。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 互联网档案馆：相当于一个互联网入口，可以保证里面收集的网站不被商业、政治等因素影响？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 不知我的理解对不对
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 有些网站一经改版，就会删除好多有用的旧内容，在这个档案管理，可以看到某些改版后网站的早期样貌
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 你要说不被商业和政治等因素影响，我觉得说大了。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 网站版本管理器？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 可以这样理解，比较贴切
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 哦哦！
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 理解了，理解了····
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 就是版本回溯，因为它里面写着有 WayBackMachine 了
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 你看，这就是我从你这里收获的最重要信息。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 原谅我这个小白哈
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 也许大家对档案馆的想法各不相同，但是对版本回溯却容易说得通。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 对于 删贴党是一个恶梦！
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 毕竟 Mac 电脑上以前就有这种时光机的概念了。Windows 的系统还原好像也是类似的意思。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 是啊，特别是大热的帖子。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 是啊···我因为没用过所以对这些概念不是那么容易明白哈···
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 现在懂了！
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 有些猫扑论坛什么的，你就别指望了，那种 frame 很多的论坛，我印象中好像比较难被收录。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 天涯论坛，我觉得有门，因为它就是静态页的感觉。哦对了，如果网站自己声明说，别收录我的内容，那可能也不会被收录。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 哦哦，你收录的网站是采用了什么技术标准呢？ 是自己编写的规则吗？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 我觉得这个可以重点介绍一下······· 因为这个的确有应用场景，我们普通人也会因为这个功能而用它的
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 有一个要点我得澄清一下：1 我自己有一个 wiki 笔记库，这个是手工收集资料的，也包括我自己的日记什么的。2 互联网档案馆是美国某机构下属的网站，它们是用程序收录各种网站的内容，我只是利用它。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: ''
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 感谢你的提醒，我会特别强调这个的。我的主要使用场景是验明某个网上内容的来源是否属实。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 原谅我又理解偏了
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: ''
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 大彻大悟！
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 我再看看你的个人笔记库
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 如果我们是一起搞作战计划，那么误解可能会有损失；但是我们这里是在讨论怎么分享知识，才能让更多人容易懂，所以你这个理解反而对我有帮助。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 有不懂的问你哈
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 如果没有误解，那我讲的内容岂不是大家本来就知道，就没有可讲的地方了。。。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: ''
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 要不再发一下链接哈
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 哦哦，找到啦
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 那篇介绍文档写得很好啊
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 到时候可以直接用的
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 哪一篇？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 是说介绍 pim 系统设计思路的那篇吧。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 设计思路：研究个人信息管理的初衷--克制信息过载，保持心绪平和
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 还是要麻烦你发一下你的wiki笔记库哈
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 我能通过链接浏览不？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我的 wiki 笔记库，是一个很大很杂的库，里面还有些个人隐私的内容，比如银行账号什么的，所以没有全面公开出来。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 哦哦
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 要得哈
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 我觉得比较适合公开的，别人容易看懂的，或者至少我自己觉得有用的，都放在 http//pimgeek.github.io 上面
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 大概的样子，给你看一眼 http//img.teamkn.com/i/LfPIyWh1.png
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 嗯嗯
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 这个很有用
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 其实就是一个类似树形大纲笔记本的软件，后面呢，是一堆文本文件，含有文件夹。你自己也可以创建的。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 如果我是一个小白的话我可能会问：其本质是一个博客，那么相对传统博客的优势有哪些呢？
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 这个是 wiki 笔记工具的介绍。http//www.zhihu.com/question/19716095/answer/20910474
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 当然我理解它的一些优势
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 用 Jekyll + GitHub Page 构建博客，至少在现阶段有这样几个好处：1 从域名到空间到初期使用的网络流量都是免费的2 完全掌握博客后台，从网页模板到后台的程序，只要学会了就完全可控，免于受服务商干预。（可以增加第三方评论框，第三方点赞服务等）3
+        所有博客文章都会得到自动备份，因为硬盘损坏而丢失的可能性很小。4 看上去比较酷。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 对于 3 来说，不是自己家里的硬盘损坏，而是说 GitHub 官方网站的服务器硬盘损坏，并且备份服务器也损坏。。。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: wu_d
+    sentences:
+    - text: 缺点，就是需要花时间上手，不是那么容易入门。我花了好几个星期才真正把 Jekyll 用起来。
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: 如果把这个当作一个产品的话，要讲清楚它相对于同类产品的核心优势，这样便于我们理解。我跟人感觉它对知识工作者作用巨大，那么传统知识工作者面临着哪些困境？对这个困境目前有无同类产品，有的话，你的这款产品相对而言的核心优势是什么····这是我思考这个问题的一个思路
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
+    clear: false
+  - npc: shao_l
+    sentences:
+    - text: ''
+      speed: 15
+      style:
+        display: block
+        margin-top: 16px
+      delay: 700
