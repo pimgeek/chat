@@ -2299,11 +2299,3 @@ scripts:
         margin-top: 16px
       delay: 700
     clear: false
-  - npc: shao_l
-    sentences:
-    - text: ''
-      speed: 15
-      style:
-        display: block
-        margin-top: 16px
-      delay: 700
