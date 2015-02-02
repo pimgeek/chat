@@ -6,6 +6,7 @@
       this.id = data.id;
       this.name = data.name;
       this.avatar = data.avatar;
+      this.direction = data.direction;
     }
 
     return NPC;

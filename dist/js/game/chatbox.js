@@ -30,7 +30,7 @@
     };
 
     ChatBox.prototype.show_sentences = function(script, callback) {
-      var callback_holder, chatpop, finish, npc;
+      var callback_holder, chatpop, direction, finish, npc, npc_direction;
       callback_holder = new CallbackHolder;
       finish = function() {
         return callback_holder["do"]('finish');
@@ -39,7 +39,14 @@
       if (script.npc) {
         npc = this.game.get_npc(script.npc);
       }
-      chatpop = new ChatPop(this.$chatbox, npc);
+      if (npc) {
+        npc_direction = npc.direction;
+      }
+      direction = script.direction || npc_direction;
+      if (direction == null) {
+        direction = 'left';
+      }
+      chatpop = new ChatPop(this.$chatbox, npc, direction);
       chatpop.sentences(script.sentences).on('finish', function() {
         return finish();
       });

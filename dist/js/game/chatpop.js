@@ -2,10 +2,10 @@
   var ChatPop;
 
   window.ChatPop = ChatPop = (function() {
-    function ChatPop($panel, npc) {
+    function ChatPop($panel, npc, direction) {
       this.$panel = $panel;
       this.npc = npc;
-      this.$chatpop = buildel('div.chatpop').css({
+      this.$chatpop = buildel('div.chatpop').addClass("direction-" + direction).css({
         'opacity': 0,
         'top': 30
       }).animate({

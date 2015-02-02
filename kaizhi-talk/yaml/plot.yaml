@@ -1,0 +1,2928 @@
+npcs:
+  - id: xie_xzh
+    name: 谢行知
+    avatar: http://img.teamkn.com/i/PMzgcGQE.png@100w_100h_1e_1c.png
+  - id: shao_l
+    name: 少林
+    avatar: http://img.teamkn.com/i/Bp1ghkV6.png@100w_100h_1e_1c.png
+  - id: wu_d
+    name: 吴笛
+    avatar: http://img.teamkn.com/i/B5VSfH2U.png@100w_100h_1e_1c.png
+
+scripts:
+- npc: wu_d
+  sentences:
+  - text: "大家好，我在电脑前面紧张多时啦。。。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "爆一张照 目测颜值很高哦"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "阳光8远"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "无论我怎么微调分享内容，总有种未完成的感觉，不过现在还是要开始分享啦。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "乔永真"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "【主持人提醒】1)  今天 2 个小时的讲座，前半部分，由 吴笛哥分享，大家最好能做个安静的美男子 / 女子，减少干扰时间线； 2 ）后半部分，自由提问；如果时间关系需要提前离场，可以提问谢行知
+      ，由我代为提问。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "哈哈 吴笛哥按照提前准备好的就行啦"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "景雯上海"
+  sentences:
+  - text: "板凳备好。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "马兴城"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "少林"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "时间到了，下面由主讲人开讲"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Stella施赛男南京
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "好的"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "星海"
+  sentences:
+  - text: lalalala
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "首先，自我介绍一下，80 后思维爱好者，对思辨和心理学非常感兴趣，学过数学和模式识别，写过几年的博客，做过几年的外企技术工作，现在从事互联网产品的创意和研发。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "同时也是个人信息管理爱好者。因为特别容易沉浸于博客和维基的写作乐趣中，所以在自己业余时间里，曾利用各种免费软件和网络服务拼凑出一套基于 Windows
+      的桌面版 Wiki 文档编辑和存储系统（含加密、自动备份和云同步功能），便于自己长期使用。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "回头看来，这些兴趣爱好都可以归结到心理学和认知科学这个主线上来。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "可以说正是出于对心理学和认知科学的好奇，闻香识人，才逐步在互联网上熟悉了刘未鹏，李笑来，刘夙，采铜，阳志平老师等前辈…… 这才有幸得到阳老师邀请加入开智群的热闹讨论中。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "今天要分享的主题，就是【沉浸互联网——自生长的档案馆和出版社】。这个主题既包含了我的个人兴趣与经历回顾，也包含了我对互联网的理解和利用；既有对互联网现状的看法，也有对未来的展望。产生这个主题，主要因为我一直沉浸于其中吧。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "继续分享之前，我先说一下注意事项。这次分享我为许多要点都给出了参考链接，但是希望群友耐心听完分享，再点击我给出的参考链接。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "因为“多点一次超链接，思路就会发散一层，连续点击三次以后很容易丢失原来的目的”（我事后会把分享稿发给大家）"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "这个注意事项，大家都看到了吗？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "青&Fang 厦门"
+  sentences:
+  - text: "看到了"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "恩恩 看到啦"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Caos
+  sentences:
+  - text: "您继续"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "好的。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: X&Y––深圳
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: ''
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "陈骊"
+  sentences:
+  - text: "嗯嗯"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "张轩铭"
+  sentences:
+  - text: "请继续"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "是在高三时期（1998 年前后）接触到互联网的，那时候就觉得打开了一扇具有无限可能的资料库（但还谈不上出版），对它充满了好奇和遐想，一上网就觉得特别刺激。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "当时曾经读过比尔盖茨的《未来之路》，觉得这本书蕴含着对互联网未来的准确预言——有用的信息像自来水和交流电那样唾手可得，不出户即可知天下。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "但是随着上网经历的增多，就发现互联网，尤其是中文互联网的现状没有我预想得那么好，垃圾的重复的信息，杂乱无章的广告，充满诱惑的干扰人思维的花边新闻，让上网体验极度变差。（举例说明
+      - 一篇被滥用的职场文章 http//pimgeek.github.io/jekyll/1422672924.html）"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "因为困惑而有所反思。把互联网假想成可以自动过滤劣质信息的有用信息网，是我的错。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "后来，我逐渐明白互联网是由人的兴趣和商业利益共同推动的，免费的信息不可能像天上掉馅饼那样产生出来，需要有人持续付出努力去改善它的内容，否则就会变成靠怂人听闻的信息吸人眼球，赚取短期广告利益的注意力耗散信息网。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "当然不希望坐视不管。最初想法简单直接，就是尽我个人的努力，基于我个人的美好愿景外加我的逻辑判断和审美能力，收集真正有用的信息，剔除垃圾信息，并且尽快告知我认识的网友哪些才是真正值得关注的。。。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "再后来，我逐渐发现这个互联网信息提纯的目标工程浩大，工作量大得超乎想象。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "但同时我又了解到很多不同的解决思路，比如网页互链关系分析的数据挖掘思路，典型的如 Google 搜索引擎。它试图利用网页之间的引用推荐关系，给同类的网页内容排出优先顺序，受推荐程度高的网页才出现在搜索结果前列，至少这样可以基本达到去粗取精的效果。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "但我对内容的质量有点偏执，还是是想亲手去做整理。所以我就在业余时间里一点一点地收集有用且公开免费的信息，并加以验证，研读，整理…… 没想到多年过来，我居然拼凑出一套基于
+      Windows 的桌面版 Wiki 文档编辑和存储系统。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "这就进入了我今天要讲的重点，一套用于把互联网信息提纯的，面向个人知识分享者的信息处理流程，以及和它配套的软件处理系统。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "呃。。。今天大家这么安静，我是不是过于长篇大论啦 "
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "【主持人插播】大家可以跟上主讲人的速度吗？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "楠"
+  sentences:
+  - text: "可以"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "【群主插播】刘未鹏，李笑来，刘夙，采铜，阳志平老师等  都在作者群.....一个一个安排各位老师分享。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "感谢主持人提醒~"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "可以，没问题的。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "张轩铭"
+  sentences:
+  - text: "完全没有问题"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "没有没有哈 大家都不会主动打扰你的时间线的"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "谢谢阳老师和大家。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "所谓的信息处理流程，大概包括【信息收集】【信息验证】【信息研读】【信息整理】【信息发布】这几个关键环节。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "在分别介绍各个处理环节之前，大家或许想了解：分享者本人利用这套工具，配合他的脑力，到目前为止做到了什么呢？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "粗略地说就是 2013 年 12 月发布在知乎网上回答，一年过后它得到 3000 多赞：你有哪些相见恨晚的知识想推荐 - 吴笛推荐给大家的知识合辑
+      -  http//www.zhihu.com/question/22238159/answer/20783349"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "如果各位群友对信息处理流程的细节不那么感兴趣，那么我至少可以为大家奉上这份知识合辑。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "对于希望了解流程细节的群友，接下来我就分各个环节来讲解，包括这个环节需要做哪些事，所用的典型工具是怎样的。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "首先是【信息收集】环节，被收集的信息可能来自各种不同的渠道，门户网站，微博，微信，论坛，中小网站，各类博客等等。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "没事儿 ，先按照你的主讲思路来，讲完后再分享给大家。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "当我通过这些渠道看到有用的信息，打算收集到我的私人笔记库存中时，主要会做些什么事情呢？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "主要是 A) 它为何会吸引我，触动我？B) 它的内容要点是什么？C) 如何做到一个超链接就可以访问到它？这个超链接也就是大家俗称的“传送门”。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "谈到信息收集，很多人都会想到 Evernote 印象笔记，它收集信息方面做得的确非常好，提供了各种插件，提高收集信息的效率。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "其实我从 Evernote 的桌面 2.2.384 版就很喜欢这款软件了，但是它后来的版本我就渐渐不再使用了，主要因为它的功能趋于臃肿，速度也慢了下来。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "乎乎"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "萱小璧 Yixuan"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "果动"
+  sentences:
+  - text: "那现在推荐的是什么"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "出于诸多考虑，我在 2012 年左右开始用免费的开源软件 Zim 来辅助信息收集。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: Zim 是一款面向个人的，所见即所得的桌面维基软件，跨平台可用，完全基于纯文本，所以它的数据是开放的。（相关知乎回答：有哪些适合个人知识管理的
+      wiki 系统？- Zim Desktop Wiki http//www.zhihu.com/question/19716095/answer/20910474）
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "果动 别急哈 且听吴笛哥慢慢道来"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: Zim 不是一款消费向的软件，它只适合在桌面系统中使用，而且不太容易上手。
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: Zim 和 Evernote 有相似之处，都是以笔记条目为单位来记录信息，但它有非常方便的交叉引用链接生成功能，可以高效地从一个条目跳转到另一个相关的条目。
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "事实上，我有一部分资料就是用 Zim 生成链接并放在网上的。 http//pimgeek.github.io/zim/Zim 编辑器相关界面截图如下："
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "萱小璧 Yixuan"
+  sentences:
+  - text: "棒，ubuntu有zim"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "虽然利用 Zim 收集信息的手工操作步骤比 Evernote 多了一些，但毕竟可以让我专注于信息的收集和整理本身。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "那么另一个问题来了，我主要会收集什么样的信息呢？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "欧阳"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "一般是那些我认为经得起推敲的，干货充足，经久不衰的信息。这个也符合采铜前辈所说的【长半衰期原则】"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "并不指望像 Evernote 那样见到什么都收集，而是利用手头简单有效的工具，多收集那些“半衰期长”的信息，避免盲目跟风。（可参考采铜的回答：推荐给年轻人的可实现的成功学
+      - http//www.zhihu.com/question/22238159/answer/20750109）"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "韓梅梅"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: 101难过
+  sentences:
+  - text: "吴笛 hypw1s"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: hypw1s 这个是什么意思。。。？
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "主持人请放心，讲稿是准备好的，随时可以回到主线 "
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: FaintMemo
+  sentences:
+  - text: "哈哈哈"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "咦 可能是群友失误了吧 。请主讲人继续"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "信息收集这一块已经把要点讲到了，接下来我要讲一讲【信息验证】这一环节。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "【主持人插播】：通过主讲人分享我们得知，为了优化接触到的信息，萃取出其中的营养。吴笛哥凭借互联网，借助工具，探索出了一条【收集】，【验证】，【阅读】，【整理】信息整理链。所谓见贤思齐焉，请群友思考，自己是怎样处理自己每日接触到的呢？主讲人已分享的对待信息的态度和处理方法，是否可供自己借鉴呢？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "张婷婷"
+  sentences:
+  - text: "膜拜采铜"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "前面曾经提到过，免费信息不一定都是有用的，甚至是误导的，很早以前我读过李笑来老师的一篇博客文章，他很明确地指出了这一点。（参考链接：最少必要知识
+      - http//blog.sina.com.cn/s/blog_62eeb1350102vcas.html）"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "我稍微总结了一下哈，主讲人请继续"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "郑小燊-Sarah"
+  sentences:
+  - text: "幸亏来得及时"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "他推荐了一篇外文文章叫做 “Testing the Surf Criteria for Evaluating Internet Information
+      Resources.”网上冲浪的信息验证：评估因特网信息资源的是否可信的判断标准。该文章充分详实地说明了评估一条互联网（不得不说主要是英文互联网）信息是否可信的判断标准。https//journals.tdl.org/pacsr/index.php/pacsr/article/view/6016/5645"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "最初也是受李笑来老师这篇博文的启发，开始对各种网上信息更加谨慎地对待，并且努力找到我所关注的每条信息的最初来源。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "最理想的情况是找到了信息的最初作者，或者找到了可信的发布机构的报道支撑这条信息，无论这条信息是中文信息还是英文信息。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "同时也意识到并不是每个人都能利用 Testing the Surf 一文中所述的那些规则去做判断，所以我总结了一套只要利用 Google 搜索引擎，机械地反复搜索，就可以发现一则网文是否原创，或者是否来自可靠源头的方法。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "萱小璧 Yixuan"
+  sentences:
+  - text: "可以总结为CVSIP法则。collect，verify，study，integrate，post。好记。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "没有做严格的统计，凭印象来看，这个方法至少 10 次使用有 6 次左右能行得通吧。举例说明：知乎回答 - 如何找到库伦定律的原始文献 - 利用
+      Google 搜索法的操作步骤 - http//www.zhihu.com/question/21938586/answer/22906279"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "前面举出的例子，仅仅是用到了“一边搜索，一边根据搜索结果的内容，调整搜索关键词再次搜索”这样的迭代搜索法来逐步接近原始文章。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "在网文溯源方面，还需要充分利用 Google 搜索的网文发布时间筛选器，因为无论一篇网文被传播篡改得多么离谱，它的发布时间一般都比原文要晚上几个月甚至几年。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "简言之，如果一篇文章号称原创，而且你明确看到它文章写着是 2014 年发布的。如果我利用 Google 搜索找到一篇雷同的文章，在 2007
+      年就发布过了，那我就会严重怀疑 2014 年那篇是转载甚至篡改过的文章。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "再举一例说明，大家近年来可能听说过女子把迷路的小孩子送回家，结果被电铃按钮麻痹，醒来发现人在浴缸里肾被切掉。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "其实利用 Google 的发布时间筛选器查找，就发现早在 2008 年就有人提到过类似的故事，而且当时就被辟谣了。Google 搜索引擎截图如下："
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: Google 时间筛选器实际链接 - http//s.4ye.me/eLvt5j辟谣文章 -http//www.loongzone.com/forum.php?mod=viewthread&tid=12305
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "这里举的两个例子都比较简单，开智群的讨论者们想必都不会轻信，但这里介绍的信息溯源和验证方法，才是我想说的重点，只要你会使用 Google 搜索引擎，就可以掌握我说的方法。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "为了方便大家熟悉 Google 的搜索技巧，我制作了多项在线入门教程，欢迎大家试用：http//pimgeek.github.io/"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "除了 Google 搜索引擎，我还会试着利用 archive.org 这个免费的互联网历史版本库。如果一则网文的最初链接失效了，那么很有可能能在
+      archive.org 这个网站上找到它历史上曾经出现过的样子。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "例如著名的思维技术培训师爱德华·德博诺曾经在网上有一些免费的教程，但某些教程网页链接后来失效了，我就会试着用 archive.org 来追溯它的历史版本
+      - https//web.archive.org/web/20031118191440/http//www.debonothinking.com/courses/C001.htm
+      （需要翻墙才能使用）"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "对于还不熟悉 archive.org 的群友们，我稍微铺垫一下：这个网站是对整个互联网上大量静态网页内容的一个多版本存档，概念上比较类似于我们
+      Windows 的系统还原，或者是 Mac 机上的 Time Machine。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "以上两个都是借助互联网本身来验证信息可靠性，如果我们身边有某个领域的专家，如果不确定网文的可靠性，那么直接问专家反而来得快些。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "南风"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "为什么我首先强调 Google 和 archive.org 而最后才强调领域专家呢？主要是希望群友们提高使用互联网的“投入产出比”，毕竟互联网越来越趋于无处不在，而领域专家则未必随叫随到。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "到这里已经讲完了【信息搜集】和【信息验证】两个环节，我要稍微整理一下微信聊天记录，群友朋友们也可以顺便休息两三分钟。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "镜子心理"
+  sentences:
+  - text: "好的"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "张轩铭"
+  sentences:
+  - text: "辛苦~消化中~"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "萱小璧 Yixuan"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "吴笛哥可以先喝口水哈"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: DarkHelsinki
+  sentences:
+  - text: "说到这里，问题来了。。。国内墙这么厚..."
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "张轩铭"
+  sentences:
+  - text: "翻翻翻！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Cloudtree
+  sentences:
+  - text: zim
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "翻墙首选 goagent。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "萱小璧 Yixuan"
+  sentences:
+  - text: "有人说，柏林墙不是翻过去的，是被推倒的。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "【主持人插播】请大家好好消化一下，墙的问题建议私聊"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "钱子游"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "休息过后，接下来让我继续讲解【信息研读】这个环节。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "恩恩 ，请继续"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "信息验证过后，就要努力去利用它，做到知行合一，而不是纯粹以收集信息为乐趣，那样就变成集邮了。我也是在收集和整理信息的过程中，才逐步意识到这个问题的。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "一鸣北京"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "们的主持人谢行知同学，或许也是深谙此道，才选择了【谢行知】 这个名号，让人感觉到 知行合一 是多么的重要。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "啊， 此处可以不提我呀 自知做得很不够。。。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "用偏认知科学的语言粗略描述，如果不能把所收集到的知识转变成大脑内神经网络的存储，那么遇到棘手的事情，第一反应仍然是用笨办法老办法，无论 Evernote
+      还是 Zim 笔记库里的资料，都不会“主动跳出来”帮忙。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "在我看来，大脑与非智能程序的最大区别就在于，遇到难题时，是否能自动蹦出一个默认且靠谱的解决方案。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "说到知行合一，就不得不说另一个道理，这在研读一些新的信息时尤为重要。那就是眼见未必为实，Good But Useless（GBU）的怪现象是确实存在的。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "关注某项信息时，自我感觉挺好（Good）但是实际用不上（Useless），这个现象似乎存在某种矛盾。它直接引发了一个疑惑：我们的感官觉得好的事情，为什么在实践上有可能是无用的？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "反过来想想还是困惑，人们自我感觉良好时，为什么就能保证它在实践上是有用的？难道上帝对人类真的有特殊眷顾，所以允许人们只凭感觉良好，就能做出明智的决策？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "【主讲人插播】： 刘未鹏老师在一篇博文中，也写到“学习新知识并将其存放于大脑中，最终的目的是要在恰当的时候能够想得起来去使用。因此，学习的有效性显然应该这样来衡量：当遇到需要用到学过的知识的时候，相关的知识是否会自动从你脑海中“蹦”出来，最起码——能否通过有意识的搜索将它们提取出来。”
+      跟吴笛哥此处讲的有异曲同工之妙。（全文见： "
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: BetterExplained
+  sentences:
+  - text: "如何有效地记忆与学习 http//mindhacks.cn/2009/03/28/effective-learning-and-memorization/）"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "为了不偏离分享主题，这里不对 GBU 做过多展开，只想告诉大家，我在收集有用的认知心理学和进化心理学相关资料的时候，初步找到了一种可以接受的解释（但不是定论）。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "读过《自私的基因》或者了解过进化心理学基础的人，就意识到：人类毕竟也是生物的一种，生物是通过亿万年的进化才发展出来的，人们的感觉器官也得益于这种进化，会自然而然地对一些东西
+      感觉良好（Feel Good），对另一些东西感觉整个人都不好了（Feel Bad）"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "《自私的基因》也好，进化心理学也好，都是在讲这种随进化而形成的自然好恶倾向。现代社会发展很快，有些大脑在进化中形成的好恶倾向反而不适应今天的生活实际了，所以会产生
+      GBU 的现象。（参考链接：刘未鹏博客 - 遇见20万年前的自己 -http//mindhacks.cn/2010/03/18/escape-from-your-shawshank-part3/）"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "回到【信息研读】的主题上来，关注那些看似有用的信息或者书籍时，要带着警觉。不要看见大家都在转发或者点赞，就觉得必须重视，必须转发，甚至必须接受。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "有两则知乎回答说明了这一点。反面例子：哈佛大学学生是否四点钟还在自习室里自习？辟谣并解释 - http//www.zhihu.com/question/23146712/answer/23769587正面例子：号称终极快速学习法的费曼技巧，究竟是什么样的学习方法？可靠性可以确认
+      - http//www.zhihu.com/question/20576786/answer/21770899 ）"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: GBU 这种现象也同样会出现在后面【信息整理】和【信息发布】等环节。
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "在信息整理环节，我一般会按自己的思路去整理内容，但这样做过整理之后，是否方便读者发现更多有用的条目呢？所以我需要不断尝试变换信息整理方式，才能避免
+      GBU 的问题。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "举例说明，我曾使用 Wiki 链接整理内容，自己感觉有用内容更容易被发现了，但我仍然需要读者通过评论框告诉我是否事与愿违 - http//s.4ye.me/f8xl3N
+      。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "但让我们暂且忘记 GBU 的现象，观察问题的另一方面，作为信息整理者，我也是普通人，也会累会烦，怎样才能让自己不知疲倦地继续整理信息呢？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "的初步解决思路是：尽量保证我发布出去的信息是美观，整洁，大方的，让人看了想要点赞的。只有大家点赞（甚至直接或间接地促成经济回报），我才有进一步工作的动力和客观条件，去把这项信息加工的工作持续做下去。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "这引出了【信息发布】这一环节的关键作用。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "信息发布后及时收获点赞很重要，因为它似乎可以调动我体内的某种化学激励机制（这也属于认知科学范围），促使我保持工作热情，也可以说成是目标达成后产生了进一步的工作动力。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "顺便说，关于工作动力，有一则知乎回答可以分享给大家 - 丹尼尔·平克在《驱动力》这本书里描述的工作驱动力究竟是什么？ - http//www.zhihu.com/question/22952141/answer/23281721）"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "信息发布时需要赏心悦目的关键作用已经无需赘述了，但我需要借助哪些工具才能达到预期的信息发布效果呢？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "简单地说，我主要使用了免费的 GitHub Pages 网页发布服务和 Jekyll 模板引擎。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "为了让大家看到我发布到互联网的内容，网站域名，网页存储空间，访问流量三者缺一不可。GitHub Pages 不仅允许我免费拥有一个 pimgeek.github.io
+      二级域名，还向我免费提供了充足的网页存储空间和访问流量。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "而 Jekyll 则允许我用技术手段全面控制自己网站的内容版式和文章展示效果，比如我可以选择三栏还是两栏，并且确保我的文章在手机和 Pad 上都能够正常显示。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "一旦网站的内容版式确定了，我就可以专心撰写文章。Jekyll 模板引擎允许我使 Markdown 语法格式发布文章。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "幸运的是，Zim 软件也允许我把维基笔记条目以 Markdown 语法格式导出，所以我的个人笔记条目就通过 Markdown 这个语法格式与
+      Jekyll 建立了“绿色通道”————只要我觉得一则笔记条目值得发布出来，我就可以不加修改地通过 Jekyll 和 GitHub Pages 免费地发布到互联网。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "有的群友可能会问，像网易 LOFTER，简书，十五言这样的写作平台也很方便啊，还有大量的读者群，为何要大费周章地使用 Jekyll + GitHub
+      Pages？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "对此我要说明，Jekyll + GitHub Pages 比较适合像我这种追求全面掌控信息加工流程的使用者。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "用 Jekyll + GitHub Page 构建博客，至少在现阶段有这样几个好处："
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: 1 从域名到空间到初期使用的网络流量都是免费的2 完全掌握博客后台，从网页模板到后台的程序，只要学会了就完全可控，免于受服务商干预。（还可以增加第三方评论框，第三方点赞服务等）3
+      所有博客文章都会得到 GitHub 网站的自动备份，因硬盘损坏而丢失数据的可能性极小。4 看上去比较酷。
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "大家可以看到 Jekyll + GitHub Pages 发布 的实际工作效果，我还没有为它增加评论框。http//pimgeek.github.io/jekyll/
+      ；而增加了多说评论框之后的效果，可以参考这里 http//s.4ye.me/doibsF"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "如果群友中有人想要学习 Jekyll + GitHub Pages 的用法，可以参考阳志平老师的文章：理想的写作环境：Git + Github
+      + Markdown + Jekyllhttp//www.yangzhiping.com/tech/writing-space.html"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "【主持人插播】   此处涉及不少专业术语，小白请讲座后下去补充知识"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "讲到这里，我的个人信息处理流程的【收集】【验证】【研读】【整理】和【发布】等环节都介绍完毕了。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "内容发布方面，我还在酝酿新思路。俗话说一图抵千言，也许用图形说话更好，这方面推荐一个我经常使用的流程图制作工具 yEd，其实用性不亚于 Microsoft
+      Visio，但却可以免费使用。我试图用它来绘制一些信息量大的示意图。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "镜子心理"
+  sentences:
+  - text: "时间恰的zhrb"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "【主讲人插播】以上就是主讲人为我们展示的完整【信息收集】，【信息验证】，【信息研读】，【信息整理】，【信息发布】四个步骤。简直太强啦！真是运用这条信息”生产线“，吴笛哥【沉浸互联网】，打造出了自生长的档案馆和出版社。请群友思考，吴笛哥分享的这个信息整理流程对你有什么启发呢？可不可以仿照这种做法，构建出一套专属于自己的知识库，提升自己的学习力？如果想的话，又该如何去实践，真正做到知行合一呢？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "镜子心理"
+  sentences:
+  - text: "真准"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "举个简单例子，我上学期间逐步积累的的知识发展轨迹图。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "镜子心理"
+  sentences:
+  - text: "请问吴老师，"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "再发一遍，刚刚好像有问题。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "再举一个例子 - 层层嵌套可折叠可展开的信息图 -  http//live.yworks.com/yfiles-ajax/html/Grouped_Graph.html对
+      yEd 感兴趣的话，可以打开 yworks.com 的首页下载试用。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "镜子心理，就快要讲完了，一会是提问时间。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "镜子心理"
+  sentences:
+  - text: "好"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "作为网上信息的创作，加工和发布的业余爱好者，我自己也需要学习新技术，如果总是沉迷于自己的收集整理过程，很可能忽视比现在更好的信息加工技术，甚至在观念上整体落后。这也是我参与开智群分享的另外一个动机，多接触不同人的不同想法，不要总是闭门造车。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "为互联网贡献高质量内容，对于绝大多数网友而言，都不是必须的。我自认为有贡献，但经历了过去的这些努力和见识，也逐渐明白自己的贡献很微小。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "接下来就讲讲我对互联网现状和未来的看法。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "互联网的现状在我这种信息洁癖来看还有点混乱，但是已经给全世界（包括中文互联网）带来惊人的改变了，想想看用微信与家人和朋友异地沟通保持联系，用淘宝购物支付宝交生活杂费费。。。未来它只可能变得更强大。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "的这种以一己之力构建整个信息加工流程的做法并不经济可行。为什么呢？因为经过反复的观察和思索，我觉得未来的互联网不会像加工制造业那样运作了，它会像一个不断进化的有机体那样飞速成长。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "看看 Google 眼镜，Apple 智能手表，微软的 Holocaust 全息设备，再去了解一下未来令人惊愕的 触觉 味觉 嗅觉信息采集和输出，甚至脑神经直接控制技术，我们就知道黑客帝国
+      The Matrix 所描述的那种未来并不是天方夜谭。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: 1968 年的科幻电影《2001 太空漫游》就已经预言了宇宙飞船和太空站的技术，而黑客帝国似乎也已经是 15 年前的电影了。
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "自己展望未来，我们的地球也不会像现在这样一直被环保人士所诟病。来自世界各地的困难，灾难等信息，会随着未来科技的发展，更快地传输到整个互联网，并以人类所熟悉的感官体验触动每个人，而不是统计数字和信息图。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "全世界也会更快地做出反应，这种反应甚至让我们觉得人类与互联网形成的这个大的系统，就像是一个更懂得如何珍惜地球母亲的小孩子。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "虽然对未来充满遐想，但每天的目标还是要尽量明确可行。如果用一句话总结我的每日工作目标，那就是："
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "【把握机遇，利用有限的身心能量，在自己的影响范围内多搞定一些增进秩序的事】"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: FaintMemo
+  sentences:
+  - text: "撒花"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "的分享就到这里告一段落吧，是开智群和这里的朋友们，给了我一个回顾过去，畅想未来的好机会。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Caos
+  sentences:
+  - text: "十分感谢"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "谢行知 你看我没有超时吧~~"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "【主持人插播】先让吴笛哥喘口气哈，两分钟后开始回答大家问题。没有提问的同学，请积极思考，可以提出你的问题。情大家积极互动哈！他山之石，可以攻玉也。相信通过这个这个过程，大家可以借鉴不少有益的经验。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "没有超时呀，刚刚好"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "飞羽醉月"
+  sentences:
+  - text: "最后一句话让主题上升到更高的高度了呢"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "感谢过去的几天里，马兴城 谢行知 少林 积极配合我完成内容准备工作，并且熟悉咱们群内的分享流程。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "嘿嘿~~"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "感谢吴笛哥今晚的精彩分享！稍后回答大家的问题"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "如果我真的即兴发挥地讲，恐怕两个小时都说不完。。。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "乔永真"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "萱小璧 Yixuan"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "按照前面的约定，我把讲稿完整地分享给大家，用我的 Jekyll 系统。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "王佩"
+  sentences:
+  - text: "我儿子发的"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "楠"
+  sentences:
+  - text: "王佩老师…"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "哈哈 王佩老师出来卖萌了"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Caos
+  sentences:
+  - text: "手速好快。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "胡雪纯"
+  sentences:
+  - text: "超棒的！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "感谢各位啦~~"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "胡雪纯 想不到你也来啦！！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "欧阳"
+  sentences:
+  - text: " 精彩"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "【主持人插播】接下来由主讲人回答大家的问题"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "胡雪纯 2013 到 2014 年经常跟我一起讨论一些思辨问题，对我有很大启发~ "
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "其实最早还是 胡雪纯 让我了解到 采铜 前辈的。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "王佩"
+  sentences:
+  - text: "我问一个问题，Zim在Mac上可用吗？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Caos
+  sentences:
+  - text: "同问"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "镜子心理"
+  sentences:
+  - text: "请问吴老师如何演讲时间把控地这么好?"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Caos
+  sentences:
+  - text: "在同问"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "【问题1】：1.个人信息生产线中容易遇到什么问题，该怎么解决？2.我也会把各种好文章按照需求场景收藏到evernote、poket、digg、云盘里面，但是在“整理”上遇到了问题，一是不知道该如何整理，二是没有足够的动力和耐心去整理，请问怎么破？3.尝试了很多工具，也有用得很习惯的工具，怎么把多个工具协同起来打造信息生产流水线？4.工作之外的日常学习时间是怎么安排的？5.从你的经验来说刚毕业的人在工作第一年内应该如何学习成长？
+      6.以开智群为例，你会怎么吸收细化开智群里的内容？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "演讲稿全文发布到互联网啦，欢迎大家取用 http//pimgeek.github.io/jekyll/1422709407.html"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "胡雪纯"
+  sentences:
+  - text: "一直在听"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "大家别急，先让吴笛哥群友先前问的问题哈"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "镜子心理，我们有幕后计时人员在催啊！！="
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "胡雪纯"
+  sentences:
+  - text: "不过等下就赶飞机啦 加油！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "胡雪纯"
+  sentences:
+  - text: "我就不吹捧你了哈哈 全自动图书馆大牛"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "少林"
+  sentences:
+  - text: "那个人绝对不是我"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "吴笛 【问题1】的前四个貌似都已经讲过啦，只需要回答后面两个就好"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "镜子心理"
+  sentences:
+  - text: "懂了… "
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "【问题1】：1.个人信息生产线中容易遇到什么问题，该怎么解决？最容易遇到的问题就是，如果满眼都是新的旧的信息标题，很容易注意力不集中，陷入愧疚感。怎么解决呢？最好是让眼前少一些信息标题，有很多笔记编辑工具会提供
+      Distraction Free 的编辑功能。这个功能的确有用"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: 2.我也会把各种好文章按照需求场景收藏到 evernote、poket、digg、云盘里面，但是在“整理”上遇到了问题，一是不知道该如何整理，二是没有足够的动力和耐心去整理，请问怎么破？至少在这几项网上工具的信息整理方面，我也是没有办法，hold
+      不住是经常的。我想最直接的解决方式就是，不要以让自己自我感觉良好为目的去整理信息，而是要以完成某个具体工作任务为目的去整理信息。完不成任务一切都白搭。。。
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: 3.尝试了很多工具，也有用得很习惯的工具，怎么把多个工具协同起来打造信息生产流水线？多工具协同的问题，我虽然有一定经验，但是这个经验是因人而异，因工具而异的。我觉得要想让工具相互配合，那么有一个关键要素，就是操作步骤要减少，减少再减少。为什么有道词典会有取词，划词插件呢？直接手输的操作步骤太多了。如果你能减少在工具直接切换的操作步骤，就接近整合了。
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "【主持人提醒】问题比较多，吴笛哥可以慢慢回答哈"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: 4.工作之外的日常学习时间是怎么安排的？业余的学习时间，其实我掌握得不好，也没有太多计划性。最近每天坚持用扇贝网背单词，坚持每天打卡。其它的都不规律，上知乎、微信、微博刷更新的时候很多。有趣的是，上厕所和坐地铁火车时看书效率奇高，不建议上厕所看书，因为容易便秘。5.从你的经验来说刚毕业的人在工作第一年内应该如何学习成长？
+      6.以开智群为例，你会怎么吸收细化开智群里的内容？
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "额，后面忘记删除了。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "没事儿 ，慢慢来 。大家给吴笛哥鼓鼓掌呗！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "飞羽醉月"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Cloudtree
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: pz哇嘎
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: yyw
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "纳蓝"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Caos
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "阳光8远"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "镜子心理"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "韩书宇"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "纳蓝"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "星海"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: 5.从你的经验来说刚毕业的人在工作第一年内应该如何学习成长？我的经验来说，刚毕业的人在工作第一年，充满了各种希望和幻想，不妨活在当下，等感性体验增多了之后，再谈应该如何如何吧~6.以开智群为例，你会怎么吸收细化开智群里的内容？我会试着参与讨论啊，如果有我感兴趣的讲座，我会记得参加啊，上次
+      糖糖糖 的记忆原理讲座我就很喜欢，因为我一直很喜欢研究思维的原理啊。
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "金鱼Kim Gam"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "谢行知 可以继续提问了"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "【问题2】我的问题是"
+  sentences:
+  - text: "在整个过往经历之中，对你的工作角色最重要特质是什么？它在你的工作中的体现是什么？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "张轩铭"
+  sentences:
+  - text: wow，吴笛 哥把我的六个问题都解答了，太感谢啦
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "吴笛哥辛苦啦"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Azeril
+  sentences:
+  - text: "我们对于工具的使用将很大程度上塑造我们个人的风格。从操作系统层面去规划 比如时间管理 知识的管理（包括收集方式 收集的工具 存储和调取 以及输出）跨平台的协同与体验
+      都是非常重要的事情。我以前针对Windows Android 系统下的基础工具（Apps softwares）都做过专门的系统级的整理 也对一些特定的工具
+      知识管理 存储 浏览器也详细地探索和撰写专门的文章剖析 因为这些东西是日常使用最频繁的 也是最容易影响我们的效率和心态的。当然 现在转战MAC OS 和
+      iOS 还有很多在熟悉和延展 不过思路也是一致。相比来说 干扰更少 在Win平台和Android平台下 需要花费更多的功夫来设定 以期达到比较好的使用状态
+      这是见仁见智的事情。此外 对于日常中最常有的习惯和知识收集的行为 最为重要的是分析自己的意图 然后通过一些技巧来提升 这是值得我们花费功夫去做的事 因为足以让我们在其后的生活与工作中
+      感受到磨刀不误砍柴工的道理"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "【问题2】我的问题是"
+  sentences:
+  - text: "在整个过往经历之中，对你的工作角色最重要特质是什么？在工业产业界，无论是什么工作角色，我都会觉得“一分耕耘一分收获”，而不是说突然放一颗卫星一夜成名那样。我以前做过软件测试，后来改作产品经理，工作中也出现过干久了疲疲沓沓、疏忽大意。但是回头看来，自己认真做过的事情，都是有收获的。它在你的工作中的体现是什么？在我今天的工作中体现是什么呢，那就是，我再坚持一下把任务完成下来，就又给周围的环境增加了一点秩序吧~"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: 'Azeril '
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "赞这个【最为重要的是分析自己的意图 然后通过一些技巧来提升】"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "【问题4】请问，农村小伙，今年25岁，心理学硕士在读，如何尽快发家致富?"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: FaintMemo
+  sentences:
+  - text: "。。。。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Cloudtree
+  sentences:
+  - text: "……………………"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "小海"
+  sentences:
+  - text: "全部看完，给两位点赞。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "错了，应该是【问题3】"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "景雯上海"
+  sentences:
+  - text: "作为金融圈里打滚一年的人，想回应下这位心理小硕，主持人，行么？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "觉得可以啊~"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "牛江浦"
+  sentences:
+  - text: "陈虎平老师说除了程序员，年轻时赚不了钱。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "作为主持人我只是如实传达一下群友的问题哈"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "景雯上海"
+  sentences:
+  - text: "怕扰乱群里分析秩序。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "恩恩 可以等讲座完毕了，大家再讨论哈那么，【问题4】 我问一个问题，Zim在Mac上可用吗？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "【问题4】请问，农村小伙，今年25岁，心理学硕士在读，如何尽快发家致富?我觉得对发家致富的理解和掌握不是我的长处，只能勉强作答。首先我要强调致富与生活得平和幸福是两码事，科学研究表明，当收入超过基本的水平之后，幸福感就不直接决定于收入多少了。但我会切回到致富的关键问题上来，因为我就在互联网创业公司，也对这个问题非常关心。简言之，就是要弄清楚自己最喜欢做什么，然后看准某个领域的发展趋势，当你的个人能力，尤其是能够摆到台面上给大家露一手的能力，与未来发展趋势契合的时候，快速致富的机会就大一些。但是，要想快速致富“机会”是不可少的，个人努力也要比别人多很多。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: Zim 可以在 Mac 上使用，因为它就是一个 Python 程序。
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Azeril
+  sentences:
+  - text: "所以 当我看到那张内容详尽的思维导图时 真是大有好感。当然 除此之外 非常值得探索的内容就是 相对软一点的 比如 一些特定的网站集群 一些相关主题的博客集群
+      还有针对 例如刚才吴迪提及的语言学习的相关。我们构建一个系统 一个干净（不会开机就各种软件提醒或弹窗）、稳定（不会做事时忽然崩溃）、持久（一方面 可以持续地使用下去
+      另一方面 不会阻滞自己继续学习的脚步）的系统是为了维持高效率和好心情的 而面向的内容 输出的结果 才是我们的初衷与目的。再好的知识管理体系 倘若没有源头活水都是死的
+      再好的设备 没有用到点子上 也是死的。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Cloudtree
+  sentences:
+  - text: Paul Graham 'How to Make Wealth' http//www.paulgraham.com/wealth.html
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "好的。下一个问题来啦！【问题5】在阅读的过程中，收集信息，为了避免对目前所做的事情造成干扰，会将信息放在收藏夹或者pocket中，等待有时间的时候再来阅读处理。对于有些信息，譬如看起来不错的，会选择用碎片时间来读，时间长了以后，感觉大脑开始不喜欢处理长篇信息了，会觉得累，不愿意看。请问吴笛是怎样对收集到的信息安排阅读的呢？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: Cloudtree 赞这个 “How to Make Wealth”，尽管比较偏美国市场。
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "这是今晚的最后一个问题啦"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Azeril
+  sentences:
+  - text: "王佩老师..."
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "飞羽醉月"
+  sentences:
+  - text: "咦我的问题呢谢行知 "
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "【问题5】在阅读的过程中，收集信息，为了避免对目前所做的事情造成干扰，会将信息放在收藏夹或者pocket中，等待有时间的时候再来阅读处理。对于有些信息，譬如看起来不错的，会选择用碎片时间来读，时间长了以后，感觉大脑开始不喜欢处理长篇信息了，会觉得累，不愿意看。请问吴笛是怎样对收集到的信息安排阅读的呢？我原来也特别执着于把自己阅读列表里的东西都读完，因为这样让我
+      Feel Good。。。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "但是后来我就明白，这样是行不通的，前面讲到的 GBU Good But Useless 是一个解释，另一个解释就是，如果这样读下去，整个人反而会陷入未完成任务的愧疚感中，无论是阅读任务本身，还是因为过度阅读耽搁了其它个人事务。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "在这种情况下，我建议考虑以【增加个人精神状态的整体秩序】为目标，而不是单纯以【增加阅读和学习水平的秩序】为目标。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "飞羽醉月 你再发一次?"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "飞羽醉月 你的问题是哪个，可能刷屏有点快，我没注意到。sorry 啦。再问一遍呗"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "飞羽醉月"
+  sentences:
+  - text: "想具体问问你是如何取舍信息的。因为有大量看起来有用的信息，删掉有时候觉得不舍得，但是不删会过载。用是否用得到这个标准有点难衡量。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "什么样的长文章值得自己尽最大努力读完？我也说不出太明确的标准，或许是要从更大的层次上让自己身心平和吧。比如读过《自私的基因》和“进化心理学相关知识”以后，我的观念发生了变化，对许多以往觉得气闷的事情都开始释怀了，所以我会尽力多读。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "有些时候自己身心能量都很充足，又没有生计或者麻烦缠身的时候（很怀念大学和研究生时期啊），或许可以奢侈一些，见到什么就读什么，不必过分取舍。现在成为工作族之后，就容易被各种杂事缠住，就不得不取舍了。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "少林"
+  sentences:
+  - text: "飞羽醉月 我倒有点想法，就是 承认自己的无能。  承认自己不能掌握事情的全貌，承认自己不能吸收所有的信息，承认自己不可能把所有真理掌握。  我自己这样想的话，就比较能克制收集信息、阅读信息的欲望····"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "飞羽醉月 是否用到的这个标准确实不好把握，我建议你这样考虑，先把所有觉得应该读的信息，无论它们属于哪一类，都暂且忘记——看看接下来的几天里，有哪几类信息会重新吸引你的关注，如果有一类信息总是会重新引发你的关注，那可能确实值得看看。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "少林"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "有时候在知乎或者微信群里看到信息过多时，就会暂时什么都看了，但其实我真正关心的那些主题，我从来都没有放下，过一阵子又会再次关注起来。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "有时候在知乎或者微信群里看到信息过多时，就会暂时【什么都不看】了，但其实我真正关心的那些主题，我从来都没有放下，过一阵子又会再次关注起来。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "飞羽醉月"
+  sentences:
+  - text: "好的，我好好思考一下。谢谢。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: "感谢大家周末的参与~ 周日愉快啦"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "那么 ，今晚的讲座就告一段落啦！请大家再次鼓掌"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "小海"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "亦多亦少^_^"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "张轩铭"
+  sentences:
+  - text: "谢谢吴笛哥，收获满满"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "感谢吴笛哥的精彩分享"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "纳蓝"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "陈骊"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: yyw
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "楠"
+  sentences:
+  - text: "谢谢分享"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "少林"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "镜子心理"
+  sentences:
+  - text: "受益匪浅！！！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: wu_d
+  sentences:
+  - text: " 大家晚安~ 感谢阳老师的组织"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "吴笛哥晚安啦"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "丁诗颖"
+  sentences:
+  - text: "晚安，今天去校友会了，呆会爬楼看"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "谭旭"
+  sentences:
+  - text: "真的很精彩，受益良多。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "丁诗颖"
+  sentences:
+  - text: "看了一部分，有谁来个整理版最好啦。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "一鸣北京"
+  sentences:
+  - text: "非常精彩"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: pz哇嘎
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "大家没机会参与的也不用担心错过了分享哈，安替大哥晚点回把PDF记录发给大家"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "张亚萨"
+  sentences:
+  - text: "谢谢回答问题"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "马兴城"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: xie_xzh
+  sentences:
+  - text: "志愿者小伙伴们也会整理出本期专题分享给大家。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
