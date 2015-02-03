@@ -2,10 +2,6 @@ npcs:
   - id: "阳志平"
     name: 阳志平
     avatar: http://img.teamkn.com/i/FKIb1Eql.png@100w_100h_1e_1c.png
-  - id: "开智群"
-    name: 开智群
-    avatar: http://img.teamkn.com/i/X0fWtCQR.png@100w_100h_1e_1c.png
-    direction: right
   - id: john_b
     name: John Brockman
     avatar: http://img.teamkn.com/i/IYJ4qUHC.png@100w_100h_1e_1c.png
