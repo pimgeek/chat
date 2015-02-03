@@ -217,10 +217,20 @@ scripts:
   clear: false
 - npc: "阳志平"
   sentences:
-  - text: "这也许是人生与命运的真相罢了。End."
-    speed: 50000
+  - text: "这也许是人生与命运的真相罢了。"
+    speed: 10
     style:
       display: block
       margin-top: 16px
-    delay: -1
+    delay: 800
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "End."
+    speed: 3
+    style:
+      display: block
+      font-size: 24px
+      margin-top: 16px
+    delay: 0
   clear: false
