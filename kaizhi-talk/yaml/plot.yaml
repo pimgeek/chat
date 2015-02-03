@@ -14,7 +14,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -23,7 +23,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "阳光8远"
   sentences:
@@ -32,7 +32,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -41,7 +41,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "乔永真"
   sentences:
@@ -50,7 +50,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -60,7 +60,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -69,7 +69,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "景雯上海"
   sentences:
@@ -78,7 +78,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "马兴城"
   sentences:
@@ -87,7 +87,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "少林"
   sentences:
@@ -96,7 +96,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -105,7 +105,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: Stella施赛男南京
   sentences:
@@ -114,7 +114,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -123,7 +123,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "星海"
   sentences:
@@ -132,7 +132,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -141,7 +141,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -151,7 +151,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -160,7 +160,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -169,7 +169,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -178,7 +178,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -187,7 +187,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -196,7 +196,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -205,7 +205,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -214,7 +214,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "青&Fang 厦门"
   sentences:
@@ -223,7 +223,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -232,7 +232,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: Caos
   sentences:
@@ -241,7 +241,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -250,7 +250,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: X&Y––深圳
   sentences:
@@ -259,7 +259,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: ''
   sentences:
@@ -268,7 +268,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "陈骊"
   sentences:
@@ -277,7 +277,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "张轩铭"
   sentences:
@@ -286,7 +286,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -295,7 +295,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -304,7 +304,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -314,7 +314,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -323,7 +323,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -332,7 +332,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -341,7 +341,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -350,7 +350,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -359,7 +359,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -369,7 +369,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -378,7 +378,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -387,7 +387,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -396,7 +396,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "楠"
   sentences:
@@ -405,7 +405,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "阳志平"
   sentences:
@@ -414,7 +414,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -423,7 +423,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "阳志平"
   sentences:
@@ -432,7 +432,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "张轩铭"
   sentences:
@@ -441,7 +441,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -450,7 +450,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -459,7 +459,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -468,7 +468,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -477,7 +477,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -487,7 +487,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -496,7 +496,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -505,7 +505,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -514,7 +514,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -523,7 +523,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -532,7 +532,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -541,7 +541,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -550,7 +550,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -559,7 +559,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "乎乎"
   sentences:
@@ -568,7 +568,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "萱小璧 Yixuan"
   sentences:
@@ -577,7 +577,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "果动"
   sentences:
@@ -586,7 +586,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -595,7 +595,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -605,7 +605,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -614,7 +614,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -623,7 +623,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -632,7 +632,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -641,7 +641,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -650,7 +650,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "萱小璧 Yixuan"
   sentences:
@@ -659,7 +659,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -668,7 +668,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -677,7 +677,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "欧阳"
   sentences:
@@ -686,7 +686,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -695,7 +695,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -705,7 +705,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "韓梅梅"
   sentences:
@@ -714,7 +714,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: 101难过
   sentences:
@@ -723,7 +723,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -732,7 +732,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -741,7 +741,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: FaintMemo
   sentences:
@@ -750,7 +750,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -759,7 +759,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -768,7 +768,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -777,7 +777,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "张婷婷"
   sentences:
@@ -786,7 +786,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -795,7 +795,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -805,7 +805,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -814,7 +814,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "郑小燊-Sarah"
   sentences:
@@ -823,7 +823,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -833,7 +833,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -842,7 +842,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -851,7 +851,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -860,7 +860,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "萱小璧 Yixuan"
   sentences:
@@ -869,7 +869,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -879,7 +879,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -888,7 +888,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -897,7 +897,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -906,7 +906,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -916,7 +916,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -925,7 +925,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -934,7 +934,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -943,7 +943,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -952,7 +952,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -961,7 +961,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -971,7 +971,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -982,7 +982,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -992,7 +992,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1001,7 +1001,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "南风"
   sentences:
@@ -1010,7 +1010,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1019,7 +1019,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1028,7 +1028,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "镜子心理"
   sentences:
@@ -1037,7 +1037,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1046,7 +1046,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "张轩铭"
   sentences:
@@ -1055,7 +1055,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "萱小璧 Yixuan"
   sentences:
@@ -1064,7 +1064,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1073,7 +1073,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: DarkHelsinki
   sentences:
@@ -1082,7 +1082,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "张轩铭"
   sentences:
@@ -1091,7 +1091,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: Cloudtree
   sentences:
@@ -1100,7 +1100,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1109,7 +1109,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "萱小璧 Yixuan"
   sentences:
@@ -1118,7 +1118,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1127,7 +1127,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "钱子游"
   sentences:
@@ -1136,7 +1136,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1145,7 +1145,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1154,7 +1154,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1163,7 +1163,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "一鸣北京"
   sentences:
@@ -1172,7 +1172,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1181,7 +1181,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "阳志平"
   sentences:
@@ -1190,7 +1190,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1199,7 +1199,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1209,7 +1209,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1218,7 +1218,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1227,7 +1227,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1236,7 +1236,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1245,7 +1245,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1255,7 +1255,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: BetterExplained
   sentences:
@@ -1264,7 +1264,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1273,7 +1273,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1283,7 +1283,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1293,7 +1293,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1302,7 +1302,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1311,7 +1311,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1321,7 +1321,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1330,7 +1330,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1340,7 +1340,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1350,7 +1350,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1359,7 +1359,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1368,7 +1368,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1377,7 +1377,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1386,7 +1386,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1395,7 +1395,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1404,7 +1404,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1413,7 +1413,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1423,7 +1423,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1432,7 +1432,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1441,7 +1441,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1451,7 +1451,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1461,7 +1461,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1470,7 +1470,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1479,7 +1479,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1489,7 +1489,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1499,7 +1499,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1509,7 +1509,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1518,7 +1518,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1527,7 +1527,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1537,7 +1537,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "镜子心理"
   sentences:
@@ -1546,7 +1546,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1555,7 +1555,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "镜子心理"
   sentences:
@@ -1564,7 +1564,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1573,7 +1573,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "镜子心理"
   sentences:
@@ -1582,7 +1582,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1591,7 +1591,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1601,7 +1601,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1610,7 +1610,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "镜子心理"
   sentences:
@@ -1619,7 +1619,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1628,7 +1628,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1637,7 +1637,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1646,7 +1646,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1655,7 +1655,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1664,7 +1664,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1674,7 +1674,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1683,7 +1683,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1692,7 +1692,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1701,7 +1701,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1710,7 +1710,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1719,7 +1719,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: FaintMemo
   sentences:
@@ -1728,7 +1728,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1737,7 +1737,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1746,7 +1746,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: Caos
   sentences:
@@ -1755,7 +1755,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1764,7 +1764,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1773,7 +1773,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1782,7 +1782,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "飞羽醉月"
   sentences:
@@ -1791,7 +1791,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1800,7 +1800,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1809,7 +1809,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1818,7 +1818,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1827,7 +1827,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "乔永真"
   sentences:
@@ -1836,7 +1836,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "萱小璧 Yixuan"
   sentences:
@@ -1845,7 +1845,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1854,7 +1854,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1863,7 +1863,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "王佩"
   sentences:
@@ -1872,7 +1872,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "楠"
   sentences:
@@ -1881,7 +1881,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1890,7 +1890,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: Caos
   sentences:
@@ -1899,7 +1899,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "胡雪纯"
   sentences:
@@ -1908,7 +1908,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1917,7 +1917,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1926,7 +1926,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "欧阳"
   sentences:
@@ -1935,7 +1935,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -1944,7 +1944,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1953,7 +1953,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -1962,7 +1962,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "王佩"
   sentences:
@@ -1971,7 +1971,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: Caos
   sentences:
@@ -1980,7 +1980,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "镜子心理"
   sentences:
@@ -1989,7 +1989,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: Caos
   sentences:
@@ -1998,7 +1998,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2008,7 +2008,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2017,7 +2017,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "胡雪纯"
   sentences:
@@ -2026,7 +2026,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2035,7 +2035,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2044,7 +2044,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "胡雪纯"
   sentences:
@@ -2053,7 +2053,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2062,7 +2062,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "胡雪纯"
   sentences:
@@ -2071,7 +2071,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "少林"
   sentences:
@@ -2080,7 +2080,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2089,7 +2089,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "镜子心理"
   sentences:
@@ -2098,7 +2098,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2108,7 +2108,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2118,7 +2118,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2127,7 +2127,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2136,7 +2136,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2146,7 +2146,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2155,7 +2155,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2164,7 +2164,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "飞羽醉月"
   sentences:
@@ -2173,7 +2173,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: Cloudtree
   sentences:
@@ -2182,7 +2182,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: pz哇嘎
   sentences:
@@ -2191,7 +2191,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2200,7 +2200,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: yyw
   sentences:
@@ -2209,7 +2209,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "纳蓝"
   sentences:
@@ -2218,7 +2218,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: Caos
   sentences:
@@ -2227,7 +2227,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "阳光8远"
   sentences:
@@ -2236,7 +2236,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "镜子心理"
   sentences:
@@ -2245,7 +2245,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "韩书宇"
   sentences:
@@ -2254,7 +2254,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "纳蓝"
   sentences:
@@ -2263,7 +2263,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "星海"
   sentences:
@@ -2272,7 +2272,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2282,7 +2282,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "金鱼Kim Gam"
   sentences:
@@ -2291,7 +2291,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2300,7 +2300,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2309,7 +2309,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "【问题2】我的问题是"
   sentences:
@@ -2318,7 +2318,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "张轩铭"
   sentences:
@@ -2327,7 +2327,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2336,7 +2336,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: Azeril
   sentences:
@@ -2350,7 +2350,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2359,7 +2359,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "【问题2】我的问题是"
   sentences:
@@ -2368,7 +2368,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2377,7 +2377,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2386,7 +2386,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2395,7 +2395,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: FaintMemo
   sentences:
@@ -2404,7 +2404,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: Cloudtree
   sentences:
@@ -2413,7 +2413,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "小海"
   sentences:
@@ -2422,7 +2422,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2431,7 +2431,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "景雯上海"
   sentences:
@@ -2440,7 +2440,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2449,7 +2449,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "牛江浦"
   sentences:
@@ -2458,7 +2458,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2467,7 +2467,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "景雯上海"
   sentences:
@@ -2476,7 +2476,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2485,7 +2485,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2494,7 +2494,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2503,7 +2503,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2512,7 +2512,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: Azeril
   sentences:
@@ -2524,7 +2524,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: Cloudtree
   sentences:
@@ -2533,7 +2533,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2542,7 +2542,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2551,7 +2551,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2560,7 +2560,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: Azeril
   sentences:
@@ -2569,7 +2569,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "飞羽醉月"
   sentences:
@@ -2578,7 +2578,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2588,7 +2588,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2597,7 +2597,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2606,7 +2606,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2615,7 +2615,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2624,7 +2624,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "飞羽醉月"
   sentences:
@@ -2633,7 +2633,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2642,7 +2642,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2651,7 +2651,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "少林"
   sentences:
@@ -2660,7 +2660,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2669,7 +2669,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2678,7 +2678,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2687,7 +2687,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2696,7 +2696,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "飞羽醉月"
   sentences:
@@ -2705,7 +2705,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2714,7 +2714,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2723,7 +2723,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "小海"
   sentences:
@@ -2732,7 +2732,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "亦多亦少^_^"
   sentences:
@@ -2741,7 +2741,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "张轩铭"
   sentences:
@@ -2750,7 +2750,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2759,7 +2759,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "纳蓝"
   sentences:
@@ -2768,7 +2768,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "陈骊"
   sentences:
@@ -2777,7 +2777,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: yyw
   sentences:
@@ -2786,7 +2786,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "楠"
   sentences:
@@ -2795,7 +2795,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "少林"
   sentences:
@@ -2804,7 +2804,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "阳志平"
   sentences:
@@ -2813,7 +2813,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "镜子心理"
   sentences:
@@ -2822,7 +2822,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: wu_d
   sentences:
@@ -2831,7 +2831,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2840,7 +2840,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "丁诗颖"
   sentences:
@@ -2849,7 +2849,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "谭旭"
   sentences:
@@ -2858,7 +2858,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "丁诗颖"
   sentences:
@@ -2867,7 +2867,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "一鸣北京"
   sentences:
@@ -2876,7 +2876,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: pz哇嘎
   sentences:
@@ -2885,7 +2885,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2894,7 +2894,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "张亚萨"
   sentences:
@@ -2903,7 +2903,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: "马兴城"
   sentences:
@@ -2912,7 +2912,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
 - npc: xie_xzh
   sentences:
@@ -2921,5 +2921,5 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 400
+    delay: 800
   clear: false
