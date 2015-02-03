@@ -1,0 +1,146 @@
+npcs:
+  - id: "阳志平"
+    name: 阳志平
+    avatar: http://img.teamkn.com/i/mYGkqJwE.png@100w_100h_1e_1c.png
+  - id: "吴笛"
+    name: 吴笛
+    avatar: http://img.teamkn.com/i/B5VSfH2U.png@100w_100h_1e_1c.png
+    direction: right
+
+scripts:
+- npc: "阳志平"
+  sentences:
+  - text: "到了7月份，由于一些新的合作伙伴进入，以及一些其他顾虑，最初的作家联盟项目慢慢地，变成一个我必须来主导的一个项目了。在我爱人生日的那天，于是，一个一个地与各位友人沟通，达成共识。此时此刻，心读已死，开智诞生。"
+    speed: 30
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "原来开智是这样缘起的啊！最恨抄袭"
+    speed: 30
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "秉承初心，开智公司原本是一个侧重以认知&神经&心理 科学内容制作与传播的项目，初衷是为作家联盟服务。因此，原本重心落在开智文库与开智视频。"
+    speed: 30
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "然而，人生的意外就在于各种巧合与阴差阳错。"
+    speed: 30
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "余杨Danny"
+  sentences:
+  - text: "不是意外，是常态949"
+    speed: 30
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "我指的是阳老师前文提到的【 2014年5月，因为一件小事，我与心理学圈的六位好友，才发现，我们的文章被一个网站大幅度盗版，用于商业用途。而该网站无耻地辩解、，。。。。。
+      】"
+    speed: 30
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: 2014年8月份，我应邀加入财新主编王烁主持的英文书群。
+    speed: 30
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "英文书群原本是王烁与汪丁丁、何帆的家庭读书群。人数寥寥。然而，8月份，一向高大上的王烁不知道吃错什么药了。。。。"
+    speed: 30
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "将一个家庭读书群面向公众开放，凭借他执掌财经媒体圈十余年的经验，在一周内，聚集五百人。"
+    speed: 30
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "【然而，8月份，一向高大上的王烁不知道吃错什么药了。。。。】 此句可删"
+    speed: 30
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: ''
+    speed: 30
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "张轩铭"
+  sentences:
+  - text: ''
+    speed: 30
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "通过英文与读书作为过滤器，英文书群得以保持较高质量的交流质量。"
+    speed: 30
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "海贤的微信群第一次让我感知到微信本身的可供性；王烁的英文书群进一步强化了我的体验。很快，我从一位2014年才开始使用微信的新手，变为微信的重度用户，开始更新自己的公众号，帮助安人心智开设微信公众号。"
+    speed: 30
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "期间也被邀请加入了大量微信群。但鱼龙混杂的微信群始终难以给我更新鲜的体验。于是，在2014年11月的某个周末晚上，我也吃错药了。"
+    speed: 30
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
