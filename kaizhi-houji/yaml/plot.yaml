@@ -1,0 +1,230 @@
+npcs:
+  - id: "阳志平"
+    name: 阳志平
+    avatar: http://img.teamkn.com/i/FKIb1Eql.png@100w_100h_1e_1c.png
+  - id: "开智群"
+    name: 开智群
+    avatar: http://img.teamkn.com/i/X0fWtCQR.png@100w_100h_1e_1c.png
+    direction: right
+  - id: john_b
+    name: John Brockman
+    avatar: http://img.teamkn.com/i/IYJ4qUHC.png@100w_100h_1e_1c.png
+    direction: right
+
+scripts:
+- npc: "阳志平"
+  sentences:
+  - text: "后记：开智三月"
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "山川之美，古来共谈。高峰入云，清流见底。知识如水如山，润物细无声，令人沉浸。忘怀山水时，我们不由自主地忘记了，信息的源头与知识的创作者。美，可以欣赏，也可以创作。那些令你难以入眠的文章，你关注过它的作者吗？你是否一直喜欢转发非原创的信息？"
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: 2014 年 5 月，因为一件小事，我与心理学圈的六位好友才发现，我们的文章被一个网站大幅盗版，用于商业用途。而该网站道歉信写得优越感满满。实质性道歉，比如删掉所有非法转载稿件，或者给所有被侵权作者按照平均稿费水准发稿费，却做不到且只字不提。
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "于是，在五月份的一次偶然碰头时，我第一次有了启动作家联盟的想法。而忙碌的我，很快将此事忘记了。但是海贤组建了六位作家的微信群，却将那份初心保留下来了。"
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "那时，向来算极品宅男的我才使用微信没多久，也是第一次加入微信群。在与动动、铜铜、松松、建鸿、非言语各位作家火热讨论中，我第一次意识到微信开始改变人们生活的“可供性”。到了六月份，各位作家，外加出版界同仁、资深工程师，在我家开了一次会议，这就是开智项目的最初缘起一一心读公司，取义自心理阅读、心悦读。"
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "然而，2014 年琐事缠身，外加该项目最初设计了一个非常不符合商业逻辑的股份架构：六位作家均等持有股份。导致项目从六月份启动，实质性进展近乎等于零。虽然，外部合作方闻声而来者众。短短三个月，我密集地见了 15 家出版社的负责人及其媒体合作方。"
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "到了 7 月份，由于一些新的合作伙伴进入，以及最初发起作家的一些其他顾虑，最初的作家联盟项目慢慢地，变成一个必须我来主导的项目。在我爱人生日的那天，一个一个地与各位友人沟通，达成共识。此时此刻，心读已死，开智诞生。"
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "秉承初心，开智公司原本是一个侧重以认知&神经&心理科学内容制作与传播的项目，初衷是为作家联盟服务。因此，原本重心落在开智文库与开智视频。然而，人生的意外就在于各种巧合与阴差阳错。"
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: 2014 年 8 月份，我应邀加入财新主编王烁主持的英文书群。英文书群原本是王烁与汪丁丁、何帆的家庭读书群。人数寥寥。然而，8 月份，一向为人严谨的王烁不知道吃错什么药了，将一个家庭读书群面向公众开放，凭借他执掌财经媒体圈十余年的人脉，一周内聚齐五百人。以英文与读书作为过滤器，英文书群得以保持较高质量的交流质量。
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "海贤的微信群第一次让我感知到微信的“可供性”；王烁的英文书群进一步强化了我的体验。很快，我从一位 2014 年才开始使用微信的新手，变为重度用户，开始更新自己的公众号“心智工具箱”，帮助安人心智开设微信公众号。期间也被邀请加入了大量微信群。但鱼龙混杂的微信群始终难以给我新鲜体验。于是，在 2014 年 11 月的某个周末晚上，我也吃错药了。将安人心智内部微信群改名为开智书友会，并且一口气邀请众多师友加入。"
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "人生那么短，要爱的人都爱不过来，还怎么可能去惦记那些本来就不是一路的人呢。在每月不断踢人，包括踢掉某投资大鳄、某合作伙伴的规则束缚下，以及各位开智群友与安替牌机器人的大力支持下，开智群的氛围逐步形成。无规矩不成方圆。开智群的群规第一条即是："
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "开智群"
+  sentences:
+  - text: "欢迎大家以创作者姿态讨论相关议题。看到不满的，我们就动手去改变；看到愚蠢的，我们就去写一本聪明的书来反驳；看到丑陋的，我们就制作精美的来倡导；看到疑惑，我们就去设计实验来验证。群内无牛人，只有群友与群智。"
+    speed: 10
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "许多师友非常清楚，我是第三种文化粉丝。偶像是丹尼特、古尔德、平克、道金斯、盖尔曼与明斯基等。所有这些偶像都有一位共同的好友。他就是 edge 创始人 John Brockman。John Brockman 在创办 edge 时写道："
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: john_b
+  sentences:
+  - text: "To arrive at the edge of the world's knowledge, seek out the most complex and sophisticated minds, put them in a room together, and have them ask each other the questions they are asking themselves."
+    speed: 14
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "————为了抵达世界知识边缘，寻找最聪明的人，将他们放到一个房间内讨论，会诞生什么？开智三月，通过主题演讲，以及沉浸式讨论，初步交出了这份答卷。14 次世界一流专家的主题演讲，以及每天在自由生发、不断激荡的跨界讨论。"
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "某种意义上，哈佛、耶鲁、剑桥与麻省理工学院等名校，给人最大的财富是大学期间同辈压力与可以托付后背的同辈信任。随着人类知识的日益爆炸，我们不仅仅在青春期荷尔蒙旺盛的时候，需要同辈压力刺激。三十而立，四十不惑，同样需要同辈压力刺激。与二十岁不同的是，此时更多是从金钱、奖赏等外在动机刺激转向兴趣、使命等内在动机刺激。"
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "此时，你需要比较，你需要伙伴，你需要刺激，你需要社群，你需要跨界。开智知识社群，初步具备了这样的功能。或许，正如一位群友昨天晚上发给我的感言所言："
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "某开智群友"
+  sentences:
+  - text: "我加入开智最大的收获，其实并非获得了多少新知识，而是“见贤思齐”，被一种探索世界的姿态所鼓舞。"
+    speed: 12
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "同样的，这样的高密度知识，需要稀释与传承。于是，在开智社群运营三月后第一个周末，我启动了开智青年故事会。"
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "如果说三四十岁这一代知识工作者，更多通过书本学习，是成长于信息匮缺时代的陆生动物。与之相反，九零后、零零后这一代数字土著，他们是人类历史上第一次真正意义上的，伴随信息汪洋时代而生的海生动物。他们大脑运作模式、思维结构与学习方式，将大大不同于传统一代。因此，他们并不需要过多的借助于书本来学习。书本已经不是信息汪洋时代承载知识的最佳载体，相反，是视频、是行动、是聊天、是吐槽、是弹屏。"
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "因此，开智青年故事会试图通过分享故事的形式，聚集新一代知识青年，让各位看到多样化的人生可能，以及不同知识获取路径与行动方法。"
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: 2014年十一期间，在台北辅仁大学拜访夏林清老师。原以为民权斗士，民运世家，巾帼英雄，是怒目金刚，见面却才发现是慈眉老太，温柔服人。林间茶室，俗人多问利益往来，合作项目。夏老师直接问，大陆发展如此快，给每个年轻人留下了什么印记。我开始讲我的故事与见解。夏老师摇头，摇头再摇头，说道，我不关心“可能的自我”，“成功万花筒”这样的理论，概念。我只关心你的生命故事。斗室星空，个人映照社会。高速发展的大陆社会，你留下了什么伤疤？什么印记？什么遗憾？
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "或许，我于世界与知识，是一位贪心者。《心智三部曲》想向 GEB 致敬；《文心书话》写在 pinker 的 the sense of style 之前；《黑暗三部曲》向阿西莫夫与《银河英雄传》致敬，旗下的安人心智公司向 deepmind 与保罗.巴赫-利塔(Paul Bach-y-Rita)致敬。我更希望成为 pinker 、Hassabis，但命运偶尔会将你推向 John Brockman 的位置。以一位创作者姿态，向那些曾经感动过你的人，如开智微播向 John Brockman 的 edge 致敬，是人类一代又一代知识传承的觅母吧。九败一胜，行进的路径，退两步进一步。"
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: "阳志平"
+  sentences:
+  - text: "这也许是人生与命运的真相罢了。End."
+    speed: 50000
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false

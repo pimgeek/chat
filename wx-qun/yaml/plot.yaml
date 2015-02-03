@@ -46,7 +46,7 @@ scripts:
   clear: false
 - npc: "余杨Danny"
   sentences:
-  - text: "不是意外，是常态949"
+  - text: "不是意外，是常态"
     speed: 30
     style:
       display: block
