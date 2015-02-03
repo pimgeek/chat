@@ -1,0 +1,598 @@
+npcs:
+  - id: "宋亮"
+    name: 宋亮
+    avatar: http://img.teamkn.com/i/nLQm3W7n.png@100w_100h_1e_1c.png
+  - id: "陈啸峰"
+    name: 陈啸峰
+    avatar: http://img.teamkn.com/i/pdSuDIHj.png@100w_100h_1e_1c.png
+  - id: "吴笛"
+    name: 吴笛
+    avatar: http://img.teamkn.com/i/B5VSfH2U.png@100w_100h_1e_1c.png
+    direction: right
+
+scripts:
+- npc: "吴笛"
+  sentences:
+  - text: "科学网某网友吐槽“国家自然科学一等奖涉嫌抄袭”的新闻http//weibo.com/1665662730/C2zfeprAH?ref=home&rid=0_0_2667288138232913779"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "陈啸峰"
+  sentences:
+  - text: "国内这种事，多得都不愿说了……"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "一码事归一码事"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "非要把这些事情和封google联系起来我也只能说，转进如风"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "看能否接着最近的这股打击腐败的机会，干掉这些造假大户。"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "陈啸峰"
+  sentences:
+  - text: "特别是大学写毕业论文那时候"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "陈啸峰"
+  sentences:
+  - text: "他们这么说，估计是想看能否顺路拆了GFW吧"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: ''
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "大学毕业论文我是自己写的，内容就是后来 tu.mindpin.com 的原型程序的交互实现"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "陈啸峰"
+  sentences:
+  - text: "不过难道不知道，这事肯定得国家元首统一才行啊"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "陈啸峰"
+  sentences:
+  - text: "我的也是自己写的。。"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: " 国家元首。。。"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "陈啸峰"
+  sentences:
+  - text: "只是稍微看看别人写的，就知道那烂学校的答辩是什么水准了的。。"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "所以，我想，1. 做好自己的事情 2. 知道什么事情对什么事情不对 3. 不对的事情，没有必要把他们都联系在一起，然后把世界想的特别无耻"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "这样就好了啊"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "陈啸峰"
+  sentences:
+  - text: "因为不用想，它就是那么的。。。"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "所以这几个转进的人，其思维方式我是不赞同的"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "我是个偏左的人"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "如果总有人这样转进，我不介意变为极左"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "我认识的某位博士，好像就是纯粹把 Google 当成科研工具来用，一般会问我怎么能用上 Google 学术什么的。。。这位科学网的网友，好像也只是工具访问不畅无处发泄的样子。"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "无处发泄？"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "我看他 发 呵呵 我就知道这是什么人了"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "还 呵呵 母猪叫妈"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "吗"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "陈啸峰"
+  sentences:
+  - text: "不过我是很反对这种限制与外界联系的事情"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "陈啸峰"
+  sentences:
+  - text: "应该用连接比较好"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "我也反对"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "但是我更不喜欢这种把什么事情都联系到一起说，然后只会呵呵，没做一点贡献的混蛋"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "这种人对世界的危害远远大于网络封禁"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "一副世人皆醉唯我独醒的样子"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "陈啸峰"
+  sentences:
+  - text: "忽略好了"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "嗯，确实印象中这人没发什么具体科普文章，忽略是合理的。"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "历史上所有被人记住的人，没有一个是因为不断地提出问题，而没有解决过问题而被记住的"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "这个网友以往的微博也是类似的高级黑居多，我以前还以为他只是偶尔发点牢骚。现在看起来，应该对这类微博引起警惕。"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "在社区里鉴别人类，我觉得我还是比较擅长的"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "我关注的所有微博，基本都是"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "如果有人很少分享信息，而且经常转发信息并给出负能量评价，我基本取关"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "这样做微博就很干净"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "同时我自己在发微博时也是把内容限制在以上的 1和2"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "微博上是人以群分的，这点现在越来越明显"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "如果不及时取关一些人，就很容易被引入某些思维方式奇葩的人群的言论轰炸中"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "陈啸峰 的微博段子就比较幽默哈，而且明显跟一般段子微博不一样，连续几个都是高质量。"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "这就是我说的，每天向大家分享信息"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "而你看某些人，每天就只会转，点进这些人的微博，10条有8条是转的。而且每条他给出的评论都很负面。我要说大哥啊，你看不惯这些你就不要转啊，明明这些信息让你不舒服你还转，自虐吗然后这些人又被更多的人转最后形成了负能量的洪流"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "这些人过着怎样的生活我不得而知，但我只能把他们定义为精神上的 loser"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "至少精神不够强大"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "我写微博，就一个原则：希望每个点进我微博的人，都轻松愉快，都能知道一些我分享的而他不知道的东西，都能积极一点"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "陈啸峰"
+  sentences:
+  - text: ''
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: " 能否说说，你所见过的，批评或爆料某些抄袭造假行为，但仍然是让你感觉比较愉悦的例子？"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "果壳网。"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "他们在转述这类新闻时，"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "陈啸峰"
+  sentences:
+  - text: "你要知道一点就是微博100个用户用户在看10个在转1个自己写"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "都会写明：1. 这个研究是研究什么，对人类有什么用2. 为什么说这个团队是抄袭，他们抄袭了什么，被抄袭的人是谁，被抄袭的人有什么贡献"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: 3. 抄袭的具体方式是什么，是明显还是不明显，是怎么被看出来的
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: 4. 这种行为会产生哪些具体危害，浪费了多少经费或奖金
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "他们会把这些事情中，大家不了解的，说出来的话，大家都会增长知识的部分说的一清二楚"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "而不是"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: ''
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "陈啸峰"
+  sentences:
+  - text: "你要知道一点就是微博100个用户用户在看10个在转1个自己写整体诚然是这样，但你可以通过调整关注列表调整你所看到的局部"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "至少我通过精心调整我的关注列表后，我关注的所有人，自己在写的比率高于五成"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "至于我关注之外的人，关我毛事"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "挺好~"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "回到这个话题上，我要说，哪怕是世界上最肮脏，最卑鄙，最无耻，最丧心病狂的事情我们在谈论他的时候，除了谩骂之外，永远会有别的谈论视角"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "也应该有别的谈论视角"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
+- npc: "宋亮"
+  sentences:
+  - text: "真正精神强大的人，无论面对任何扑面而来的信息，总会从中找到让自己精神变得更强大的因素，而不是让自己愈发羸弱而叹气不止"
+    speed: 100
+    style:
+      display: block
+      margin-top: 16px
+    delay: 1100
+  clear: false
