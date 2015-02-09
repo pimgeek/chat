@@ -1,0 +1,893 @@
+---
+scripts:
+- npc: "老师"
+  sentences:
+  - text: "喜欢小动物么？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "当然喜欢。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "喜欢到什么程度呢？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "怎么说呢，顿顿都有吧！！！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“大家都知道叶公好龙的故事。大家知道这是什么时期的事？”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "“侏罗纪时期。”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "滚！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "地上的香蕉皮是谁吃的。。。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "老师，皮谁吃的不知道，香蕉我吃的。。。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "。。。。。。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“一分耕耘一分收获。”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "“种下去是一分，拿出来也是一分，为什么还要耕耘？”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“滚出去。。。”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“将英语口语翻译成汉语时，老外的哪些发音不用翻译？”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "“打喷嚏、咳嗽、还有哭和笑。”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“滚出去。。。”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "有什么东西把名字反过来就是他的用途？比如，牙刷， 刷牙！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "奶罩！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "滚出去！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "这节课我们来聊一聊骗子的骗人手段有哪些"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小红"
+  sentences:
+  - text: "陌生人给糖你吃"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小强"
+  sentences:
+  - text: "陌生人叫你上他的车"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "今天大家放学后，老师给大家布置一点点，就一点点作业……"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "滚出去！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "旁白"
+  sentences:
+  - text: "学校要建游泳池，老师发动大家捐款。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "老师，我捐两桶水。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "......"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "上课铃已经响了，难道你们没听见吗？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "哪次下课铃你听见了？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "......"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "用“先……再……”造句。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "先生，再见。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "滚！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "用“要么……要么……”造句。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "买雪糕啦！要么？要么？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "滚！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "金钱与智慧，你们会选什么？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "我当然是要金钱！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "而我会选择智慧，你知道为什么吗？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "当然，人们都会选择自己缺少的东西，我能理解！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "滚！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "用“画蛇添足”造句。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "字母“S”和“Y”被银行的叔叔阿姨画蛇添足地写成了“＄”和“￥”。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "当别人已经不感兴趣，而他还是一个劲的讲下去的人，我们叫他什么？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "老师。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "滚！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "请把“我的哥哥去学校”这句话改成将来时。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "我哥哥的儿子去学校。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "滚！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "旁白"
+  sentences:
+  - text: "老师正在上课等时候，发现小强在睡觉。老师叫旁边的小明把他叫醒。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "是你把他弄睡的，你自己叫！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "滚！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "用“但是”造句。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "鸭蛋是白色的。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "滚！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "爱迪生7岁的时候就能用镜子反光给他妈妈做手术了，你们10多岁了毛都不会。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "爱迪生20多岁的时候就是大发明家了，你今年多大啦！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "滚出去"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“你所遇到过的地域歧视是什么？”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "“56个民族，55个加分。”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“同学们，今天体育老师生病不能来上课，体育改为数学。”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "“老师，体育老师长啥样，我们咋都没见过呢？”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“滚出去！”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "旁白"
+  sentences:
+  - text: "物理课上女老师抱怨穿丝袜总脱丝。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "“丝袜容易脱丝主要受到张力过大，产生了塑性形变～通俗来讲就是腿粗！”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "刚要开口……"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "自觉地说“我出去……”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“小明啊，老师总是上你滚出去，你是不去特恨老师啊！”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "“老师我一点都不恨您，我经常惹您生气，是我不对。”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“不恨我就好，你可以滚出去了！”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "“……”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“请用白日做梦造句，越短越好。”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "“白日？做梦！”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“滚出去！”老师“同学们，卫子夫其实是个很有名的历史人物，她还生了个千金，有谁知道叫什么吗?”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "“老师，我知道，我可以不用出去吗？”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“你说得对就不用出去。”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "“卫生巾。”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“滚……”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“小明，你的梦想是什么呀？”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "“老师，我希望你以后再也不要让我滚出去。”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "“我以后不会了。”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "“老师你真好！我以后再也不往你杯子吐口水了。”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "旁白"
+  sentences:
+  - text: "小明被抬出去了……"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "用一句话来证明你是学渣。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "看看我的年级排名就知道有多少人参加考试。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "旁白"
+  sentences:
+  - text: "老师让学生们写一篇关于人的作文，重点要写突出的地方。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "老师，我想好了！我就写我的奶奶。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "那你的奶奶有什么突出的方面吗？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "我奶奶腰间盘突出。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "……"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "孔子是春秋时期鲁国人……（还没讲完）"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "老师，那孔子在夏天和冬天是哪国人啊？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "滚出去！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "你为什么要趴在桌子上睡觉？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "老师，能躺的话，谁愿意趴着睡啊！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "滚出去！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "知道为什么叫你站起来回答问题吗？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "小明"
+  sentences:
+  - text: "因为站起来说话不腰疼！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "老师"
+  sentences:
+  - text: "滚出去！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
