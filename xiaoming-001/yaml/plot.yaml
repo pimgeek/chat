@@ -11,7 +11,7 @@ scripts:
   - npc: jwen
     sentences:
     - text: 请用一句话，证明你找不到某个人的时候的愤怒情绪
-      speed: 20
+      speed: 5
       style:
         display: block
         padding-top: 8%
@@ -104,6 +104,7 @@ scripts:
         display: block
         padding-bottom: 100%
       delay: 0
+    clear: false
   # ...
   - npc: jwen
     sentences:
