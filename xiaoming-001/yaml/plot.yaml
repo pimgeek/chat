@@ -1,0 +1,116 @@
+npcs:
+  - id: jwen
+    name: 老师
+    avatar: http://pic4.bbzhi.com/dongwubizhi/keaixiaomaomikuanpingbizhi/keaixiaomaomikuanpingbizhi_491199_9.jpg
+  - id: jwu
+    name: 小明
+    avatar: http://news.xinhuanet.com/photo/2009-11/24/xin_5121106241325171580920.jpg
+
+scripts:
+  # 开场白，姜文，姜武分别登场
+  - npc: jwen
+    sentences:
+    - text: 请用一句话，证明你找不到某个人的时候的愤怒情绪
+      speed: 20
+      style:
+        display: block
+        padding-top: 8%
+      delay: 4000
+    clear: false
+
+  - npc: jwu
+    sentences:
+    - image: http://pic.baike.soso.com/p/20090722/bki-20090722104513-1922030774.jpg
+      delay: 600
+    - text: 王八蛋 你特么在哪。
+      speed: 20
+      style:
+        display: block
+        padding-top: 8%
+    clear: false
+
+  # 强调尺寸变大
+  - npc: jwen
+    sentences:
+    - text: 注意素质
+      speed: 20
+      style:
+        display: block
+        padding-bottom: 8%
+      delay: 800
+    clear: false
+  
+  - npc: jwu
+    sentences:
+    - text: 鳖
+      speed: 20
+      linebreak: false
+      delay: 100
+    - text: 汝在何方
+      speed: 20
+      style: 
+        font-size: 130%
+        font-weight: bold
+      linebreak: false
+    clear: false
+
+  # 欲扬先抑
+  - npc: jwen
+    sentences:
+    - text: 滚。。。。
+      speed: 20
+      style:
+        display: block
+        padding-bottom: 8%
+      delay: 100
+    - image: http://pic25.nipic.com/20121111/4499633_190419438000_2.jpg
+      delay: 100
+    clear: false
+
+  - npc: jwu
+    sentences:
+    - text: 请大家解释下环境因素和遗传因素
+      speed: 20
+    clear: false
+    image: http://pic25.nipic.com/20121111/4499633_190419438000_2.jpg
+     delay:100
+    clear: false
+
+  # 介绍 Google Earth
+  - npc: jwen
+    sentences:
+    - text: 长得像爸爸是遗传因素，像邻居是环境因素
+      speed: 20
+      style:
+        display: block
+        padding-bottom: 8%
+      delay: 500
+    - image: http://img.teamkn.com/i/ymM1Z3bM.png@300w.png
+      delay: 500
+    clear: false
+
+  - npc: jwu
+    sentences:
+    - text: 老规矩
+      speed: 20
+    clear: false
+
+  # 介绍 iFit
+  - npc: jwen
+    sentences:
+    - text: 。。。。。。。。默默起来
+      speed: 70
+      style:
+        display: block
+        padding-bottom: 100%
+      delay: 0
+  # ...
+  - npc: jwen
+    sentences:
+    - text: 我们继续上课吧
+      speed: 90
+      style:
+        display: block
+        padding-bottom: 80%
+      delay: 10
+    clear: false
