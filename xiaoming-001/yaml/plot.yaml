@@ -15,18 +15,19 @@ scripts:
       style:
         display: block
         padding-top: 8%
-      delay: 4000
+      delay: 800
     clear: false
 
   - npc: jwu
     sentences:
     - image: http://pic.baike.soso.com/p/20090722/bki-20090722104513-1922030774.jpg
-      delay: 600
+      delay: 800
     - text: 王八蛋 你特么在哪。
       speed: 20
       style:
         display: block
         padding-top: 8%
+      delay: 800
     clear: false
 
   # 强调尺寸变大
@@ -45,13 +46,15 @@ scripts:
     - text: 鳖
       speed: 20
       linebreak: false
-      delay: 100
+      delay: 800
+
     - text: 汝在何方
       speed: 20
       style: 
         font-size: 130%
         font-weight: bold
       linebreak: false
+      delay: 800
     clear: false
 
   # 欲扬先抑
@@ -62,18 +65,16 @@ scripts:
       style:
         display: block
         padding-bottom: 8%
-      delay: 100
+      delay: 800
     - image: http://pic25.nipic.com/20121111/4499633_190419438000_2.jpg
-      delay: 100
+      delay: 800
     clear: false
 
   - npc: jwu
     sentences:
     - text: 请大家解释下环境因素和遗传因素
       speed: 20
-    clear: false
-    image: http://pic25.nipic.com/20121111/4499633_190419438000_2.jpg
-     delay:100
+      delay: 800
     clear: false
 
   # 介绍 Google Earth
@@ -84,15 +85,16 @@ scripts:
       style:
         display: block
         padding-bottom: 8%
-      delay: 500
+      delay: 800
     - image: http://img.teamkn.com/i/ymM1Z3bM.png@300w.png
-      delay: 500
+      delay: 800
     clear: false
 
   - npc: jwu
     sentences:
     - text: 老规矩
       speed: 20
+      delay: 800
     clear: false
 
   # 介绍 iFit
@@ -103,7 +105,7 @@ scripts:
       style:
         display: block
         padding-bottom: 100%
-      delay: 0
+      delay: 800
     clear: false
   # ...
   - npc: jwen
@@ -113,5 +115,5 @@ scripts:
       style:
         display: block
         padding-bottom: 80%
-      delay: 10
+      delay: 800
     clear: false
