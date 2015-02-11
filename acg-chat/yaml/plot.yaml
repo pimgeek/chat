@@ -1,0 +1,902 @@
+npcs:
+  - id: "夏实"
+    name: 夏实
+    avatar: http://img.teamkn.com/i/NptoaMyS.png@100w_100h_1e_1c.png
+  - id: "吴笛"
+    name: 吴笛
+    avatar: http://img.teamkn.com/i/B5VSfH2U.png@100w_100h_1e_1c.png
+    direction: right
+
+scripts:
+- npc: "夏实"
+  sentences:
+  - text: "其实我都是简单看热闹..."
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: " 我是不是太把好玩的东西严肃对待了"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "比如你说的圣斗士，他们的世界观对我来说没有理解问题，即使我不知道88星座到底有哪些，黄金斗士和冥斗士有什么具体差别，但还是可以很好的看下去。只要对作品的世界观不抗拒就可以"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "嗯，我小时候刚一开始看那些暴力打斗，还觉得挺瘆人的。。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "就是觉得有点刺激加恐惧"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "可能是性别的关系，我接触的少女漫画更多。北斗神拳这些看的比较少。当然也和圈子有关"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "小时候一般只和同性交流看过的漫画，于是基本都圈在少女漫画里面。和男同学一般共同的都是机器猫或者美漫了"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "好的，我感觉这就是说，你接触这些作品时也不会刻意去想，就是看看热闹，然后慢慢就积累得多了。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "回想起来小时候看圣斗士应该都是因为圣衣造型很漂亮，招式很华丽，星座的概念很符合女性理解这些吧。具体打斗倒是不会去在意和欣赏。就好像美少女变身系的漫画，战斗从来不是重点"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "懂了"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "我现在看动画和漫画也还是不会想太多，但是会去选择自己感兴趣的题材追下去"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "我怎么就没想到，其实不用追究情节，也可以无碍地看完嘛。。。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "当然啦，看个动画还要想那么多，很累啊"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "而且有句话叫做“认真你就输了”"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "或者 认真你就叔了"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "。。。  看起来一直都是叔着过来的"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "哈哈哈哈"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: " 不过，还是得试着问不那么叔的问题啦。。。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "继续吧"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "平均每个月，你会跟大概几部不同的作品？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "每个季度吧"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "哦，这个要按季度来的。。。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "是呀~"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "那像海贼王那样的超长篇，是不是就更长了？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "或者你可以按周来计算"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "不过周和季其实是一样的意思"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "不管是长篇还是短篇，反正就算一部嘛"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "其实我最核心关注的就是，你会是长期跟一个作品呢，还是会经常换着看，如果是换着看的话，是谁推荐给你的。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "我感觉从头脑中冒出的好多第一想法，一问就发现自己考虑复杂了，哈哈"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "每季的新番都会挑几部来看，有时间的话就直接看，没时间的话就从朋友或者微博大号的观后感或者推荐来挑"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "我最近看幸腹涂鸦好像是 B站官微 推荐的。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "我现在每季/周追的动画大概在11部左右，少的时候8、9部，多的时候15、16部"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "我来试着问一个稍微不那么叔的问题啦~"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "比如上一季的月刊少女野崎君我就是看微博推荐才看的。一开始看海报、人设、故事介绍等等都没引起我的兴趣。但是微博推荐说出乎意料的有趣，于是就去看了，然后就陷进去了"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "啊，这个也算的~"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "我是看了幸腹涂鸦海报里面的某些肉感部位，感觉瞬间被击中了。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "看起来这个事情，要是有人聊一聊，还是会发现关键点哦"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "互相交流互相安利，也是乐趣"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "那部漫画的作者真贼了，海报里的那个图景，不知动画片里何时会出，这就留下钩子了。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "应该说是那部动画，作者的确是深入了解某些男性的关注点。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "安利，就是发展同好的意思 "
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "做不出新题材只能使用旧题材的情况下，如何发挥新意很重要"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "而且你所说的【陷进去】，我觉得也很形象。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "安利，就是介绍和宣传，然后拉对方入伙的意思"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "旧题材出新，这个可以参考那部作品呢？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "少女野崎君 是这样的作品吗？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "这个是校园类的"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "当然这是一大类，因为动漫主要针对市场还是学生，校园系更亲切"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "其实我刚刚想问的问题，你也通过【陷进去】的例子碰巧回答了。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "我就是想问从ACG周边的关注，不小心被吸引到作品本身上去。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "举个最直接的例子吧。free！。这本来应该是热血运动漫。但这根本就不是重点。反而因为其腐向明显，变成腐女超爱的一部动画"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: ''
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "很好地把握腐潮流的抬头，给旧题材增加新味道哦"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "是的"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "黑子的篮球也是这样。虽然我没看"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "结合现在的认识，我再来想想看"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "最近从ACG爱好者那边了解并且体验过的，有宅文化，腐文化，鬼畜视频，CP，手办消费，勾人的宣传等等。。。。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "嗯嗯"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "哦对啦，ACG 圈子里自己 DIY 一些东西，无论是数字作品，还是实体作品的情况，你了解的多吗？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "自己做视频或者配音那种吗？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "你看我有个小亲戚搞了这个绘画+抱枕："
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "你熟悉的都可以啦"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "哦对了额，上次还说帮宋亮调查各类漫画汉化组的整个图片生产流程，我差点把这个调查给忘记了。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "你之前不是已经做了吗？那个表格"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "像漫画汉化这种，虽说不是原创只是翻译，我们从【耗费了人类无差别劳动】的角度，也可以理解为 DIY~ P"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "上次是了解的粗线条啦。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "那初音家族的都算了"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "这个图我好像还没给你发过？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "用VOCALOID软件做各种歌曲，然后配上自制MV"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "看来安全隐秘很重要啊"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "这个对你也算一点新情报是吗？ "
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "这是我从原来老公司那边某个前汉化组成员那探听出来的消息。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "也不算新情报吧，大概能想到这些情况"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "他好久不参加汉化活动了。。。所以信息是半新半旧的。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "好吧，总结一下，我问这么多问题，其实主要就是围绕着这几个点来问的。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: 1 ACG 圈里面有哪些容易 UGC 的内容2 ACG 圈里面有哪些容易产生推荐和跟进效果的内容3 ACG 圈里面有哪些 DIY 的具体做法4
+      以上 1/2/3 ，有哪些是可以跟我们现有的 TouchIdea, 对话泡泡，四叶图床，知识网络 这些有一定交集的。
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "知识网络是你来咱公司之前就做好的，所以你可能还不太熟悉，这个软件可以把一些散碎的知识片段（比如梗）拼组成一个有骨架和层次的知识网。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "前置和后置知识点这些吗？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "哦对对，你是见过的对吧？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "之前做KC的时候有涉及到"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "忘记了，当时你还给宋亮绘图来着，我没有直接给你讲 mockup 的部分。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "对"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "那个 KC 有一部分想法是我从国外某研究中抠出来的。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "哦～～"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "我刚才在不告诉你的情况下，想看看能否套用到 ACG 的散碎知识上，发现好像不太行得通。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "因为没有前置和后置的情况是吗"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "对啊，前置和后置太少的时候，骨架是可用形成的，但是很难有层次感。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "没有层次感，就很难形成打怪通关的那种情景。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "太复杂的层次肯定无法形成。最多是梗和运用到的作品这样一对一的关系"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "稍稍复杂一些的就是比如《幸运星》这种大量使用其他作品梗的情况，可能就有前后置"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "让大家围绕一些梗去做 UGC，这个提问倒是可以收集许多知识片，但是试图把这些知识碎片“集成”为一个好玩有趣的整体时，就有点小阻碍。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "哦，还有这样一部作品？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "有呀"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "接下来的几个月里，我都要努力去想，借助何种思路脉络，可以形成输入端收集大量知识碎片，输出端（辅以有限的人力审阅）能形成某种好玩的效果，靠这种方法去吸引更多用户进来贡献内容。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "像你说的这种情况，我头脑中第一反应是，可以给这个作品做一些特别的上下文标记，把其中的梗关联到老动画的截图上。这样也算是一种集成。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "夏实"
+  sentences:
+  - text: "对"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "当然这只是一种策略，另一种策略就是为 DIY 的人或团体提供我们的高效文本/媒体处理工具。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "比如说。。。你稍等十分钟，我也休息一下，回头继续聊。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  clear: false
