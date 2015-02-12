@@ -1,0 +1,387 @@
+npcs:
+  - id: Matt 教授
+    name: Matt 教授
+    avatar: http://img.teamkn.com/i/aIK0sfW9.png@100w_100h_1e_1c.png
+
+scripts:
+# 开始讲人类知识的大图
+- npc: Matt 教授
+  sentences:
+  - text: "每年秋天，我都要向新来的一批博士研究生解释“什么是博士”。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 600
+  - text: "我感到很难用言语描述清楚，所以决定用图来说明。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 600
+- npc: Matt 教授
+  sentences:
+  - text: "假设人类所有的知识，就是一个圆。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    linebreak: false
+    delay: 600
+  - text: "圆的内部代表已知，圆的外部代表未知。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    linebreak: false
+    delay: 600
+  - image: http://img.teamkn.com/i/eUGEXNaY.png@640w.png
+    style:
+      display: block
+      margin-top: 16px
+    linebreak: false
+    delay: -1
+  clear: false
+- npc: Matt 教授
+  sentences:
+  - text: "读完小学，你有了一些最基本的知识。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 600
+  - image: http://img.teamkn.com/i/kiMovQDS.png@640w.png
+    style:
+      display: block
+      margin-top: 16px
+    linebreak: false
+    delay: -1
+  clear: false
+- npc: Matt 教授
+  sentences:
+  - text: "读完中学，你的知识又多了一点。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 600
+  - image: http://img.teamkn.com/i/E5FflP6v.png@640w.png
+    style:
+      display: block
+      margin-top: 16px
+    linebreak: false
+    delay: -1
+  clear: false
+- npc: Matt 教授
+  sentences:
+  - text: "读完本科，你不仅有了更多的知识，而且还有了一个专业方向。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 600
+  - image: http://img.teamkn.com/i/IQCUcYar.png@640w.png
+    style:
+      display: block
+      margin-top: 16px
+    linebreak: false
+    delay: -1
+  clear: false
+- npc: Matt 教授
+  sentences:
+  - text: "读完硕士，你在专业上又前进了一大步。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 600
+  - image: http://img.teamkn.com/i/P40ze0YL.png@640w.png
+    style:
+      display: block
+      margin-top: 16px
+    linebreak: false
+    delay: -1
+  clear: false
+- npc: Matt 教授
+  sentences:
+  - text: "进入博士生阶段，你大量阅读文献，接触到本专业的最前沿。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 600
+  - image: http://img.teamkn.com/i/zzdnSQCC.png@640w.png
+    style:
+      display: block
+      margin-top: 16px
+    linebreak: false
+    delay: -1
+  clear: false
+- npc: Matt 教授
+  sentences:
+  - text: "你选择边界上的一个点，也就是一个非常专门的问题，作为自己的主攻方向。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 600
+  - image: http://img.teamkn.com/i/s6EILUjC.png@640w.png
+    style:
+      display: block
+      margin-top: 16px
+    linebreak: false
+    delay: -1
+  clear: false
+- npc: Matt 教授
+  sentences:
+  - text: "你在这个点上苦苦思索，也许需要好几年。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 600
+  - image: http://img.teamkn.com/i/Td6bwjhR.png@640w.png
+    style:
+      display: block
+      margin-top: 16px
+    linebreak: false
+    delay: -1
+  clear: false
+- npc: Matt 教授
+  sentences:
+  - text: "终于有一天，你突破了这个点。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 600
+  - image: http://img.teamkn.com/i/K5lbkJx0.png@640w.png
+    style:
+      display: block
+      margin-top: 16px
+    linebreak: false
+    delay: -1
+  clear: false
+- npc: Matt 教授
+  sentences:
+  - text: "你把人类的知识向前推进了一步，这时你就成为博士了。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 600
+  - image: http://img.teamkn.com/i/bJmUZ4IZ.png@640w.png
+    style:
+      display: block
+      margin-top: 16px
+    linebreak: false
+    delay: -1
+  clear: false
+- npc: Matt 教授
+  sentences:
+  - text: "现在你就是最前沿，其他人都在你身后。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 600
+  - image: http://img.teamkn.com/i/dA5nvHDo.png@640w.png
+    style:
+      display: block
+      margin-top: 16px
+    linebreak: false
+    delay: -1
+  clear: false
+- npc: Matt 教授
+  sentences:
+  - text: "但是，不要陶醉在这个点上，不要把整张图的样子忘了。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 600
+  - image: http://img.teamkn.com/i/QSfnPbep.png@640w.png
+    style:
+      display: block
+      margin-top: 16px
+    linebreak: false
+    delay: -1
+  clear: false
+- npc: Matt 教授
+  sentences:
+  - text: "继续努力向前推进吧！"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+# 开始谈题外话
+- npc: Matt 教授
+  sentences:
+  - text: "题外话：Matt 教授为何选择钻研生物学？"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  - text: "如果把视野聚焦到人类全部知识在遗传科学方向上的边界处，就发现有些知识是人们目前（注：2010年之前）仍然鞭长莫及的："
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: 500
+  - image: http://img.teamkn.com/i/AHnehqzE.png@640w.png
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  - text: "当我和我夫人发现我们的儿子罹患了一种罕见但有可能致死的遗传病症后，我们开始资助从事此方向研究的研究生们。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  - text: "对我们的儿子来说，可能已经太晚了，但对其他人的孩子或许还来得及。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  - text: "能够克服这一疾病的唯一途径就是科学，而实践科学的最佳方式就是交给研究生们去做。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+- npc: Matt 教授
+  sentences:
+  - text: "2012 年更新：当我最初写下这篇文章的时候，我儿子的病症还未确诊。拜遗传疾病诊断科学的进步所赐，通过外显子组测序技术，已经确认我儿子罹患的是一种全新的疾病，而他也恰恰是第一位记录在案的患病者。此疾病已经被命名为 “N-glycanase 缺乏症”。"
+    speed: 16
+    style:
+      display: block
+      margin-top: 16px
+    delay: -1
+  clear: false
+- npc: Matt 教授
+  sentences:
+  - text: "虽然只是在人类全部知识的边界凿出一个小坑，但对我儿子的生命而言就是一次大跃进。"
+    speed: 16
+    style:
+      margin-top: 16px
+      margin-bottom: 16px
+    delay: -1
+  - text: "你可以在这里读到更完整的故事：“寻找觊觎我儿子生命的杀手”"
+    link: http://matt.might.net/articles/my-sons-killer/translation/chinese/
+    speed: 16
+    style:
+      margin-top: 16px
+    delay: -1
+  clear: false
+# 显示内容创作相关信息
+- npc: 讲述者
+  sentences:
+  - text: 对话泡泡学知识 - 什么是博士？（大屏版）
+    speed: 16
+    style:
+      display: block
+      font-size: 120%
+      font-weight: bold
+      color: lightgreen
+      margin-bottom: 16px
+    delay: 500
+  - text: —— MINDPIN 趣味工具开发组
+    link: http://www.mindpin.com
+    speed: 40
+    style:
+      font-weight: bold
+      color: lightblue
+      margin-bottom: 16px
+    delay: 500
+  - image: http://img.teamkn.com/i/H8Z7tdRS.png@300w.png
+    delay: 500
+  - text: 作者：
+    speed: 40
+    style:
+      font-weight: bold
+      color: lightgreen
+      margin-bottom: 16px
+    linebreak: false
+    delay: 500
+  - text: pimgeek (@石酷)
+    link: http://weibo.com/scrutiny1
+    speed: 40
+    style:
+      font-weight: bold
+      color: lemonchiffon
+    delay: 500
+  - text: 声明：
+    speed: 40
+    style:
+      font-weight: bold
+      color: lightgreen
+      margin-bottom: 16px
+    linebreak: false
+    delay: 500
+  - text: 内容基于“Matt Might - The illustrated guide to a Ph.D.”
+    link: http://matt.might.net/articles/phd-school-in-pictures/
+    speed: 40
+    style:
+      font-weight: bold
+      color: lemonchiffon
+    linebreak: false
+    delay: 500
+  - text: ，
+    delay: 0
+    linebreak: false
+  - text: 以及“阮一峰：什么是博士”
+    link: http://www.ruanyifeng.com/blog/2010/08/illustrated_guide_to_a_phd.html
+    speed: 40
+    style:
+      font-weight: bold
+      color: lemonchiffon
+    linebreak: false
+    delay: 500
+  - text: ，
+    delay: 0
+    linebreak: false
+  - text: Matt 博士的题外话部分由 pimgeek 节译
+    speed: 40
+    style:
+      font-weight: bold
+      color: lemonchiffon
+    linebreak: false
+    delay: 500
+  - text: ，
+    delay: 0
+    linebreak: false
+  - text: 讲述者头像来自 AHA-SOFT
+    link: http://www.aha-soft.com/cn/index.htm
+    speed: 40
+    style:
+      font-weight: bold
+      color: lemonchiffon
+    linebreak: false
+    delay: 500
+  - text: 。
+    delay: 0
+  - text: 版权：
+    speed: 40
+    style:
+      font-weight: bold
+      color: lightgreen
+      margin-bottom: 16px
+    linebreak: false
+    delay: 500
+  - text: 知识共享 - 署名+非商业性使用 4.0 国际版
+    link: http://creativecommons.org/licenses/by-nc/4.0/
+    speed: 500
+    delay: 500
+  - image: https://i.creativecommons.org/l/by-nc/4.0/88x31.png
+    speed: 500
+    style:
+      display: block
+      margin: 0 auto
+      margin-top: 16px
+      text-align: center
+    delay: 0
