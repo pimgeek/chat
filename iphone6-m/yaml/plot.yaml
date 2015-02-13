@@ -17,7 +17,7 @@ scripts:
       speed: 20
       style:
         display: block
-        padding-top: 8%
+        margin-top: 16px
       delay: 400
 
   - npc: jwu
@@ -28,7 +28,7 @@ scripts:
       speed: 20
       style:
         display: block
-        padding-top: 8%
+        margin-top: 16px
     clear: false
 
   # 强调尺寸变大
