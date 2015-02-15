@@ -57,6 +57,7 @@ scripts:
     - text: 接下来就让我们打开 AOL Search，一边操作一边讲解。
       speed: 20
       delay: 900
+    clear: false
   - npc: qu
     sentences:
     - text: 好的~ 我就喜欢在操作过程中学习！
@@ -90,6 +91,7 @@ scripts:
       style:
         display: block
         margin-top: 16px
+    clear: false
   - npc: qu
     sentences:
     - text: 嗯我懂了~ 只要收藏这个网址，就可以随时打开 AOL Search！
@@ -113,6 +115,7 @@ scripts:
       linebreak: false
     - image: http://img.teamkn.com/i/AobjjQ3r.png@300w.png
       delay: 800
+    clear: false
   - npc: qu
     sentences:
     - text: 看到了！搜索结果中出现了关于“余额宝”的好多资料~
@@ -129,6 +132,7 @@ scripts:
       delay: 800
     - image: http://img.teamkn.com/i/oZhtQ2Cx.png@300w.png
       delay: 800
+    clear: false
   - npc: qu
     sentences:
     - text: 啊~ 《爸爸去哪儿》这个电视节目很有爱，我也喜欢看！
@@ -149,6 +153,7 @@ scripts:
       delay: 800
     - image: http://img.teamkn.com/i/oH0ErHVG.png@300w.png
       delay: 800
+    clear: false
   - npc: qu
     sentences:
     - text: 看到了！只要输入“奔跑”两个字，AOL Search 就会猜出“奔跑吧兄弟”。
@@ -179,6 +184,7 @@ scripts:
       delay: 800
     - image: http://img.teamkn.com/i/k8UH5exH.png@500w.png
       delay: 800
+    clear: false
   - npc: qu
     sentences:
     - text: 哦，直接这样写它就能正确计算出来是吗？
@@ -209,6 +215,7 @@ scripts:
       delay: 600
     - image: http://img.teamkn.com/i/c4W71XQu.png@200w.png
       delay: 800
+    clear: false
   - npc: qu
     sentences:
     - text: 哦…… 原来“大脑只开发了10%”这个说法并没有科学依据啊，我以前还深信不疑呢！
@@ -230,6 +237,7 @@ scripts:
     - text: 可有时我们对某个具体网站的内容特别感兴趣，这时该怎么办呢？
       speed: 20
       delay: 800
+    clear: false
   - npc: qu
     sentences:
     - text: 让我思考一下…… 可不可以告诉 AOL Search，让它只针对某个具体网站做搜索呢？
@@ -281,6 +289,7 @@ scripts:
     - text: 接下来要说明的是，这两种技巧是可以组合使用的。
       speed: 20
       delay: 800
+    clear: false
   - npc: qu
     sentences:
     - text: 组合使用…… 怎样才能做到呢？
@@ -357,9 +366,11 @@ scripts:
       delay: 800
     - text: 并把发布年份在 2013 年之前或 2014 年之后的文章都过滤掉。
       speed: 20
+      linebreak: false
       delay: 600
     - image: http://img.teamkn.com/i/EdSKDv0Z.png@300w.png
       delay: 800
+    clear: false
   - npc: qu
     sentences:
     - text: 这样就可以按文章发布的年份做筛选啦！
@@ -375,6 +386,7 @@ scripts:
     - text: 请问号同学来猜一猜，接下来的这一次搜索动作，能达到怎样的效果？
       speed: 20
       delay: 600
+    clear: false
   - npc: qu
     sentences:
     - text: 好啊~ 我试试看。
@@ -447,6 +459,7 @@ scripts:
         margin-bottom: 24px
       delay: 600
     - image: http://img.teamkn.com/i/YNY2fqqX.png@300w.png
+    clear: false
   # 第十一，引出搜索技巧——减号限定法
   - npc: ma
     sentences:
@@ -486,6 +499,7 @@ scripts:
       linebreak: false
       delay: 800
     - image: http://img.teamkn.com/i/i1sNzyDJ.png@300w.png
+    clear: false
   # 第十二，引出限定搜索结果扩展名的搜索技巧
   - npc: ma
     sentences:
@@ -527,6 +541,7 @@ scripts:
         margin-bottom: 24px
       delay: 800
     - image: http://img.teamkn.com/i/xdjh9bfO.png@300w.png
+    clear: false
   # 第十三，教程收尾工作
   - npc: ma
     sentences:
@@ -537,6 +552,7 @@ scripts:
     - text: 如果前面讲到的搜索技巧大家都已理解，并亲自操作过一遍，就算入门了。
       speed: 20
       delay: 800
+    clear: false
   - npc: qu
     sentences:
     - text: 到这里就要结束了吗？可我还想多学两招哪！
@@ -615,3 +631,4 @@ scripts:
         text-align: center
         margin-top: 16px
       delay: 0
+    clear: false
