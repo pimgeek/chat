@@ -254,6 +254,7 @@ scripts:
       display: block
       margin-top: 16px
     delay: -1
+  clear: false
 - npc: Matt 教授
   sentences:
   - text: "2012 年更新：当我最初写下这篇文章的时候，我儿子的病症还未确诊。拜遗传疾病诊断科学的进步所赐，通过外显子组测序技术，已经确认我儿子罹患的是一种全新的疾病，而他也恰恰是第一位记录在案的患病者。此疾病已经被命名为 “N-glycanase 缺乏症”。"
@@ -385,3 +386,4 @@ scripts:
       margin-top: 16px
       text-align: center
     delay: 0
+  clear: false

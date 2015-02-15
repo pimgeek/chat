@@ -1,890 +1,891 @@
 ---
 scripts:
-- npc: "老师"
+- npc: Matt 教授
   sentences:
-  - text: "喜欢小动物么？"
+  - text: "假设人类所有的知识，就是一个圆。圆的内部代表已知，圆的外部代表未知。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: Matt 教授
   sentences:
-  - text: "当然喜欢。"
+  - text: "读完小学，你有了一些最基本的知识。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: Matt 教授
   sentences:
-  - text: "喜欢到什么程度呢？"
+  - text: "读完中学，你的知识又多了一点。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: Matt 教授
   sentences:
-  - text: "怎么说呢，顿顿都有吧！！！"
+  - text: "读完本科，你不仅有了更多的知识，而且还有了一个专业方向。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: Matt 教授
   sentences:
-  - text: "“大家都知道叶公好龙的故事。大家知道这是什么时期的事？”"
+  - text: "读完硕士，你在专业上又前进了一大步。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: Matt 教授
   sentences:
-  - text: "“侏罗纪时期。”"
+  - text: "进入博士生阶段，你大量阅读文献，接触到本专业的最前沿。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: Matt 教授
   sentences:
-  - text: "滚！"
+  - text: "你选择边界上的一个点，也就是一个非常专门的问题，作为自己的主攻方向。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: Matt 教授
   sentences:
-  - text: "地上的香蕉皮是谁吃的。。。"
+  - text: "你在这个点上苦苦思索，也许需要好几年。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: Matt 教授
   sentences:
-  - text: "老师，皮谁吃的不知道，香蕉我吃的。。。"
+  - text: "终于有一天，你突破了这个点。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: Matt 教授
   sentences:
-  - text: "。。。。。。"
+  - text: "你把人类的知识向前推进了一步，这时你就成为博士了。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: Matt 教授
   sentences:
-  - text: "“一分耕耘一分收获。”"
+  - text: "现在你就是最前沿，其他人都在你身后。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: Matt 教授
   sentences:
-  - text: "“种下去是一分，拿出来也是一分，为什么还要耕耘？”"
+  - text: "但是，不要陶醉在这个点上，不要把整张图的样子忘了。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: Matt 教授
   sentences:
-  - text: "“滚出去。。。”"
+  - text: "继续努力向前推进吧！"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "“将英语口语翻译成汉语时，老外的哪些发音不用翻译？”"
+  - text: "而且有句话叫做“认真你就输了”"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "夏实"
   sentences:
-  - text: "“打喷嚏、咳嗽、还有哭和笑。”"
+  - text: "或者 认真你就叔了"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "“滚出去。。。”"
+  - text: "。。。  看起来一直都是叔着过来的"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "有什么东西把名字反过来就是他的用途？比如，牙刷， 刷牙！"
+  - text: "哈哈哈哈"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "奶罩！"
+  - text: " 不过，还是得试着问不那么叔的问题啦。。。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "滚出去！"
+  - text: "继续吧"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "这节课我们来聊一聊骗子的骗人手段有哪些"
+  - text: "平均每个月，你会跟大概几部不同的作品？"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小红"
+- npc: "夏实"
   sentences:
-  - text: "陌生人给糖你吃"
+  - text: "每个季度吧"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小强"
+- npc: "吴笛"
   sentences:
-  - text: "陌生人叫你上他的车"
+  - text: "哦，这个要按季度来的。。。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "夏实"
   sentences:
-  - text: "今天大家放学后，老师给大家布置一点点，就一点点作业……"
+  - text: "是呀~"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "滚出去！"
+  - text: "那像海贼王那样的超长篇，是不是就更长了？"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "旁白"
+- npc: "夏实"
   sentences:
-  - text: "学校要建游泳池，老师发动大家捐款。"
+  - text: "或者你可以按周来计算"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "夏实"
   sentences:
-  - text: "老师，我捐两桶水。"
+  - text: "不过周和季其实是一样的意思"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "......"
+  - text: "不管是长篇还是短篇，反正就算一部嘛"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "上课铃已经响了，难道你们没听见吗？"
+  - text: "其实我最核心关注的就是，你会是长期跟一个作品呢，还是会经常换着看，如果是换着看的话，是谁推荐给你的。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "哪次下课铃你听见了？"
+  - text: "我感觉从头脑中冒出的好多第一想法，一问就发现自己考虑复杂了，哈哈"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "......"
+  - text: "每季的新番都会挑几部来看，有时间的话就直接看，没时间的话就从朋友或者微博大号的观后感或者推荐来挑"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "用“先……再……”造句。"
+  - text: "我最近看幸腹涂鸦好像是 B站官微 推荐的。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "夏实"
   sentences:
-  - text: "先生，再见。"
+  - text: "我现在每季/周追的动画大概在11部左右，少的时候8、9部，多的时候15、16部"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "滚！"
+  - text: "我来试着问一个稍微不那么叔的问题啦~"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "用“要么……要么……”造句。"
+  - text: "比如上一季的月刊少女野崎君我就是看微博推荐才看的。一开始看海报、人设、故事介绍等等都没引起我的兴趣。但是微博推荐说出乎意料的有趣，于是就去看了，然后就陷进去了"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "买雪糕啦！要么？要么？"
+  - text: "啊，这个也算的~"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "滚！"
+  - text: "我是看了幸腹涂鸦海报里面的某些肉感部位，感觉瞬间被击中了。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "金钱与智慧，你们会选什么？"
+  - text: ''
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "我当然是要金钱！"
+  - text: "看起来这个事情，要是有人聊一聊，还是会发现关键点哦"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "而我会选择智慧，你知道为什么吗？"
+  - text: "互相交流互相安利，也是乐趣"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "当然，人们都会选择自己缺少的东西，我能理解！"
+  - text: "那部漫画的作者真贼了，海报里的那个图景，不知动画片里何时会出，这就留下钩子了。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "滚！"
+  - text: "应该说是那部动画，作者的确是深入了解某些男性的关注点。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "用“画蛇添足”造句。"
+  - text: "安利，就是发展同好的意思 "
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "夏实"
   sentences:
-  - text: "字母“S”和“Y”被银行的叔叔阿姨画蛇添足地写成了“＄”和“￥”。"
+  - text: "做不出新题材只能使用旧题材的情况下，如何发挥新意很重要"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "当别人已经不感兴趣，而他还是一个劲的讲下去的人，我们叫他什么？"
+  - text: "而且你所说的【陷进去】，我觉得也很形象。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "夏实"
   sentences:
-  - text: "老师。"
+  - text: "安利，就是介绍和宣传，然后拉对方入伙的意思"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "滚！"
+  - text: "旧题材出新，这个可以参考那部作品呢？"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "请把“我的哥哥去学校”这句话改成将来时。"
+  - text: "少女野崎君 是这样的作品吗？"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "夏实"
   sentences:
-  - text: "我哥哥的儿子去学校。"
+  - text: "这个是校园类的"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "滚！"
+  - text: "当然这是一大类，因为动漫主要针对市场还是学生，校园系更亲切"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "旁白"
+- npc: "吴笛"
   sentences:
-  - text: "老师正在上课等时候，发现小强在睡觉。老师叫旁边的小明把他叫醒。"
+  - text: "其实我刚刚想问的问题，你也通过【陷进去】的例子碰巧回答了。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "是你把他弄睡的，你自己叫！"
+  - text: "我就是想问从ACG周边的关注，不小心被吸引到作品本身上去。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "滚！"
+  - text: "举个最直接的例子吧。free！。这本来应该是热血运动漫。但这根本就不是重点。反而因为其腐向明显，变成腐女超爱的一部动画"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "用“但是”造句。"
+  - text: ''
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "鸭蛋是白色的。"
+  - text: "很好地把握腐潮流的抬头，给旧题材增加新味道哦"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "滚！"
+  - text: "是的"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "爱迪生7岁的时候就能用镜子反光给他妈妈做手术了，你们10多岁了毛都不会。"
+  - text: "黑子的篮球也是这样。虽然我没看"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "爱迪生20多岁的时候就是大发明家了，你今年多大啦！"
+  - text: "结合现在的认识，我再来想想看"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "滚出去"
+  - text: "最近从ACG爱好者那边了解并且体验过的，有宅文化，腐文化，鬼畜视频，CP，手办消费，勾人的宣传等等。。。。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "“你所遇到过的地域歧视是什么？”"
+  - text: "嗯嗯"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "“56个民族，55个加分。”"
+  - text: "哦对啦，ACG 圈子里自己 DIY 一些东西，无论是数字作品，还是实体作品的情况，你了解的多吗？"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "“同学们，今天体育老师生病不能来上课，体育改为数学。”"
+  - text: "自己做视频或者配音那种吗？"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "“老师，体育老师长啥样，我们咋都没见过呢？”"
+  - text: "你看我有个小亲戚搞了这个绘画+抱枕："
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "“滚出去！”"
+  - text: "你熟悉的都可以啦"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "旁白"
+- npc: "吴笛"
   sentences:
-  - text: "物理课上女老师抱怨穿丝袜总脱丝。"
+  - text: "哦对了额，上次还说帮宋亮调查各类漫画汉化组的整个图片生产流程，我差点把这个调查给忘记了。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "夏实"
   sentences:
-  - text: "“丝袜容易脱丝主要受到张力过大，产生了塑性形变～通俗来讲就是腿粗！”"
+  - text: "你之前不是已经做了吗？那个表格"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "刚要开口……"
+  - text: "像漫画汉化这种，虽说不是原创只是翻译，我们从【耗费了人类无差别劳动】的角度，也可以理解为 DIY~ P"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "自觉地说“我出去……”"
+  - text: "上次是了解的粗线条啦。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "“小明啊，老师总是上你滚出去，你是不去特恨老师啊！”"
+  - text: "那初音家族的都算了"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "“老师我一点都不恨您，我经常惹您生气，是我不对。”"
+  - text: "这个图我好像还没给你发过？"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "“不恨我就好，你可以滚出去了！”"
+  - text: "用VOCALOID软件做各种歌曲，然后配上自制MV"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "夏实"
   sentences:
-  - text: "“……”"
+  - text: "看来安全隐秘很重要啊"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "“请用白日做梦造句，越短越好。”"
+  - text: "这个对你也算一点新情报是吗？ "
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "“白日？做梦！”"
+  - text: "这是我从原来老公司那边某个前汉化组成员那探听出来的消息。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "“滚出去！”老师“同学们，卫子夫其实是个很有名的历史人物，她还生了个千金，有谁知道叫什么吗?”"
+  - text: "也不算新情报吧，大概能想到这些情况"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "“老师，我知道，我可以不用出去吗？”"
+  - text: "他好久不参加汉化活动了。。。所以信息是半新半旧的。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "“你说得对就不用出去。”"
+  - text: "好吧，总结一下，我问这么多问题，其实主要就是围绕着这几个点来问的。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "“卫生巾。”"
+  - text: 1 ACG 圈里面有哪些容易 UGC 的内容2 ACG 圈里面有哪些容易产生推荐和跟进效果的内容3 ACG 圈里面有哪些 DIY 的具体做法4
+      以上 1/2/3 ，有哪些是可以跟我们现有的 TouchIdea, 对话泡泡，四叶图床，知识网络 这些有一定交集的。
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "“滚……”"
+  - text: "知识网络是你来咱公司之前就做好的，所以你可能还不太熟悉，这个软件可以把一些散碎的知识片段（比如梗）拼组成一个有骨架和层次的知识网。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "“小明，你的梦想是什么呀？”"
+  - text: "前置和后置知识点这些吗？"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "“老师，我希望你以后再也不要让我滚出去。”"
+  - text: "哦对对，你是见过的对吧？"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "“我以后不会了。”"
+  - text: "之前做KC的时候有涉及到"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "“老师你真好！我以后再也不往你杯子吐口水了。”"
+  - text: "忘记了，当时你还给宋亮绘图来着，我没有直接给你讲 mockup 的部分。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "旁白"
+- npc: "夏实"
   sentences:
-  - text: "小明被抬出去了……"
+  - text: "对"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "用一句话来证明你是学渣。"
+  - text: "那个 KC 有一部分想法是我从国外某研究中抠出来的。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "夏实"
   sentences:
-  - text: "看看我的年级排名就知道有多少人参加考试。"
+  - text: "哦～～"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "旁白"
+- npc: "吴笛"
   sentences:
-  - text: "老师让学生们写一篇关于人的作文，重点要写突出的地方。"
+  - text: "我刚才在不告诉你的情况下，想看看能否套用到 ACG 的散碎知识上，发现好像不太行得通。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "夏实"
   sentences:
-  - text: "老师，我想好了！我就写我的奶奶。"
+  - text: "因为没有前置和后置的情况是吗"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "那你的奶奶有什么突出的方面吗？"
+  - text: "对啊，前置和后置太少的时候，骨架是可用形成的，但是很难有层次感。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "我奶奶腰间盘突出。"
+  - text: "没有层次感，就很难形成打怪通关的那种情景。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "……"
+  - text: "太复杂的层次肯定无法形成。最多是梗和运用到的作品这样一对一的关系"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "孔子是春秋时期鲁国人……（还没讲完）"
+  - text: "稍稍复杂一些的就是比如《幸运星》这种大量使用其他作品梗的情况，可能就有前后置"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "老师，那孔子在夏天和冬天是哪国人啊？"
+  - text: "让大家围绕一些梗去做 UGC，这个提问倒是可以收集许多知识片，但是试图把这些知识碎片“集成”为一个好玩有趣的整体时，就有点小阻碍。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "滚出去！"
+  - text: "哦，还有这样一部作品？"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "你为什么要趴在桌子上睡觉？"
+  - text: "有呀"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "老师，能躺的话，谁愿意趴着睡啊！"
+  - text: "接下来的几个月里，我都要努力去想，借助何种思路脉络，可以形成输入端收集大量知识碎片，输出端（辅以有限的人力审阅）能形成某种好玩的效果，靠这种方法去吸引更多用户进来贡献内容。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "滚出去！"
+  - text: "像你说的这种情况，我头脑中第一反应是，可以给这个作品做一些特别的上下文标记，把其中的梗关联到老动画的截图上。这样也算是一种集成。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "夏实"
   sentences:
-  - text: "知道为什么叫你站起来回答问题吗？"
+  - text: "对"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "小明"
+- npc: "吴笛"
   sentences:
-  - text: "因为站起来说话不腰疼！"
+  - text: "当然这只是一种策略，另一种策略就是为 DIY 的人或团体提供我们的高效文本/媒体处理工具。"
     speed: 16
     style:
       display: block
       margin-top: 16px
     delay: 500
   clear: false
-- npc: "老师"
+- npc: "吴笛"
   sentences:
-  - text: "滚出去！"
+  - text: "比如说。。。你稍等十分钟，我也休息一下，回头继续聊。"
     speed: 16
     style:
       display: block

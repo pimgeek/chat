@@ -1,0 +1,289 @@
+npcs:
+  - id: "肖少富"
+    name: 老师
+    avatar: http://img.teamkn.com/i/mYGkqJwE.png@100w_100h_1e_1c.png
+  - id: "吴笛"
+    name: 小明
+    avatar: http://img.teamkn.com/i/B5VSfH2U.png@100w_100h_1e_1c.png
+
+scripts:
+scripts:
+- npc: "吴笛"
+  sentences:
+  - text: "这样就 OK~"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "肖少富"
+  sentences:
+  - text: "更新下吧"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: '162935'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "肖少富"
+  sentences:
+  - text: "好的"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: ok?
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "肖少富"
+  sentences:
+  - text: available?163754
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "肖少富"
+  sentences:
+  - text: "你看看能不能写出  吴笛 2015/2/15 152155  "
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "已经对部分聊天记录正常工作了"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "肖少富"
+  sentences:
+  - text: "上面这个就有点问题。你试试看"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "一定 要这样才行"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "否则 很难控制 "
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "要换行 "
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "肖少富"
+  sentences:
+  - text: "你为何不用 ^ 限制行首匹配？"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "肖少富"
+  sentences:
+  - text: "已经用了"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "肖少富"
+  sentences:
+  - text: "^[\\u4E00-\\u9FA5\\w]+[\\s][\\d{4}\\/\\d{1,2}\\/\\d{1,2} \\d{2}\\d{2}\\d{2}]{1,}"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "不是已经用了嘛"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "肖少富"
+  sentences:
+  - text: "前面 [\\u4E00-\\u9FA5\\w]+ 这一段，我建议修改"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "肖少富"
+  sentences:
+  - text: "我会用 [^\\n ]+ 来代替"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "肖少富"
+  sentences:
+  - text: "不准出现 \\n\\s 这些字符，这样才好弄。"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "用户名里一般也不会出现换行和空格吧？"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "你看看能不能写出  吴笛 2015/2/15 152155  这个的正则表达 而且行尾也可以加 $ 限制啊"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "更新下"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "[^\\n ]+ 这个是匹配什么 "
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "后面直接就不匹配，会减少一些错误。"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "肖少富"
+  sentences:
+  - text: "啊，我自己写的那种正则匹配，你就参考一下，不要完全搬用。"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "肖少富"
+  sentences:
+  - text: "更新下"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "肖少富"
+  sentences:
+  - text: "我是问你这个是干嘛的，不是要去搬用你的"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "[^\\n ]+ 这个是指 换行符和空格符之外所有字符"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "如果 15:21:55"
+  sentences:
+  - text: "更新下"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "更新下"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "肖少富"
+  sentences:
+  - text: "更新下"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
