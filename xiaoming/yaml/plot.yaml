@@ -7,280 +7,1219 @@ npcs:
     avatar: http://img.teamkn.com/i/B5VSfH2U.png@100w_100h_1e_1c.png
 
 scripts:
-scripts:
-- npc: "吴笛"
+- npc: Mr. David
   sentences:
-  - text: "这样就 OK~"
+  - text: "# This is a comment=beginThis is a multiline commentNo-one uses themYou
+      shouldn't either=end"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "肖少富"
+- npc: Mr. David
   sentences:
-  - text: "更新下吧"
+  - text: "# First and foremost Everything is an object."
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "吴笛"
+- npc: Mr. David
   sentences:
-  - text: '162935'
+  - text: '# Numbers are objects3.class #=> Fixnum3.to_s #=> "3"'
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "肖少富"
+- npc: Mr. David
   sentences:
-  - text: "好的"
+  - text: "# Some basic arithmetic1 + 1 #=> 28 - 1 #=> 710  2 #=> 2035 / 5 #=> 725
+      #=> 32"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "吴笛"
+- npc: Mr. David
   sentences:
-  - text: ok?
+  - text: "# Arithmetic is just syntactic sugar"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "肖少富"
+- npc: Mr. David
   sentences:
-  - text: available?163754
+  - text: "# for calling a method on an object1.+(3) #=> 410. 5 #=> 50"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "肖少富"
+- npc: Mr. David
   sentences:
-  - text: "你看看能不能写出  吴笛 2015/2/15 152155  "
+  - text: "# Special values are objectsnil # Nothing to see heretrue # truthfalse
+      # falsehoodnil.class #=> NilClasstrue.class #=> TrueClassfalse.class #=> FalseClass"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "吴笛"
+- npc: Mr. David
   sentences:
-  - text: "已经对部分聊天记录正常工作了"
+  - text: "# Equality1 == 1 #=> true2 == 1 #=> false"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "肖少富"
+- npc: Mr. David
   sentences:
-  - text: "上面这个就有点问题。你试试看"
+  - text: "# Inequality1 != 1 #=> false2 != 1 #=> true!true  #=> false!false #=> true"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "吴笛"
+- npc: Mr. David
   sentences:
-  - text: "一定 要这样才行"
+  - text: "# apart from false itself, nil is the only other 'falsey' value!nil   #=>
+      true!false #=> true!0     #=> false"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "吴笛"
+- npc: Mr. David
   sentences:
-  - text: "否则 很难控制 "
+  - text: "# More comparisons1 < 10 #=> true1 > 10 #=> false2 <= 2 #=> true2 >= 2
+      #=> true"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "吴笛"
+- npc: Mr. David
   sentences:
-  - text: "要换行 "
+  - text: '# Strings are objects''I am a string''.class #=> String"I am a string too".class
+      #=> Stringplaceholder = ''use string interpolation''"I can #{placeholder} when
+      using double quoted strings"'
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "肖少富"
+- npc: Mr. David
   sentences:
-  - text: "你为何不用 ^ 限制行首匹配？"
+  - text: '#=> "I can use string interpolation when using double quoted strings"'
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "肖少富"
+- npc: Mr. David
   sentences:
-  - text: "已经用了"
+  - text: "# Prefer single quoted strings to double quoted ones where possible"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "肖少富"
+- npc: Mr. David
   sentences:
-  - text: "^[\\u4E00-\\u9FA5\\w]+[\\s][\\d{4}\\/\\d{1,2}\\/\\d{1,2} \\d{2}\\d{2}\\d{2}]{1,}"
+  - text: "# Double quoted strings perform additional inner calculations"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "吴笛"
+- npc: Mr. David
   sentences:
-  - text: "不是已经用了嘛"
+  - text: '# Combine strings, but not with numbers''hello '' + ''world''  #=> "hello
+      world"''hello '' + 3 #=> TypeError can''t convert Fixnum into String''hello
+      '' + 3.to_s #=> "hello 3"'
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "肖少富"
+- npc: Mr. David
   sentences:
-  - text: "前面 [\\u4E00-\\u9FA5\\w]+ 这一段，我建议修改"
+  - text: '# print to the outputputs "I''m printing!"'
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "肖少富"
+- npc: Mr. David
   sentences:
-  - text: "我会用 [^\\n ]+ 来代替"
+  - text: "# Variablesx = 25 #=> 25x #=> 25"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "肖少富"
+- npc: Mr. David
   sentences:
-  - text: "不准出现 \\n\\s 这些字符，这样才好弄。"
+  - text: "# Note that assignment returns the value assigned"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "吴笛"
+- npc: Mr. David
   sentences:
-  - text: "用户名里一般也不会出现换行和空格吧？"
+  - text: "# This means you can do multiple assignmentx = y = 10 #=> 10x #=> 10y #=>
+      10"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "吴笛"
+- npc: Mr. David
   sentences:
-  - text: "你看看能不能写出  吴笛 2015/2/15 152155  这个的正则表达 而且行尾也可以加 $ 限制啊"
+  - text: "# By convention, use snake_case for variable namessnake_case = true"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "吴笛"
+- npc: Mr. David
   sentences:
-  - text: "更新下"
+  - text: "# Use descriptive variable namespath_to_project_root = '/good/name/'path
+      = '/bad/name/'"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "吴笛"
+- npc: Mr. David
   sentences:
-  - text: "[^\\n ]+ 这个是匹配什么 "
+  - text: "# Symbols (are objects)"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "吴笛"
+- npc: Mr. David
   sentences:
-  - text: "后面直接就不匹配，会减少一些错误。"
+  - text: "# Symbols are immutable, reusable constants represented internally by an"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "肖少富"
+- npc: Mr. David
   sentences:
-  - text: "啊，我自己写的那种正则匹配，你就参考一下，不要完全搬用。"
+  - text: "# integer value. They're often used instead of strings to efficiently convey"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "肖少富"
+- npc: Mr. David
   sentences:
-  - text: "更新下"
+  - text: "# specific, meaningful valuespending.class #=> Symbolstatus = pendingstatus
+      == pending #=> truestatus == 'pending' #=> falsestatus == approved #=> false"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "肖少富"
+- npc: Mr. David
   sentences:
-  - text: "我是问你这个是干嘛的，不是要去搬用你的"
+  - text: "# Arrays"
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "吴笛"
+- npc: Mr. David
   sentences:
-  - text: "[^\\n ]+ 这个是指 换行符和空格符之外所有字符"
+  - text: "# This is an arrayarray = "
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "如果 15:21:55"
+- npc: 1, 2, 3, 4, 5
   sentences:
-  - text: "更新下"
+  - text: " #=> "
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "吴笛"
+- npc: 1, 2, 3, 4, 5
   sentences:
-  - text: "更新下"
+  - text: ''
     speed: 20
     style:
       display: block
       margin-top: 16px
     delay: 400
   clear: false
-- npc: "肖少富"
+- npc: Mr. David
   sentences:
-  - text: "更新下"
+  - text: "# Arrays can contain different types of items"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: 1, 'hello', false
+  sentences:
+  - text: " #=> "
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: 1, "hello", false
+  sentences:
+  - text: ''
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Arrays can be indexed"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# From the frontarray"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: '0'
+  sentences:
+  - text: " #=> 1array"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: '12'
+  sentences:
+  - text: " #=> nil"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Like arithmetic, "
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: var
+  sentences:
+  - text: " access"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# is just syntactic sugar"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# for calling a method "
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: ''
+  sentences:
+  - text: " on an objectarray."
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: ''
+  sentences:
+  - text: " 0 #=> 1array."
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: ''
+  sentences:
+  - text: " 12 #=> nil"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# From the endarray"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "-1"
+  sentences:
+  - text: " #=> 5"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# With a start index and lengtharray"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: 2, 3
+  sentences:
+  - text: " #=> "
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: 3, 4, 5
+  sentences:
+  - text: ''
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Or with a rangearray"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: 1..3
+  sentences:
+  - text: " #=> "
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: 2, 3, 4
+  sentences:
+  - text: ''
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Add to an array like thisarray << 6 #=> "
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: 1, 2, 3, 4, 5, 6
+  sentences:
+  - text: ''
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Hashes are Ruby's primary dictionary with keys/value pairs."
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Hashes are denoted with curly braceshash = { 'color' => 'green', 'number'
+      => 5 }hash.keys #=> "
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "'color', 'number'"
+  sentences:
+  - text: ''
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Hashes can be quickly looked up by keyhash"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "'color'"
+  sentences:
+  - text: " #=> 'green'hash"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "'number'"
+  sentences:
+  - text: " #=> 5"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Asking a hash for a key that doesn't exist returns nilhash"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "'nothing here'"
+  sentences:
+  - text: " #=> nil"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Since Ruby 1.9, there's a special syntax when using symbols as keysnew_hash
+      = { defcon 3, action true }new_hash.keys #=> "
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: defcon, action
+  sentences:
+  - text: ''
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Tip Both Arrays and Hashes are Enumerable"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# They share a lot of useful methods such as each, map, count, and more"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# Control structuresif true  ''if statement''elsif false  ''else if, optional''else  ''else,
+      also optional''endfor counter in 1..5  puts "iteration #{counter}"end'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#=> iteration 1"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#=> iteration 2"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#=> iteration 3"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#=> iteration 4"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#=> iteration 5"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# HOWEVER, No-one uses for loops."
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# Instead you should use the "each" method and pass it a block.'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# A block is a bunch of code that you can pass to a method like "each".'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# It is analogous to lambdas, anonymous functions or closures in other"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# programming languages."
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# The "each" method of a range runs the block once for each element of
+      the range.'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# The block is passed a counter as a parameter."
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# Calling the "each" method with a block looks like this(1..5).each do
+      |counter|  puts "iteration #{counter}"end'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#=> iteration 1"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#=> iteration 2"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#=> iteration 3"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#=> iteration 4"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#=> iteration 5"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# You can also surround blocks in curly brackets(1..5).each { |counter|
+      puts "iteration #{counter}" }'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# The contents of data structures can also be iterated using each.array.each
+      do |element|  puts "#{element} is part of the array"endhash.each do |key, value|  puts
+      "#{key} is #{value}"endcounter = 1while counter <= 5 do  puts "iteration #{counter}"  counter
+      += 1end'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#=> iteration 1"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#=> iteration 2"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#=> iteration 3"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#=> iteration 4"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "#=> iteration 5grade = 'B'case gradewhen 'A'  puts 'Way to go kiddo'when
+      'B'  puts 'Better luck next time'when 'C'  puts 'You can do better'when 'D'
+      \ puts 'Scraping through'when 'F'  puts 'You failed!'else  puts 'Alternative
+      grading system, eh?'end"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '#=> "Better luck next time"'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# cases can also use rangesgrade = 82case gradewhen 90..100  puts 'Hooray!'when
+      80...90  puts 'OK job'else  puts 'You failed!'end"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '#=> "OK job"'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# exception handlingbegin  # code here that might raise an exception  raise
+      NoMemoryError, 'You ran out of memory.'rescue NoMemoryError => exception_variable
+      \ puts 'NoMemoryError was raised', exception_variablerescue RuntimeError =>
+      other_exception_variable  puts 'RuntimeError was raised now'else   puts 'This
+      runs if no exceptions were thrown at all'ensure   puts 'This code always runs
+      no matter what'end"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Functionsdef double(x)  x  2end"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Functions (and all blocks) implicitly return the value of the last statementdouble(2)
+      #=> 4"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Parentheses are optional where the result is unambiguousdouble 3 #=>
+      6double double 3 #=> 12def sum(x, y)  x + yend"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Method arguments are separated by a commasum 3, 4 #=> 7sum sum(3, 4),
+      5 #=> 12"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# yield"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# All methods have an implicit, optional block parameter"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# it can be called with the 'yield' keyworddef surround  puts '{'  yield
+      \ puts '}'endsurround { puts 'hello world' }"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# {"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# hello world"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# }"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# You can pass a block to a function"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# "&" marks a reference to a passed blockdef guests(&block)  block.call
+      ''some_argument''end'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# You can pass a list of arguments, which will be converted into an array"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# That''s what splat operator ("") is fordef guests(array)  array.each
+      { |guest| puts guest }end'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# Define a class with the class keywordclass Human  # A class variable.
+      It is shared by all instances of this class.  species = ''H. sapiens''  # Basic
+      initializer  def initialize(name, age = 0)    # Assign the argument to the "name"
+      instance variable for the instance    name = name    # If no age given, we will
+      fall back to the default in the arguments list.    age = age  end  # Basic setter
+      method  def name=(name)    name = name  end  # Basic getter method  def name    name  end  #
+      The above functionality can be encapsulated using the attr_accessor method as
+      follows  attr_accessor name  # Getter/setter methods can also be created individually
+      like this  attr_reader name  attr_writer name  # A class method uses self to
+      distinguish from instance methods.  # It can only be called on the class, not
+      an instance.  def self.say(msg)    puts msg  end  def species    species  endend'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Instantiate a classjim = Human.new('Jim Halpert')dwight = Human.new('Dwight
+      K. Schrute')"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# Let''s call a couple of methodsjim.species #=> "H. sapiens"jim.name #=>
+      "Jim Halpert"jim.name = "Jim Halpert II" #=> "Jim Halpert II"jim.name #=> "Jim
+      Halpert II"dwight.species #=> "H. sapiens"dwight.name #=> "Dwight K. Schrute"'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# Call the class methodHuman.say(''Hi'') #=> "Hi"'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Variable's scopes are defined by the way we name them."
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# Variables that start with $ have global scope$var = "I''m a global var"defined?
+      $var #=> "global-variable"'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# Variables that start with  have instance scopevar = "I''m an instance
+      var"defined? var #=> "instance-variable"'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# Variables that start with  have class scopevar = "I''m a class var"defined?
+      var #=> "class variable"'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: '# Variables that start with a capital letter are constantsVar = "I''m a
+      constant"defined? Var #=> "constant"'
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Class is also an object in ruby. So class can have instance variables."
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Class variable is shared among the class and all of its descendants."
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# base classclass Human  foo = 0  def self.foo    foo  end  def self.foo=(value)
+      \   foo = value  endend"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# derived classclass Worker < HumanendHuman.foo # 0Worker.foo # 0Human.foo
+      = 2 # 2Worker.foo # 2"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Class instance variable is not shared by the class's descendants.class
+      Human  bar = 0  def self.bar    bar  end  def self.bar=(value)    bar = value
+      \ endendclass Doctor < HumanendHuman.bar # 0Doctor.bar # nilmodule ModuleExample
+      \ def foo    'foo'  endend"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Including modules binds their methods to the class instances"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Extending modules binds their methods to the class itselfclass Person
+      \ include ModuleExampleendclass Book  extend ModuleExampleendPerson.foo     #
+      => NoMethodError undefined method `foo' for PersonClassPerson.new.foo # => 'foo'Book.foo
+      \      # => 'foo'Book.new.foo   # => NoMethodError undefined method `foo'"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: Mr. David
+  sentences:
+  - text: "# Callbacks are executed when including and extending a modulemodule ConcernExample
+      \ def self.included(base)    base.extend(ClassMethods)    base.send(include,
+      InstanceMethods)  end  module ClassMethods    def bar      'bar'    end  end
+      \ module InstanceMethods    def qux      'qux'    end  endendclass Something
+      \ include ConcernExampleendSomething.bar     # => 'bar'Something.qux     # =>
+      NoMethodError undefined method `qux'Something.new.bar # => NoMethodError undefined
+      method `bar'Something.new.qux # => 'qux'"
     speed: 20
     style:
       display: block

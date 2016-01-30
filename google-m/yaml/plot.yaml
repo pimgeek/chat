@@ -34,7 +34,7 @@ scripts:
       speed: 20
       delay: 500
       linebreak: false
-    - text: 既然我们主要讲 Google 搜索，那为什么在图中看到的却是 “AOL Search” 呢？
+    - text: 既然我们主要讲 Google 搜索，那为什么在图中看到的却是另一个搜索引擎呢？
       speed: 20
       style:
         display: block
@@ -43,7 +43,7 @@ scripts:
     clear: false
   - npc: ma
     sentences:
-    - text: 这个主要是因为 Google 的官方网站在大陆地区被屏蔽而不能直接访问啦。实际上 AOL Search 也是由 Google 搜索引擎支持的，所以可做为 Google 的替代方案。
+    - text: 这个主要是因为 Google 的官方网站在大陆地区被屏蔽而不能直接访问啦。实际上搜索引擎 也是由 Google 搜索引擎支持的，所以可做为 Google 的替代方案。
       speed: 20
       delay: 900
     clear: false
@@ -54,7 +54,7 @@ scripts:
     clear: false
   - npc: ma
     sentences:
-    - text: 接下来就让我们打开 AOL Search，一边操作一边讲解。
+    - text: 接下来就让我们打开搜索引擎主界面，一边操作一边讲解。
       speed: 20
       delay: 900
     clear: false
@@ -69,9 +69,9 @@ scripts:
     - text: 请在你的网页浏览器地址栏中输入这个网址：
       speed: 20
       delay: 800
-    - text: http://search.aol.co.uk
+    - text: https://www.souguge.info/
       speed: 20
-      link: http://search.aol.co.uk
+      link: https://www.souguge.info/
       style:
         line-height: 48px
       delay: 800
@@ -86,7 +86,7 @@ scripts:
       delay: 800
     - image: http://img.teamkn.com/i/C8ZhkRw3.png@300w.png
       delay: 800
-    - text: AOL Search 就这样出现在眼前了。
+    - text: 搜索引擎就这样出现在眼前了。
       speed: 20
       style:
         display: block
@@ -94,7 +94,7 @@ scripts:
     clear: false
   - npc: qu
     sentences:
-    - text: 嗯我懂了~ 只要收藏这个网址，就可以随时打开 AOL Search！
+    - text: 嗯我懂了~ 只要收藏这个网址，就可以随时打开搜索引擎！
       speed: 20
       delay: 800
     clear: false
@@ -106,7 +106,7 @@ scripts:
   # 首先，完成一项最简单的搜索任务
   - npc: ma
     sentences:
-    - text: 接下来，我们对 AOL Search 发出一个简单指令，把它的搜索功能开动起来！
+    - text: 接下来，我们对搜索引擎 发出一个简单指令，把它的搜索功能开动起来！
       speed: 20
       style:
         display: block
@@ -139,13 +139,13 @@ scripts:
       speed: 20
       delay: 800
       linebreak: false
-    - text: 以后我就可以用 AOL Search 去查找与节目相关的资料了。
+    - text: 以后我就可以用搜索引擎 去查找与节目相关的资料了。
       speed: 20
     clear: false
   # 再次，引出搜索提示的概念
   - npc: ma
     sentences:
-    - text: 在输入待搜索词语的时候，AOL Search 会试着猜出完整的词语或句子。
+    - text: 在输入待搜索词语的时候，搜索引擎 会试着猜出完整的词语或句子。
       speed: 20
       style:
         display: block
@@ -156,13 +156,13 @@ scripts:
     clear: false
   - npc: qu
     sentences:
-    - text: 看到了！只要输入“奔跑”两个字，AOL Search 就会猜出“奔跑吧兄弟”。
+    - text: 看到了！只要输入“奔跑”两个字，搜索引擎 就会猜出“奔跑吧兄弟”。
       speed: 20
     clear: false
   # 第四，引出算术题计算类型的搜索
   - npc: ma
     sentences:
-    - text: 不仅是查资料，我们还可以利用 AOL Search 做简单的数字计算呢！
+    - text: 不仅是查资料，我们还可以利用搜索引擎 做简单的数字计算呢！
       speed: 20
       style:
         display: block
@@ -230,7 +230,7 @@ scripts:
   # 第六，引出限定域名的搜索
   - npc: ma
     sentences:
-    - text: AOL Search 的搜索功能，如果不加限制，就是针对整个互联网来搜的。
+    - text:搜索引擎 的搜索功能，如果不加限制，就是针对整个互联网来搜的。
       speed: 20
       linebreak: false
       delay: 500
@@ -240,7 +240,7 @@ scripts:
     clear: false
   - npc: qu
     sentences:
-    - text: 让我思考一下…… 可不可以告诉 AOL Search，让它只针对某个具体网站做搜索呢？
+    - text: 让我思考一下…… 可不可以告诉搜索引擎，让它只针对某个具体网站做搜索呢？
       speed: 20
     clear: false
   - npc: ma
@@ -379,7 +379,7 @@ scripts:
   # 第九，引出搜索要求的逻辑关系问题
   - npc: ma
     sentences:
-    - text: 利用 AOL Search 的逻辑操作，还可以实现更细致的搜索效果。
+    - text: 利用搜索引擎 的逻辑操作，还可以实现更细致的搜索效果。
       speed: 20
       linebreak: false
       delay: 500
@@ -394,7 +394,7 @@ scripts:
     clear: false
   - npc: ma
     sentences:
-    - text: 小马老师在 AOL Search 的输入框里写下了这样一段内容：
+    - text: 小马老师在搜索引擎 的输入框里写下了这样一段内容：
       speed: 20
       style:
         display: block
