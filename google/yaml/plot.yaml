@@ -71,9 +71,9 @@ scripts:
     - text: 请在你的网页浏览器地址栏中输入这个网址：
       speed: 20
       delay: 800
-    - text: https://www.souguge.info/
+    - text: https://www.psea.in/
       speed: 20
-      link: https://www.souguge.info/
+      link: https://www.psea.in/
       style:
         line-height: 48px
       delay: 800
