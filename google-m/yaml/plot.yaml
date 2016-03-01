@@ -230,7 +230,7 @@ scripts:
   # 第六，引出限定域名的搜索
   - npc: ma
     sentences:
-    - text:搜索引擎 的搜索功能，如果不加限制，就是针对整个互联网来搜的。
+    - text: 搜索引擎 的搜索功能，如果不加限制，就是针对整个互联网来搜的。
       speed: 20
       linebreak: false
       delay: 500
