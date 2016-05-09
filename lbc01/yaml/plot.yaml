@@ -1,0 +1,118 @@
+npcs:
+  - id: "李博超"
+    name: 李博超
+    avatar: http://i.teamkn.com/i/IyuvIgoJ.png?imageMogr2/thumbnail/100x
+  - id: "吴笛"
+    name: 吴笛
+    avatar: http://img.teamkn.com/i/B5VSfH2U.png@100w_100h_1e_1c.png
+    direction: right
+
+scripts:
+- npc: "李博超"
+  sentences:
+  - text: "邹彩虹说 一天80的补贴啥意思她说你以前就是这么报销的 机票 + 一天80补贴。。 "
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "可能是出差时的补贴，这个月就能报吗？我不在北京这个月也不好弄啊"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "李博超"
+  sentences:
+  - text: "不知道 我先把通用报销忙完"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "把每月常规的先报完"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "李博超"
+  sentences:
+  - text: "嗯 这个应该可以跨月我说等吴笛回来一起报行不，她说行没说这个月必须报销"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "对的。你只关心你自己的常规报销和出差报销，然后关心一下陈啸峰和我的常规报销。"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "发票什么的整理得差不多了吗，需要我填写 ERP 吗？"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "李博超"
+  sentences:
+  - text: "待会 等半个小时我叫你 "
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "下班之前找我吧。"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "李博超"
+  sentences:
+  - text: "好 肯定的 "
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "吴笛"
+  sentences:
+  - text: "可以填写了"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
+- npc: "李博超"
+  sentences:
+  - text: "把单据拍照发给我对照一下"
+    speed: 20
+    style:
+      display: block
+      margin-top: 16px
+    delay: 400
+  clear: false
