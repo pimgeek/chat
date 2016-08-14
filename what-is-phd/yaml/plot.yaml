@@ -1,7 +1,7 @@
 npcs:
   - id: Matt 教授
     name: Matt 教授
-    avatar: http://img.teamkn.com/i/aIK0sfW9.png@100w_100h_1e_1c.png
+    avatar: http://pimfans.oss-cn-beijing.aliyuncs.com/icourse/chat/what-is-phd/aik0sfw9.png
 
 scripts:
 # 开始讲人类知识的大图
@@ -35,7 +35,7 @@ scripts:
       margin-top: 16px
     linebreak: false
     delay: 600
-  - image: http://img.teamkn.com/i/eUGEXNaY.png@640w.png
+  - image: http://pimfans.oss-cn-beijing.aliyuncs.com/icourse/chat/what-is-phd/eugexnay.png
     style:
       display: block
       margin-top: 16px
@@ -50,7 +50,7 @@ scripts:
       display: block
       margin-top: 16px
     delay: 600
-  - image: http://img.teamkn.com/i/kiMovQDS.png@640w.png
+  - image: http://pimfans.oss-cn-beijing.aliyuncs.com/icourse/chat/what-is-phd/kimovqds.png
     style:
       display: block
       margin-top: 16px
@@ -65,7 +65,7 @@ scripts:
       display: block
       margin-top: 16px
     delay: 600
-  - image: http://img.teamkn.com/i/E5FflP6v.png@640w.png
+  - image: http://pimfans.oss-cn-beijing.aliyuncs.com/icourse/chat/what-is-phd/e5fflp6v.png
     style:
       display: block
       margin-top: 16px
@@ -80,7 +80,7 @@ scripts:
       display: block
       margin-top: 16px
     delay: 600
-  - image: http://img.teamkn.com/i/IQCUcYar.png@640w.png
+  - image: http://pimfans.oss-cn-beijing.aliyuncs.com/icourse/chat/what-is-phd/iqcucyar.png
     style:
       display: block
       margin-top: 16px
@@ -95,7 +95,7 @@ scripts:
       display: block
       margin-top: 16px
     delay: 600
-  - image: http://img.teamkn.com/i/P40ze0YL.png@640w.png
+  - image: http://pimfans.oss-cn-beijing.aliyuncs.com/icourse/chat/what-is-phd/p40ze0yl.png
     style:
       display: block
       margin-top: 16px
@@ -110,7 +110,7 @@ scripts:
       display: block
       margin-top: 16px
     delay: 600
-  - image: http://img.teamkn.com/i/zzdnSQCC.png@640w.png
+  - image: http://pimfans.oss-cn-beijing.aliyuncs.com/icourse/chat/what-is-phd/zzdnsqcc.png
     style:
       display: block
       margin-top: 16px
@@ -125,7 +125,7 @@ scripts:
       display: block
       margin-top: 16px
     delay: 600
-  - image: http://img.teamkn.com/i/s6EILUjC.png@640w.png
+  - image: http://pimfans.oss-cn-beijing.aliyuncs.com/icourse/chat/what-is-phd/s6eilujc.png
     style:
       display: block
       margin-top: 16px
@@ -140,7 +140,7 @@ scripts:
       display: block
       margin-top: 16px
     delay: 600
-  - image: http://img.teamkn.com/i/Td6bwjhR.png@640w.png
+  - image: http://pimfans.oss-cn-beijing.aliyuncs.com/icourse/chat/what-is-phd/td6bwjhr.png
     style:
       display: block
       margin-top: 16px
@@ -155,7 +155,7 @@ scripts:
       display: block
       margin-top: 16px
     delay: 600
-  - image: http://img.teamkn.com/i/K5lbkJx0.png@640w.png
+  - image: http://pimfans.oss-cn-beijing.aliyuncs.com/icourse/chat/what-is-phd/k5lbkjx0.png
     style:
       display: block
       margin-top: 16px
@@ -170,7 +170,7 @@ scripts:
       display: block
       margin-top: 16px
     delay: 600
-  - image: http://img.teamkn.com/i/bJmUZ4IZ.png@640w.png
+  - image: http://pimfans.oss-cn-beijing.aliyuncs.com/icourse/chat/what-is-phd/bjmuz4iz.png
     style:
       display: block
       margin-top: 16px
@@ -185,7 +185,7 @@ scripts:
       display: block
       margin-top: 16px
     delay: 600
-  - image: http://img.teamkn.com/i/dA5nvHDo.png@640w.png
+  - image: http://pimfans.oss-cn-beijing.aliyuncs.com/icourse/chat/what-is-phd/da5nvhdo.png
     style:
       display: block
       margin-top: 16px
@@ -200,7 +200,7 @@ scripts:
       display: block
       margin-top: 16px
     delay: 600
-  - image: http://img.teamkn.com/i/QSfnPbep.png@640w.png
+  - image: http://pimfans.oss-cn-beijing.aliyuncs.com/icourse/chat/what-is-phd/qsfnpbep.png
     style:
       display: block
       margin-top: 16px
@@ -231,7 +231,7 @@ scripts:
       display: block
       margin-top: 16px
     delay: 500
-  - image: http://img.teamkn.com/i/AHnehqzE.png@640w.png
+  - image: http://pimfans.oss-cn-beijing.aliyuncs.com/icourse/chat/what-is-phd/ahnehqze.png
     style:
       display: block
       margin-top: 16px
@@ -299,7 +299,7 @@ scripts:
       color: lightblue
       margin-bottom: 16px
     delay: 500
-  - image: http://img.teamkn.com/i/H8Z7tdRS.png@300w.png
+  - image: http://pimfans.oss-cn-beijing.aliyuncs.com/pimgeek/profile/pimgeek-avatar.png
     delay: 500
   - text: 作者：
     speed: 40
@@ -309,7 +309,7 @@ scripts:
       margin-bottom: 16px
     linebreak: false
     delay: 500
-  - text: pimgeek (@石酷)
+  - text: pimgeek (@pimgeek_)
     link: http://weibo.com/scrutiny1
     speed: 40
     style:
