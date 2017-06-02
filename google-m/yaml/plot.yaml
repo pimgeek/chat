@@ -69,9 +69,9 @@ scripts:
     - text: 请在你的网页浏览器地址栏中输入这个网址：
       speed: 20
       delay: 800
-    - text: https://www.souguge.net/
+    - text: https://search.aol.com/
       speed: 20
-      link: https://www.souguge.net/
+      link: https://search.aol.com/
       style:
         line-height: 48px
       delay: 800
