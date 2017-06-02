@@ -43,7 +43,7 @@ scripts:
     clear: false
   - npc: ma
     sentences:
-    - text: 这个主要是因为 Google 的官方网站在大陆地区被屏蔽而不能直接访问啦。实际上截图中的搜索引擎 也是由 Google 搜索引擎支持的，所以可做为 Google 的替代方案。
+    - text: 这个主要是因为 Google 的官方网站在大陆地区被屏蔽而不能直接访问啦。实际上刚刚在图中看到的搜索引擎也是由 Google 搜索引擎支持的，所以可做为 Google 的替代方案。
       speed: 20
       delay: 900
     clear: false
