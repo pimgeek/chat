@@ -45,7 +45,7 @@ scripts:
     clear: false
   - npc: ma
     sentences:
-    - text: 这个主要是因为 Google 的官方网站在大陆地区被屏蔽而不能直接访问啦。实际上 搜索引擎 也是由 Google 搜索引擎支持的，所以可做为 Google 的替代方案。
+    - text: 这个主要是因为 Google 的官方网站在大陆地区被屏蔽而不能直接访问啦。实际上刚刚在图中看到的搜索引擎也是由 Google 搜索引擎支持的，所以可做为 Google 的替代方案。
       speed: 20
       delay: 900
     clear: false
@@ -71,9 +71,9 @@ scripts:
     - text: 请在你的网页浏览器地址栏中输入这个网址：
       speed: 20
       delay: 800
-    - text: https://www.souguge.net/
+    - text: https://search.aol.com/
       speed: 20
-      link: https://www.souguge.net/
+      link: https://search.aol.com/
       style:
         line-height: 48px
       delay: 800
@@ -88,7 +88,7 @@ scripts:
       delay: 800
     - image: http://img.teamkn.com/i/SPuY3N13.png@500w.png
       delay: 800
-    - text: 搜索引擎 就这样出现在眼前了。
+    - text:搜索引擎就这样出现在眼前了。
       speed: 20
       style:
         display: block
@@ -108,7 +108,7 @@ scripts:
   # 首先，完成一项最简单的搜索任务
   - npc: ma
     sentences:
-    - text: 接下来，我们对 搜索引擎 发出一个简单指令，把它的搜索功能开动起来！
+    - text: 接下来，我们对搜索引擎发出一个简单指令，把它的搜索功能开动起来！
       speed: 20
       style:
         display: block
@@ -141,7 +141,7 @@ scripts:
       speed: 20
       delay: 800
       linebreak: false
-    - text: 以后我就可以用 搜索引擎 去查找与节目相关的资料了。
+    - text: 以后我就可以用搜索引擎去查找与节目相关的资料了。
       speed: 20
     clear: false
   # 再次，引出历史名人的名号搜索
@@ -164,7 +164,7 @@ scripts:
   # 第四，引出算术题计算类型的搜索
   - npc: ma
     sentences:
-    - text: 不仅是查资料，我们还可以利用 搜索引擎 做简单的数字计算呢！
+    - text: 不仅是查资料，我们还可以利用搜索引擎做简单的数字计算呢！
       speed: 20
       style:
         display: block
@@ -232,7 +232,7 @@ scripts:
   # 第六，引出限定域名的搜索
   - npc: ma
     sentences:
-    - text: 搜索引擎 的搜索功能，如果不加限制，就是针对整个互联网来搜的。
+    - text:搜索引擎的搜索功能，如果不加限制，就是针对整个互联网来搜的。
       speed: 20
       linebreak: false
       delay: 500
@@ -381,7 +381,7 @@ scripts:
   # 第九，引出搜索要求的逻辑关系问题
   - npc: ma
     sentences:
-    - text: 利用 搜索引擎 的逻辑操作，还可以实现更细致的搜索效果。
+    - text: 利用搜索引擎的逻辑操作，还可以实现更细致的搜索效果。
       speed: 20
       linebreak: false
       delay: 500
@@ -396,7 +396,7 @@ scripts:
     clear: false
   - npc: ma
     sentences:
-    - text: 小马老师在 搜索引擎 的输入框里写下了这样一段内容：
+    - text: 小马老师在搜索引擎的输入框里写下了这样一段内容：
       speed: 20
       style:
         display: block
