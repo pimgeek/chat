@@ -1,0 +1,79 @@
+npcs:
+  - id: dama1
+    name: DAMA
+    direction: left
+    avatar: https://pimfans.hintsnet.com/qna/20190404/dbBdqXcOLwD3.png?imageView2/2/w/200/.png
+  - id: alice
+    name: Alice
+    direction: left
+    avatar: https://pimfans.hintsnet.com/qna/20190404/qyWhOhgW2nzl.png?imageView2/2/w/200/.png
+  - id: dama2
+    name: Teacher
+    direction: right
+    avatar: https://pimfans.hintsnet.com/qna/20190404/BWrJACEKcHw7.png?imageView2/2/w/200/.png
+  - id: cathy
+    name: Cathy
+    direction: left
+    avatar: https://pimfans.hintsnet.com/qna/20190404/Tc3nuQ3H2X9p.png?imageView2/2/w/200/.png
+  - id: daniel
+    name: Daniel
+    direction: right
+    avatar: https://pimfans.hintsnet.com/qna/20190404/i64xnBLcI75x.png?imageView2/2/w/200/.png
+  - id: bruce
+    name: Bruce
+    direction: left
+    avatar: https://pimfans.hintsnet.com/qna/20190404/vm3Y6u7DTg29.png?imageView2/2/w/200/.png
+  - id: azeril
+    name: Azeril
+    direction: right
+    avatar: https://pimfans.hintsnet.com/qna/20190404/PAGzdwTSovRz.png?imageView2/2/w/200/.png
+
+scripts:
+  - npc: dama1
+    sentences:
+    - text: 我是 Python 开发者 DAMA，欢迎来到蟒营！
+      speed: 20
+  - npc: alice
+    sentences:
+    - text: 零基础小白，也可以报名吗？
+      speed: 20
+      delay: 500
+    clear: false
+  - npc: dama2
+    sentences:
+    - text: 蟒营就是为零基础和基础相对薄弱的同学，量身设计的课程。每周挤出 10 小时私人时间，从编程基础到做项目，从模仿轮子再到造轮子，最后与同学组成小团队完成最小 MVP。导师会从方法和思路上进行讲解，零基础也可以很快上手。
+      speed: 20
+    clear: false
+  - npc: cathy
+    sentences:
+    - text: 有一定的基础，但是没做过完整的作品，可以报名参加么？
+      speed: 20
+      delay: 500
+    clear: false
+  - npc: daniel
+    sentences:
+    - text: 当然可以，毕竟 蟒营 不是入职面试， 而是为了帮助没有编程经验的爱好者，设计的实战营，在这里正好可以完成自己第一个完整作品。重要的是，和更多相同状态的自学者一起。而且很可能用自己的积累帮助其它学员，在最后完成自己都无法相象的作品...
+      speed: 20
+    clear: false
+  - npc: bruce
+    sentences:
+    - text: 不打算做程序员，就想能自己倒腾点东西，应该上这课程嘛？
+      speed: 20
+      linebreak: false
+      delay: 500
+    clear: false
+  - npc: azeril
+    sentences:
+    - text: 必须的~ 蟒营课程现在都是入门班，仅仅入门并不能立即完成转行，要知道 IT 行业要求的各种领域经验都是指有具体项目 / 工程 / 软件 / 框架 / 成品的。刚入门，只是获得了能够自行积累出这类领域经验的素质。但是，这种综合素质却是最难养成的，即便是有关专业毕业生，如果没有机缘，也一样入不了一层天门。
+      style:
+        display: block
+        margin-bottom: 16px
+      speed: 20
+      delay: 800
+    - text: 请访问蟒营首页 - https://101.camp/
+      speed: 20
+      linebreak: false
+      link: https://101.camp/
+      style:
+        line-height: 48px
+    clear: false
