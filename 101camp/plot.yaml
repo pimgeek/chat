@@ -70,10 +70,12 @@ scripts:
         margin-bottom: 16px
       speed: 20
       delay: 800
-    - text: 请访问蟒营首页 - https://101.camp/
+    - text: 请访问蟒营首页 - 101.camp
       speed: 20
       linebreak: false
       link: https://101.camp/
       style:
         line-height: 48px
+    - image: https://pimfans.hintsnet.com/qna/20190404/3hNsGigEmE5g.png
+      delay: 300
     clear: false
