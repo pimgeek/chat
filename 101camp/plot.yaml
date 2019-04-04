@@ -69,7 +69,7 @@ scripts:
       delay: 300
     - image: https://pimfans.hintsnet.com/qna/20190404/3hNsGigEmE5g.png
       delay: 300
-    - text: 更多课程介绍参见蟒营首页 - 101.camp
+    - text: 蟒营首页 - 101.camp
       speed: 20
       linebreak: false
       delay: 300
