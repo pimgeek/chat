@@ -31,7 +31,7 @@ npcs:
 scripts:
   - npc: dama1
     sentences:
-    - text: 我是 Python 开发者 DAMA，欢迎来到蟒营！
+    - text: 我是 Python 开发者 DAMA，欢迎关注蟒营课程！
       speed: 20
   - npc: alice
     sentences:
