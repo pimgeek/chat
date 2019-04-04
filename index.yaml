@@ -1,7 +1,7 @@
 npcs:
   - id: pimgeek
-    name: 吴笛
-    avatar: http://img.teamkn.com/i/v0nwbWN1.png@100w_100h_1e_1c.png
+    name: pimgeek
+    avatar: https://pimfans.hintsnet.com/qna/20190404/9d3lXC32RIvJ.png
 
   # - id: qu
   #   name: 问号同学
@@ -11,11 +11,10 @@ scripts:
   # 开场白
   - npc: pimgeek
     sentences:
-    - image: http://img.teamkn.com/i/P36Zq0Mc.png@300w.png
+    - image: https://pimfans.hintsnet.com/qna/20190404/bIKuXJESRXRv.png
       delay: 800
     - text: 　
       delay: 0
-    - text: 欢迎访问对话泡泡知识库。
+    - text: 欢迎访问对话泡泡演示库。
       delay: 800
-
 
