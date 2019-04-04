@@ -65,17 +65,15 @@ scripts:
   - npc: azeril
     sentences:
     - text: 必须的~ 蟒营课程现在都是入门班，仅仅入门并不能立即完成转行，要知道 IT 行业要求的各种领域经验都是指有具体项目 / 工程 / 软件 / 框架 / 成品的。刚入门，只是获得了能够自行积累出这类领域经验的素质。但是，这种综合素质却是最难养成的，即便是有关专业毕业生，如果没有机缘，也一样入不了一层天门。
-      style:
-        display: block
-        margin-bottom: 16px
       speed: 20
-      delay: 800
-    - text: 请访问蟒营首页 - 101.camp
+      delay: 300
+    - image: https://pimfans.hintsnet.com/qna/20190404/3hNsGigEmE5g.png
+      delay: 300
+    - text: 更多课程介绍参见蟒营首页 - 101.camp
       speed: 20
       linebreak: false
+      delay: 300
       link: https://101.camp/
       style:
         line-height: 48px
-    - image: https://pimfans.hintsnet.com/qna/20190404/3hNsGigEmE5g.png
-      delay: 300
     clear: false
