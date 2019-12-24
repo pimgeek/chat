@@ -1,7 +1,7 @@
 npcs:
   - id: Matt 教授
     name: Matt 教授
-    avatar: http://pimfans.oss-cn-beijing.aliyuncs.com/icourse/chat/what-is-phd/aik0sfw9.png
+    avatar: https://pimfans.hintsnet.com/picgo/20191224134409.png
 
 scripts:
 # 开始讲人类知识的大图
@@ -18,7 +18,7 @@ scripts:
     style:
       display: block
       margin-top: 16px
-    delay: 600
+    delay: -1
 - npc: Matt 教授
   sentences:
   - text: "假设人类所有的知识，就是一个圆。"
@@ -291,14 +291,6 @@ scripts:
       color: lightgreen
       margin-bottom: 16px
     delay: 500
-  - text: —— MINDPIN 趣味工具开发组
-    link: http://www.mindpin.com
-    speed: 40
-    style:
-      font-weight: bold
-      color: lightblue
-      margin-bottom: 16px
-    delay: 500
   - image: http://pimfans.oss-cn-beijing.aliyuncs.com/pimgeek/profile/pimgeek-avatar.png
     delay: 500
   - text: 作者：
@@ -309,8 +301,8 @@ scripts:
       margin-bottom: 16px
     linebreak: false
     delay: 500
-  - text: pimgeek (@pimgeek_)
-    link: http://weibo.com/scrutiny1
+  - text: pimgeek
+    link: https://hintsnet.com/pimgeek/
     speed: 40
     style:
       font-weight: bold
@@ -356,8 +348,8 @@ scripts:
   - text: ，
     delay: 0
     linebreak: false
-  - text: 讲述者头像来自 AHA-SOFT
-    link: http://www.aha-soft.com/cn/index.htm
+  - text: 讲述者头像来自 Pickaface.net
+    link: https://pickaface.net/avatar/123358/male+professor.html
     speed: 40
     style:
       font-weight: bold
