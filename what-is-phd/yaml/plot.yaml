@@ -248,7 +248,7 @@ scripts:
       display: block
       margin-top: 16px
     delay: -1
-  - text: "能够克服这一疾病的唯一途径就是科学，而实践科学的最佳方式就是交给研究生们去做。"
+  - text: "能够克服这一疾病的唯一途径就是科学，而实践科学的最佳方式就是交给研究生们去实践。"
     speed: 16
     style:
       display: block
@@ -348,6 +348,17 @@ scripts:
   - text: ，
     delay: 0
     linebreak: false
+  - text: 延伸阅读“一个衍生作品：全人类知识地图”
+    link: https://pimfans.hintsnet.com/picgo/what-is-phd-extended-polymath-human-knowledge-infographic.jpg
+    speed: 40
+    style:
+      font-weight: bold
+      color: lemonchiffon
+    linebreak: false
+    delay: 500
+  - text: ，
+    delay: 0
+    linebreak: false
   - text: 讲述者头像来自 Pickaface.net
     link: https://pickaface.net/avatar/123358/male+professor.html
     speed: 40
@@ -367,7 +378,7 @@ scripts:
     linebreak: false
     delay: 500
   - text: 知识共享 - 署名+非商业性使用 4.0 国际版
-    link: http://creativecommons.org/licenses/by-nc/4.0/
+    link: https://creativecommons.org/licenses/by-nc/4.0/deed.zh
     speed: 500
     delay: 500
   - image: https://i.creativecommons.org/l/by-nc/4.0/88x31.png
