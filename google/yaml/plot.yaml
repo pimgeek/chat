@@ -2,10 +2,10 @@ npcs:
   - id: ma
     name: 小马老师
     direction: left
-    avatar: http://img.teamkn.com/i/uK49MJ9E.png@100w_100h_1e_1c.png
+    avatar: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/uK49MJ9E.png@100w_100h_1e_1c.png
   - id: qu
     name: 问号同学
-    avatar: http://img.teamkn.com/i/D01dg9Lj.png@100w_100h_1e_1c.png
+    avatar: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/D01dg9Lj.png@100w_100h_1e_1c.png
     direction: right
 
 scripts:
@@ -18,7 +18,7 @@ scripts:
         display: block
         margin-bottom: 16px
       delay: 600
-    - image: http://img.teamkn.com/i/qqehXKWT.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/qqehXKWT.png
       delay: 800
     - text: 搜索引擎是一种信息获取工具，利用它可以快速获取互联网上含有特定词语/句子的文章或资料。
       speed: 20
@@ -77,7 +77,7 @@ scripts:
       style:
         line-height: 48px
       delay: 800
-    - image: http://img.teamkn.com/i/hJPJfney.png@500w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/hJPJfney.png@500w.png
       delay: 800
     - text: 然后按回车（Enter）键，稍等几秒钟……
       speed: 20
@@ -86,7 +86,7 @@ scripts:
         margin-top: 16px
         margin-bottom: 16px
       delay: 800
-    - image: http://img.teamkn.com/i/SPuY3N13.png@500w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/SPuY3N13.png@500w.png
       delay: 800
     - text: 搜索引擎就这样出现在眼前了。
       speed: 20
@@ -115,7 +115,7 @@ scripts:
         margin-bottom: 16px
       delay: 800
       linebreak: false
-    - image: http://img.teamkn.com/i/foypL5ht.png@500w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/foypL5ht.png@500w.png
       delay: 800
     clear: false
   - npc: qu
@@ -132,7 +132,7 @@ scripts:
         display: block
         margin-bottom: 16px
       delay: 800
-    - image: http://img.teamkn.com/i/lghzprM7.png@500w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/lghzprM7.png@500w.png
       delay: 800
     clear: false
   - npc: qu
@@ -153,7 +153,7 @@ scripts:
         display: block
         margin-bottom: 16px
       delay: 800
-    - image: http://img.teamkn.com/i/cIPDZAot.png@600w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/cIPDZAot.png@600w.png
       delay: 800
     clear: false
   - npc: qu
@@ -184,7 +184,7 @@ scripts:
         border-radius: 5px
         padding: 6px
       delay: 800
-    - image: http://img.teamkn.com/i/MiBiSddE.png@300w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/MiBiSddE.png@300w.png
       delay: 800
     clear: false
   - npc: qu
@@ -215,7 +215,7 @@ scripts:
         display: block
         margin-bottom: 16px
       delay: 600
-    - image: http://img.teamkn.com/i/yvqzJbkv.png@500w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/yvqzJbkv.png@500w.png
       delay: 800
     clear: false
   - npc: qu
@@ -273,7 +273,7 @@ scripts:
         display: block
         margin-bottom: 16px
       delay: 800
-    - image: http://img.teamkn.com/i/XBKr3iTC.png@500w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/XBKr3iTC.png@500w.png
       delay: 800
     clear: false
   - npc: qu
@@ -320,7 +320,7 @@ scripts:
         margin-top: 16px
         margin-bottom: 16px
       delay: 600
-    - image: http://img.teamkn.com/i/nAUeWcXS.png@500w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/nAUeWcXS.png@500w.png
       delay: 800
     - text: 你看，是不是很容易掌握呢？
       speed: 20
@@ -370,7 +370,7 @@ scripts:
       speed: 20
       linebreak: false
       delay: 600
-    - image: http://img.teamkn.com/i/JvviVDHu.png@500w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/JvviVDHu.png@500w.png
       delay: 800
     clear: false
   - npc: qu
@@ -434,7 +434,7 @@ scripts:
     clear: false
   - npc:
     sentences:
-    - image: http://img.teamkn.com/i/VmH6Pt1C.png@500w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/VmH6Pt1C.png@500w.png
     clear: false
   # 第十，给出练习题的答案之后，稍微讲解一下逻辑运算。
   - npc: ma
@@ -460,7 +460,7 @@ scripts:
         padding: 6px
         margin-bottom: 24px
       delay: 600
-    - image: http://img.teamkn.com/i/KoAjMFrt.png@500w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/KoAjMFrt.png@500w.png
     clear: false
   # 第十一，引出搜索技巧——减号限定法
   - npc: ma
@@ -500,7 +500,7 @@ scripts:
       speed: 20
       linebreak: false
       delay: 800
-    - image: http://img.teamkn.com/i/njMUW6A8.png@500w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/njMUW6A8.png@500w.png
     clear: false
   # 第十二，引出限定搜索结果扩展名的搜索技巧
   - npc: ma
@@ -542,7 +542,7 @@ scripts:
         padding: 6px
         margin-bottom: 24px
       delay: 800
-    - image: http://img.teamkn.com/i/Svkpzlky.png@500w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/Svkpzlky.png@500w.png
     clear: false
   # 第十三，教程收尾工作
   - npc: ma
@@ -578,7 +578,7 @@ scripts:
         font-size: 120%
         font-weight: bold
       delay: 800
-    - image: http://img.teamkn.com/i/jwsiE9Ls.png@500w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/jwsiE9Ls.png@500w.png
     clear: false
   - npc: qu
     sentences:
@@ -606,7 +606,7 @@ scripts:
         color: lightblue
         margin-bottom: 16px
       delay: 500
-    - image: http://img.teamkn.com/i/H8Z7tdRS.png@400w.png
+    - image: http://mindpin.img-cn-hangzhou.aliyuncs.com/i/H8Z7tdRS.png@400w.png
       delay: 500
     - text: 作者：
       speed: 40
